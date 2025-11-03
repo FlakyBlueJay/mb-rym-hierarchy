@@ -22,6 +22,8 @@ Go to the MusicBee folder in Roaming, and a "TagHierarchyTemplates" folder shoul
 ## Notes
 Since this is all done by hand, some entries might be missing or inaccurate, but it should be accurate from 15th June 2021 onwards, with the intention of regular updates. I also comment on what genres have been changed in every commit, in case people need to update their tags. Report any inaccuracies to either the issues page here, my Rate Your Music account or my socials (see profile)
 
+I have applied for access to RYM's genre dataset, in the hopes I am able to automate this process without accuracy issues in the future.
+
 ### Assigning Release Genres ("Entire album")
 For assigning genres to entire releases like RYM's release tagging, create a custom tag in MusicBee (Preferences --> Tags (1) --> Define New Tags) then fill your files with the relevant tags in the new custom tag. Then, if you want to use this tag hierarchy for entire releases rather than individual songs, replace album in the hierarchy with the identifier you chose for the release genre tag.
 If there's a "standard" custom tag RYM users want to use, I will happily make a template to accomodate this so it's as easy as copy-and-paste/drag-and-drop.
