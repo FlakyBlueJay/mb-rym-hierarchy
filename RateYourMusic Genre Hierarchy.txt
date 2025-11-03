@@ -592,6 +592,7 @@ Genres
                 Deathchant Hardcore::genre
                 Digital Hardcore::genre
                 Doomcore::genre
+                Frapcore::genre
                 Freeform Hardcore::genre
                 Frenchcore::genre
                 Gabber
@@ -1087,6 +1088,7 @@ Genres
                 Deathchant Hardcore::genre
                 Digital Hardcore::genre
                 Doomcore::genre
+                Frapcore::genre
                 Freeform Hardcore::genre
                 Frenchcore::genre
                 Gabber
@@ -1587,7 +1589,6 @@ Genres
                 Benna::genre
                 Bomba::genre
                 Fungi::genre
-                Garifuna Folk Music::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
                 Kitchen Dance Music::genre
@@ -3895,7 +3896,6 @@ Genres
                 Benna::genre
                 Bomba::genre
                 Fungi::genre
-                Garifuna Folk Music::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
                 Kitchen Dance Music::genre
@@ -3966,6 +3966,7 @@ Genres
                     Zouk::genre
                     Cabo-Zouk::genre
                     Zouk Love::genre
+            Garifuna Music::genre
             Goombay::genre
             Indo-Caribbean Music
                 Indo-Caribbean Music::genre
@@ -4031,7 +4032,7 @@ Genres
             Central American Music::genre
             Brukdown::genre
             Cumbia salvadoreña::genre
-            Garifuna Folk Music::genre
+            Garifuna Music::genre
             Palo de mayo::genre
             Punta::genre
             Purísima::genre
@@ -5058,6 +5059,7 @@ Genres
                 Tecnorumba::genre
         Indigenous American Music
             Indigenous American Music::genre
+            Garifuna Music::genre
             Indigenous American Traditional Music
                 Indigenous American Traditional Music::genre
                 Athabaskan Fiddling::genre
@@ -5804,7 +5806,6 @@ Genres
                 Benna::genre
                 Bomba::genre
                 Fungi::genre
-                Garifuna Folk Music::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
                 Kitchen Dance Music::genre
@@ -6963,6 +6964,7 @@ Scenes & Movements
     Chicago No Wave::genre
     Chicago School::genre
     Christian Hardcore::genre
+    Cleveland Punk::genre
     Clube da esquina::genre
     Cocktail Nation::genre
     Dariacore::genre
@@ -6990,6 +6992,7 @@ Scenes & Movements
     Florida Fast Music::genre
     Fort Thunder Scene::genre
     Franco-Flemish School::genre
+    Frapcore::genre
     Free Noise::genre
     French Hip Hop::genre
     Friese bries::genre
@@ -7140,6 +7143,7 @@ Scenes & Movements
             Vegan Straight Edge::genre
             H8000::genre
             Hardline::genre
+        Youth Crew::genre
     Swing Revival::genre
     T-Pop::genre
     Taqwacore::genre
@@ -7148,6 +7152,7 @@ Scenes & Movements
     The Wave::genre
     Tropicália::genre
     Tropicanibalismo::genre
+    Trova rosarina::genre
     Udigrudi::genre
     UK Hip Hop::genre
     UK82::genre
