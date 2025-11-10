@@ -3313,6 +3313,7 @@ Genres
                             Korean Revolutionary Opera::genre
                             Revolutionary Opera::genre
                         Shaoxing Opera::genre
+                        Sichuan Opera::genre
                         Yangzhou Opera::genre
                     Minyue::genre
                     Quyi::genre
@@ -3864,6 +3865,16 @@ Genres
                 Pop Batak::genre
             Igorot Music::genre
             Indigenous Taiwanese Music::genre
+            Javanese Music
+                Javanese Music::genre
+                Bantengan::genre
+                Campursari::genre
+                Javanese Gamelan
+                    Javanese Gamelan::genre
+                    Gamelan sekaten::genre
+                    Solonese Gamelan::genre
+                Kuda kepang::genre
+                Langgam Jawa::genre
             Malagasy Music
                 Malagasy Music::genre
                 Kalon'ny fahiny::genre
@@ -6929,7 +6940,9 @@ Scenes & Movements
     Anarcho-Punk::genre
     Asian Underground::genre
     Aussie Pub Rock::genre
+    Bay Area Thrash Metal::genre
     Beach Music::genre
+    Beijing New Sound::genre
     Bérite Club::genre
     Bernese Dialect Scene::genre
     Bloghouse::genre
