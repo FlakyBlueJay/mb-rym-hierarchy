@@ -3890,6 +3890,13 @@ Genres
                     Malay Gamelan::genre
                 Malay Folk Music::genre
                 Pop Yeh-Yeh::genre
+            Minangkabau Music
+                Minangkabau Music::genre
+                Pop Minang
+                    Pop Minang::genre
+                    Talempong goyang::genre
+                Saluang klasik::genre
+                Talempong::genre
             Pakacaping Music::genre
         Caribbean Music
             Caribbean Music::genre
@@ -6973,6 +6980,7 @@ Scenes & Movements
             Praise Break::genre
         Urban Contemporary Gospel::genre
     Česká alternativní scéna::genre
+    Česká nová vlna::genre
     Český underground::genre
     Chicago No Wave::genre
     Chicago School::genre
@@ -6984,6 +6992,7 @@ Scenes & Movements
     Darmstadt School::genre
     Dek Bass::genre
     Demoscene::genre
+    Desi Hip Hop::genre
     Deutschrock::genre
     Dolewave::genre
     Donosti Sound::genre
@@ -7061,6 +7070,7 @@ Scenes & Movements
     Mod
         Mod::genre
         Mod Revival::genre
+    Moscow School::genre
     Motswako::genre
     Movida madrileña::genre
     Nardcore::genre
