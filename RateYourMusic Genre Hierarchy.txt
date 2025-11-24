@@ -2121,6 +2121,7 @@ Genres
             Trap Metal::genre
         Hipco::genre
         Hiplife::genre
+        Houston Sound::genre
         Hyphy
             Hyphy::genre
             Jerk Rap::genre
@@ -3255,6 +3256,7 @@ Genres
                 Burushaski Folk Music::genre
                 Central Asian Throat Singing
                     Central Asian Throat Singing::genre
+                    Kai::genre
                     Mongolian Throat Singing::genre
                     Tuvan Throat Singing::genre
                 Hazara Folk Music::genre
@@ -3451,6 +3453,7 @@ Genres
                         Trot::genre
                         Pon-chak disco::genre
                         Semi-Trot::genre
+                Manchu Music::genre
                 Ryukyuan Music
                     Ryukyuan Music::genre
                     Amami shimauta::genre
@@ -3481,7 +3484,9 @@ Genres
                     Yukar::genre
                 Buryat Folk Music::genre
                 Chukchi Folk Music::genre
+                Kai::genre
                 Khakas Traditional Music::genre
+                Manchu Music::genre
                 Nivkh Music::genre
                 Ob-Ugric Folk Music::genre
                 Sakha Traditional Music::genre
@@ -3898,6 +3903,16 @@ Genres
                 Saluang klasik::genre
                 Talempong::genre
             Pakacaping Music::genre
+            Sundanese Music
+                Sundanese Music::genre
+                Gamelan degung::genre
+                Jaipongan::genre
+                Kacapi suling::genre
+                Ketuk tilu::genre
+                Kliningan::genre
+                Pop Sunda::genre
+                Tarawangsa::genre
+                Tembang Sunda Cianjuran::genre
         Caribbean Music
             Caribbean Music::genre
             Aleke::genre
@@ -4054,6 +4069,8 @@ Genres
             Palo de mayo::genre
             Punta::genre
             Purísima::genre
+            Son de pascua::genre
+            Son nica::genre
             Tamborera::genre
             Tamborito::genre
             Xuc::genre
@@ -5019,6 +5036,8 @@ Genres
                     Salsa dura::genre
                     Salsa romántica::genre
                     Timba::genre
+                Son de pascua::genre
+                Son nica::genre
                 Tamborera::genre
                 Tropicanibalismo::genre
                 Vallenato::genre
@@ -6293,6 +6312,7 @@ Genres
             Bashkir Folk Music::genre
             Central Asian Throat Singing
                 Central Asian Throat Singing::genre
+                Kai::genre
                 Mongolian Throat Singing::genre
                 Tuvan Throat Singing::genre
             Karakalpak Traditional Music::genre
@@ -6841,7 +6861,9 @@ Genres
             Holiday Music
                 Holiday Music::genre
                 Carols::genre
-                Christmas Music::genre
+                Christmas Music
+                    Christmas Music::genre
+                    Son de pascua::genre
                 Halloween Music::genre
                 Marchinha::genre
                 Samba-enredo::genre
@@ -7018,6 +7040,7 @@ Scenes & Movements
     Free Noise::genre
     French Hip Hop::genre
     Friese bries::genre
+    Furry Music::genre
     Futurism::genre
     Gothenburg Sound::genre
     Grebo::genre
