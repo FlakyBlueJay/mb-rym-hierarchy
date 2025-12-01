@@ -5012,6 +5012,7 @@ Genres
                         Cubaton::genre
                         Reparto::genre
                     Cumbiatón::genre
+                    Doble paso::genre
                     Neoperreo::genre
                     RKT::genre
                     Romantic Flow::genre
