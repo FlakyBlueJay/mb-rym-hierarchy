@@ -1997,7 +1997,9 @@ Genres
                 Tamil Folk Music
                     Tamil Folk Music::genre
                     Urumi melam::genre
-                Telugu Folk Music::genre
+                Telugu Folk Music
+                    Telugu Folk Music::genre
+                    Burrakatha::genre
             Southeast Asian Folk Music
                 Southeast Asian Folk Music::genre
                 Balitaw::genre
@@ -2107,6 +2109,7 @@ Genres
         Hardcore Hip Hop
             Hardcore Hip Hop::genre
             Britcore::genre
+            Chopper::genre
             Gangsta Rap
                 Gangsta Rap::genre
                 Mafioso Rap::genre
@@ -3037,6 +3040,7 @@ Genres
                     Andalusian Classical Music::genre
                     Banga::genre
                     Gnawa::genre
+                    Jilala Music::genre
                     Malhun::genre
                     Moroccan Chaabi::genre
                     Raï
@@ -3557,7 +3561,9 @@ Genres
                     Tamil Folk Music
                         Tamil Folk Music::genre
                         Urumi melam::genre
-                    Telugu Folk Music::genre
+                    Telugu Folk Music
+                        Telugu Folk Music::genre
+                        Burrakatha::genre
                 Sufi Rock::genre
                 Sufiana kalam::genre
                 Vedic Chant::genre
@@ -5141,6 +5147,7 @@ Genres
         Islamic Religious Music & Recitation
             Islamic Religious Music & Recitation::genre
             Ginan::genre
+            Jilala Music::genre
             Maddahi
                 Maddahi::genre
                 Shoor::genre
@@ -5726,6 +5733,7 @@ Genres
         Sufi Music
             Sufi Music::genre
             Banga::genre
+            Jilala Music::genre
             Kafi::genre
             Manzuma::genre
             Qawwali::genre
@@ -6252,7 +6260,9 @@ Genres
                 Tamil Folk Music
                     Tamil Folk Music::genre
                     Urumi melam::genre
-                Telugu Folk Music::genre
+                Telugu Folk Music
+                    Telugu Folk Music::genre
+                    Burrakatha::genre
             Southeast Asian Folk Music
                 Southeast Asian Folk Music::genre
                 Balitaw::genre
@@ -7191,6 +7201,7 @@ Scenes & Movements
             H8000::genre
             Hardline::genre
         Youth Crew::genre
+    Sunset Strip Glam Metal::genre
     Swing Revival::genre
     T-Pop::genre
     Taqwacore::genre
@@ -7214,7 +7225,9 @@ Scenes & Movements
         Nagoya kei::genre
         Soft Visual::genre
     Vixa::genre
-    Vocaloid Scene::genre
+    Vocaloid Scene
+        Vocaloid Scene::genre
+        Utaite::genre
     Voëlvry Movement::genre
     West Coast Hip Hop::genre
     West Coast Sound of Holland::genre
