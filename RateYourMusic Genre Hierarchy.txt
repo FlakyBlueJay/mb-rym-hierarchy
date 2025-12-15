@@ -3268,6 +3268,14 @@ Genres
                 Kazakh Music::genre
                 Khakas Traditional Music::genre
                 Kyrgyz Traditional Music::genre
+                Mongolian Music
+                    Mongolian Music::genre
+                    Bogino duu::genre
+                    Buryat Folk Music::genre
+                    Kalmyk Music::genre
+                    Mongolian Throat Singing::genre
+                    Urtiin duu::genre
+                    Zohioliin duu::genre
                 Pamiri Music
                     Pamiri Music::genre
                     Falak::genre
@@ -3467,6 +3475,7 @@ Genres
                     Bolero Việt Nam::genre
                     Ca trù::genre
                     Cải lương::genre
+                    Hát lô tô::genre
                     Ngâm thơ::genre
                     Nhạc đỏ::genre
                     Nhạc tiền chiến::genre
@@ -3491,6 +3500,14 @@ Genres
                 Kai::genre
                 Khakas Traditional Music::genre
                 Manchu Music::genre
+                Mongolian Music
+                    Mongolian Music::genre
+                    Bogino duu::genre
+                    Buryat Folk Music::genre
+                    Kalmyk Music::genre
+                    Mongolian Throat Singing::genre
+                    Urtiin duu::genre
+                    Zohioliin duu::genre
                 Nivkh Music::genre
                 Ob-Ugric Folk Music::genre
                 Sakha Traditional Music::genre
@@ -3747,6 +3764,7 @@ Genres
                     Bolero Việt Nam::genre
                     Ca trù::genre
                     Cải lương::genre
+                    Hát lô tô::genre
                     Ngâm thơ::genre
                     Nhạc đỏ::genre
                     Nhạc tiền chiến::genre
@@ -4005,7 +4023,9 @@ Genres
                     Zouk::genre
                     Cabo-Zouk::genre
                     Zouk Love::genre
-            Garifuna Music::genre
+            Garifuna Music
+                Garifuna Music::genre
+                Punta::genre
             Goombay::genre
             Indo-Caribbean Music
                 Indo-Caribbean Music::genre
@@ -4056,7 +4076,6 @@ Genres
             Palo de mayo::genre
             Parang::genre
             Porro::genre
-            Punta::genre
             Soca
                 Soca::genre
                 Bashment Soca::genre
@@ -4071,9 +4090,10 @@ Genres
             Central American Music::genre
             Brukdown::genre
             Cumbia salvadoreña::genre
-            Garifuna Music::genre
+            Garifuna Music
+                Garifuna Music::genre
+                Punta::genre
             Palo de mayo::genre
-            Punta::genre
             Purísima::genre
             Son de pascua::genre
             Son nica::genre
@@ -5103,7 +5123,9 @@ Genres
                 Tecnorumba::genre
         Indigenous American Music
             Indigenous American Music::genre
-            Garifuna Music::genre
+            Garifuna Music
+                Garifuna Music::genre
+                Punta::genre
             Indigenous American Traditional Music
                 Indigenous American Traditional Music::genre
                 Athabaskan Fiddling::genre
@@ -6329,6 +6351,14 @@ Genres
             Karakalpak Traditional Music::genre
             Khakas Traditional Music::genre
             Kyrgyz Traditional Music::genre
+            Mongolian Music
+                Mongolian Music::genre
+                Bogino duu::genre
+                Buryat Folk Music::genre
+                Kalmyk Music::genre
+                Mongolian Throat Singing::genre
+                Urtiin duu::genre
+                Zohioliin duu::genre
             Sakha Traditional Music::genre
     Rock
         Rock::genre
@@ -6923,7 +6953,6 @@ Genres
                 Library Music::genre
                 Television Music::genre
                 Video Game Music::genre
-            Teen Pop::genre
             Vocal Group::genre
         Field Recordings
             Field Recordings::genre
@@ -7098,6 +7127,7 @@ Scenes & Movements
     Maidcore::genre
     Manguebeat::genre
     Manila Sound::genre
+    Mentai Rock::genre
     Merseybeat::genre
     Minneapolis Sound::genre
     Młoda Polska::genre
@@ -7122,11 +7152,13 @@ Scenes & Movements
     New Primitivism::genre
     New Romantic::genre
     New Tone::genre
+    New Way of Danish Fuck You::genre
     New Weird America::genre
     New Weird Finland::genre
     New York Hardcore::genre
     No Wave::genre
     NOLA Sludge::genre
+    Northern Gothic::genre
     Northern Soul::genre
     Nova srpska scena::genre
     Nova vanguarda paulistana::genre
