@@ -2163,6 +2163,7 @@ Genres
             Futuristic Swag::genre
         Ratchet::genre
         Snap::genre
+        Stoner Rap::genre
         Trap
             Trap::genre
             Chicago Drill
@@ -7073,6 +7074,7 @@ Scenes & Movements
         Ladbroke Grove Scene::genre
     Epadunk::genre
     Filk::genre
+    First Wave of Detroit Techno::genre
     Florida Fast Music::genre
     Fort Thunder Scene::genre
     Franco-Flemish School::genre
@@ -7152,6 +7154,7 @@ Scenes & Movements
     New Primitivism::genre
     New Romantic::genre
     New Tone::genre
+    New Wave of New Wave::genre
     New Way of Danish Fuck You::genre
     New Weird America::genre
     New Weird Finland::genre
@@ -7261,6 +7264,7 @@ Scenes & Movements
         Vocaloid Scene::genre
         Utaite::genre
     Voëlvry Movement::genre
+    Warez Scene::genre
     West Coast Hip Hop::genre
     West Coast Sound of Holland::genre
     West Side Sound::genre
