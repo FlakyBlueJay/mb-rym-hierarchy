@@ -1809,6 +1809,7 @@ Genres
                         Hambo::genre
                 Polka
                     Polka::genre
+                    Chicago Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -2875,6 +2876,7 @@ Genres
             Gommance::genre
             Ragga::genre
             Shatta::genre
+            Trap Dancehall::genre
             Zess::genre
         Reggae
             Reggae::genre
@@ -3331,6 +3333,7 @@ Genres
                         Sichuan Opera::genre
                         Yangzhou Opera::genre
                     Minyue::genre
+                    Naxi Music::genre
                     Quyi::genre
                     Shidaiqu::genre
                     Sizhu Music
@@ -3967,6 +3970,7 @@ Genres
             Champeta::genre
             Cuban Music
                 Cuban Music::genre
+                Abakuá Music::genre
                 Chachachá::genre
                 Changüí::genre
                 Conga::genre
@@ -4045,6 +4049,7 @@ Genres
                     Gommance::genre
                     Ragga::genre
                     Shatta::genre
+                    Trap Dancehall::genre
                     Zess::genre
                 Jamaican Ska::genre
                 Mento::genre
@@ -4435,6 +4440,7 @@ Genres
                         Hambo::genre
                 Polka
                     Polka::genre
+                    Chicago Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -4710,6 +4716,7 @@ Genres
             Opéra-comique::genre
             Polish Music
                 Polish Music::genre
+                Chicago Polka::genre
                 Disco polo::genre
                 Mazur::genre
                 Mazurka::genre
@@ -4831,6 +4838,7 @@ Genres
                 Conjunto andino::genre
                 Cuban Music
                     Cuban Music::genre
+                    Abakuá Music::genre
                     Chachachá::genre
                     Changüí::genre
                     Conga::genre
@@ -5270,6 +5278,7 @@ Genres
                 Métis Fiddling::genre
                 Newfoundland Folk Music::genre
             Chanson québécoise::genre
+            Chicago Polka::genre
             Coon Song::genre
             Country
                 Country::genre
@@ -5363,6 +5372,7 @@ Genres
                 Cakewalk::genre
                 Honky-Tonk Piano::genre
                 Novelty Piano::genre
+                Ragtime Song::genre
                 Stride::genre
             Roots Rock
                 Roots Rock::genre
@@ -6095,6 +6105,7 @@ Genres
                         Hambo::genre
                 Polka
                     Polka::genre
+                    Chicago Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -7092,6 +7103,7 @@ Scenes & Movements
     Harlem Renaissance::genre
     Hauntology::genre
     Hellenic Black Metal::genre
+    High Quality Rip::genre
     Hip-hopolo::genre
     Hipco::genre
     Hoboken Sound::genre
