@@ -453,6 +453,7 @@ Genres
                     Autonomic::genre
                     Microfunk::genre
                 Neurofunk::genre
+                Technoid::genre
                 Techstep::genre
                 Trancestep::genre
             Dubstep
@@ -949,6 +950,7 @@ Genres
                     Autonomic::genre
                     Microfunk::genre
                 Neurofunk::genre
+                Technoid::genre
                 Techstep::genre
                 Trancestep::genre
             Dubstep
@@ -2113,6 +2115,7 @@ Genres
             Chopper::genre
             Gangsta Rap
                 Gangsta Rap::genre
+                Coke Rap::genre
                 Mafioso Rap::genre
                 Road Rap::genre
                 Scam Rap::genre
@@ -2478,7 +2481,9 @@ Genres
             Canción melódica::genre
             Bolero-Beat::genre
             Música cebolla::genre
-        City Pop::genre
+        City Pop
+            City Pop::genre
+            Neo-City Pop::genre
         Classical Crossover::genre
         Country Pop
             Country Pop::genre
@@ -3537,6 +3542,7 @@ Genres
                 Indo Jazz::genre
                 Pop Ghazal::genre
                 Rigsar::genre
+                Sindhi Music::genre
                 South Asian Classical Music
                     South Asian Classical Music::genre
                     Carnatic Classical Music
@@ -7021,6 +7027,7 @@ Scenes & Movements
     Anarcho-Punk::genre
     Asian Underground::genre
     Aussie Pub Rock::genre
+    Authenticité::genre
     Bay Area Thrash Metal::genre
     Beach Music::genre
     Beijing New Sound::genre
@@ -7194,6 +7201,7 @@ Scenes & Movements
     P-Pop::genre
     Paisley Underground::genre
     Palm Desert Scene::genre
+    Pansy Craze::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
     Positive Punk::genre
