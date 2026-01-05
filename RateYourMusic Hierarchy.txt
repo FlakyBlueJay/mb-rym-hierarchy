@@ -297,6 +297,7 @@ Genres
                 Grand opéra::genre
                 New German School::genre
                 Romantische Oper::genre
+                Saint Petersburg School::genre
             Serenade::genre
             Sonata::genre
             Spanish Classical Music
@@ -1574,7 +1575,6 @@ Genres
                     Moda de viola::genre
                 Toada de Boi::genre
                 Xaxado::genre
-            Buryat Folk Music::genre
             Canadian Folk Music
                 Canadian Folk Music::genre
                 Canadian Maritime Folk
@@ -1789,6 +1789,7 @@ Genres
                         Pizzica::genre
                         Tammurriata::genre
                     Trallalero::genre
+                Luxembourgish Folk Music::genre
                 Neo-Medieval Folk
                     Neo-Medieval Folk::genre
                     Bardcore::genre
@@ -1966,6 +1967,7 @@ Genres
                 Indigenous Australian Traditional Music::genre
                 Djanba::genre
                 Wangga::genre
+            Industrial Folk Song::genre
             Ladino Folksong::genre
             Ob-Ugric Folk Music::genre
             Payada::genre
@@ -3279,7 +3281,7 @@ Genres
                 Mongolian Music
                     Mongolian Music::genre
                     Bogino duu::genre
-                    Buryat Folk Music::genre
+                    Buryat Music::genre
                     Kalmyk Music::genre
                     Mongolian Throat Singing::genre
                     Urtiin duu::genre
@@ -3338,7 +3340,10 @@ Genres
                         Sichuan Opera::genre
                         Yangzhou Opera::genre
                     Minyue::genre
-                    Naxi Music::genre
+                    Naxi Music
+                        Naxi Music::genre
+                        Baisha xiyue::genre
+                        Dongjing::genre
                     Quyi::genre
                     Shidaiqu::genre
                     Sizhu Music
@@ -3504,7 +3509,6 @@ Genres
                     Ainu Music::genre
                     Upopo::genre
                     Yukar::genre
-                Buryat Folk Music::genre
                 Chukchi Folk Music::genre
                 Kai::genre
                 Khakas Traditional Music::genre
@@ -3512,7 +3516,7 @@ Genres
                 Mongolian Music
                     Mongolian Music::genre
                     Bogino duu::genre
-                    Buryat Folk Music::genre
+                    Buryat Music::genre
                     Kalmyk Music::genre
                     Mongolian Throat Singing::genre
                     Urtiin duu::genre
@@ -3534,6 +3538,7 @@ Genres
                 Dek Bass::genre
                 Dhol tasha::genre
                 Filmi::genre
+                Gaana::genre
                 Garba::genre
                 Ginan::genre
                 Indian Pop
@@ -4424,6 +4429,7 @@ Genres
                         Pizzica::genre
                         Tammurriata::genre
                     Trallalero::genre
+                Luxembourgish Folk Music::genre
                 Neo-Medieval Folk
                     Neo-Medieval Folk::genre
                     Bardcore::genre
@@ -4549,6 +4555,7 @@ Genres
                 Ländler::genre
                 Lied::genre
                 Liedermacher::genre
+                Luxembourgish Folk Music::genre
                 Romantische Oper::genre
                 Volkstümliche Musik::genre
                 Zeitoper::genre
@@ -5209,15 +5216,20 @@ Genres
                     Chazzanut::genre
                     Ashkenazi Cantorial Music::genre
                 Kriyat haTorah::genre
-                Piyyut::genre
+                Piyyut
+                    Piyyut::genre
+                    Baqashot::genre
             Muzika mizrahit
                 Muzika mizrahit::genre
                 Muzikat dika'on::genre
             Muzika yehudit mekorit::genre
-            Oriental Jewish Music::genre
+            Oriental Jewish Music
+                Oriental Jewish Music::genre
+                Baqashot::genre
             Orthodox Pop::genre
             Sephardic Music
                 Sephardic Music::genre
+                Baqashot::genre
                 Ladino Folksong::genre
                 Maftirim::genre
         Maqāmic Music
@@ -5338,6 +5350,7 @@ Genres
                 Country Rock::genre
                 Cosmic Country::genre
             Cowboy Poetry::genre
+            Foxtrot::genre
             Greenlandic Music
                 Greenlandic Music::genre
                 Tivaner inngernerlu::genre
@@ -5874,7 +5887,6 @@ Genres
                     Moda de viola::genre
                 Toada de Boi::genre
                 Xaxado::genre
-            Buryat Folk Music::genre
             Canadian Folk Music
                 Canadian Folk Music::genre
                 Canadian Maritime Folk
@@ -6089,6 +6101,7 @@ Genres
                         Pizzica::genre
                         Tammurriata::genre
                     Trallalero::genre
+                Luxembourgish Folk Music::genre
                 Neo-Medieval Folk
                     Neo-Medieval Folk::genre
                     Bardcore::genre
@@ -6266,6 +6279,7 @@ Genres
                 Indigenous Australian Traditional Music::genre
                 Djanba::genre
                 Wangga::genre
+            Industrial Folk Song::genre
             Ladino Folksong::genre
             Ob-Ugric Folk Music::genre
             Payada::genre
@@ -6372,7 +6386,7 @@ Genres
             Mongolian Music
                 Mongolian Music::genre
                 Bogino duu::genre
-                Buryat Folk Music::genre
+                Buryat Music::genre
                 Kalmyk Music::genre
                 Mongolian Throat Singing::genre
                 Urtiin duu::genre
@@ -6388,7 +6402,6 @@ Genres
                 Alternative Dance::genre
                 Grebo::genre
                 New Rave::genre
-            Baggy::genre
             Britpop::genre
             Dream Pop::genre
             Emo-Pop::genre
@@ -6396,6 +6409,7 @@ Genres
             Grunge::genre
             Indie Rock
                 Indie Rock::genre
+                Baggy::genre
                 C86::genre
                 Dolewave::genre
                 Dunedin Sound::genre
@@ -7115,6 +7129,7 @@ Scenes & Movements
     Hipco::genre
     Hoboken Sound::genre
     Holy Terror::genre
+    Hưng ca::genre
     J-core
         J-core::genre
         Future Core::genre
@@ -7229,6 +7244,7 @@ Scenes & Movements
         Grand opéra::genre
         New German School::genre
         Romantische Oper::genre
+        Saint Petersburg School::genre
     Russemusikk::genre
     San Francisco Sound
         San Francisco Sound::genre
@@ -7261,7 +7277,7 @@ Scenes & Movements
     T-Pop::genre
     Taqwacore::genre
     Teutonic Thrash Metal::genre
-    Texas Psychedelia Scene::genre
+    Texas Psychedelia::genre
     The Wave::genre
     Tropicália::genre
     Tropicanibalismo::genre
