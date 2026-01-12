@@ -1813,6 +1813,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -2168,6 +2169,7 @@ Genres
             Frat Rap::genre
             Futuristic Swag::genre
         Ratchet::genre
+        Sigilkore::genre
         Snap::genre
         Stoner Rap::genre
         Trap
@@ -2190,7 +2192,6 @@ Genres
             Rage::genre
             Rare Phonk::genre
             Regalia::genre
-            Sigilkore::genre
             Trap latino::genre
             Trap Metal::genre
             Trap Soul::genre
@@ -4039,6 +4040,7 @@ Genres
                     Zouk::genre
                     Cabo-Zouk::genre
                     Zouk Love::genre
+            Gaita zuliana::genre
             Garifuna Music
                 Garifuna Music::genre
                 Punta::genre
@@ -4453,6 +4455,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -4731,6 +4734,7 @@ Genres
                 Polish Music::genre
                 Chicago Polka::genre
                 Disco polo::genre
+                Eastern-Style Polka::genre
                 Mazur::genre
                 Mazurka::genre
                 Miejski folk::genre
@@ -5350,6 +5354,7 @@ Genres
                 Country Rock::genre
                 Cosmic Country::genre
             Cowboy Poetry::genre
+            Eastern-Style Polka::genre
             Foxtrot::genre
             Greenlandic Music
                 Greenlandic Music::genre
@@ -6125,6 +6130,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
                     Portuguese Folk Music::genre
@@ -6985,7 +6991,11 @@ Genres
                 Library Music::genre
                 Television Music::genre
                 Video Game Music::genre
-            Vocal Group::genre
+            Vocal Group
+                Vocal Group::genre
+                Barbershop
+                    Barbershop::genre
+                    Jubilee::genre
         Field Recordings
             Field Recordings::genre
             Nature Recordings
@@ -7193,6 +7203,7 @@ Scenes & Movements
     New Weird America::genre
     New Weird Finland::genre
     New York Hardcore::genre
+    New York School::genre
     No Wave::genre
     NOLA Sludge::genre
     Northern Gothic::genre
