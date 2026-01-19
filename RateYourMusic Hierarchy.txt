@@ -2080,9 +2080,8 @@ Genres
             Chap Hop::genre
         Conscious Hip Hop::genre
         Country Rap::genre
-        Crunk
-            Crunk::genre
-            Crunkcore::genre
+        Crunk::genre
+        Crunkcore::genre
         Detroit Sound
             Detroit Sound::genre
             Flint Sound::genre
@@ -2301,6 +2300,7 @@ Genres
         Spiritual Jazz::genre
         Spy Music::genre
         Stride::genre
+        Sweet Jazz::genre
         Swing
             Swing::genre
             Swing Revival::genre
@@ -2637,7 +2637,6 @@ Genres
             Futurepop::genre
             Pon-chak disco::genre
             Techno kayō::genre
-        T-Pop::genre
         Teen Pop::genre
         Toytown Pop::genre
         Traditional Pop
@@ -6825,6 +6824,7 @@ Genres
         Sufi Rock::genre
         Surf Music
             Surf Music::genre
+            Hot Rod Music::genre
             Indie Surf::genre
             Surf Punk::genre
             Surf Rock
