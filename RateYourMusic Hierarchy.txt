@@ -99,7 +99,7 @@ Genres
                 Hindustani Classical Music::genre
                 Dhrupad::genre
                 Kafi::genre
-                Khyal::genre
+                Khayal::genre
                 Klasik::genre
                 Qawwali::genre
                 Shabad kirtan::genre
@@ -143,7 +143,7 @@ Genres
                 Fon leb::genre
                 Khrueang sai::genre
                 Piphat::genre
-        Tibetan Bhuddist Chant::genre
+        Tibetan Buddhist Chant::genre
         Western Classical Music
             Western Classical Music::genre
             Art Song
@@ -163,7 +163,7 @@ Genres
                 Ballet de cour::genre
                 Comédie-ballet::genre
                 Opéra-ballet::genre
-                Zarzuela barocca::genre
+                Zarzuela barroca::genre
             Baroque Suite::genre
             Brazilian Classical Music
                 Brazilian Classical Music::genre
@@ -265,7 +265,7 @@ Genres
                 Zarzuela
                     Zarzuela::genre
                     Género chico::genre
-                    Zarzuela barocca::genre
+                    Zarzuela barroca::genre
                     Zarzuela grande::genre
                 Zeitoper::genre
             Oratorio::genre
@@ -307,7 +307,7 @@ Genres
                 Zarzuela
                     Zarzuela::genre
                     Género chico::genre
-                    Zarzuela barocca::genre
+                    Zarzuela barroca::genre
                     Zarzuela grande::genre
             Theme and Variation::genre
             Toccata::genre
@@ -1594,6 +1594,7 @@ Genres
                 Fungi::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
+                Kaiso::genre
                 Kitchen Dance Music::genre
                 Mento::genre
                 Méringue::genre
@@ -2972,6 +2973,7 @@ Genres
                 Makossa::genre
                 Mangambeu::genre
                 Mbenga-Mbuti Music::genre
+                Mbolé::genre
                 Puxa::genre
                 Semba::genre
                 Soukous
@@ -3264,7 +3266,7 @@ Genres
                 Beompae::genre
                 Chöd::genre
                 Shōmyō::genre
-                Tibetan Bhuddist Chant::genre
+                Tibetan Buddhist Chant::genre
             Central Asian Music
                 Central Asian Music::genre
                 Altai Music::genre
@@ -3299,7 +3301,7 @@ Genres
                 Tibetan Music
                     Tibetan Music::genre
                     Chöd::genre
-                    Tibetan Bhuddist Chant::genre
+                    Tibetan Buddhist Chant::genre
                     Zhabdro gorgom::genre
                 Turkmen Music::genre
                 Uyghur Music
@@ -3497,6 +3499,7 @@ Genres
                     Nhạc đỏ::genre
                     Nhạc tiền chiến::genre
                     Nhạc vàng::genre
+                    Tân cổ giao duyên::genre
                     Vietnamese Court Music
                         Vietnamese Court Music::genre
                         Vietnamese Opera::genre
@@ -3561,7 +3564,7 @@ Genres
                         Hindustani Classical Music::genre
                         Dhrupad::genre
                         Kafi::genre
-                        Khyal::genre
+                        Khayal::genre
                         Klasik::genre
                         Qawwali::genre
                         Shabad kirtan::genre
@@ -3788,6 +3791,7 @@ Genres
                     Nhạc đỏ::genre
                     Nhạc tiền chiến::genre
                     Nhạc vàng::genre
+                    Tân cổ giao duyên::genre
                     Vietnamese Court Music
                         Vietnamese Court Music::genre
                         Vietnamese Opera::genre
@@ -3974,6 +3978,7 @@ Genres
                 Fungi::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
+                Kaiso::genre
                 Kitchen Dance Music::genre
                 Mento::genre
                 Méringue::genre
@@ -4228,7 +4233,7 @@ Genres
                 Ballet de cour::genre
                 Comédie-ballet::genre
                 Opéra-ballet::genre
-                Zarzuela barocca::genre
+                Zarzuela barroca::genre
             Baroque Suite::genre
             British Music
                 British Music::genre
@@ -4633,7 +4638,7 @@ Genres
                         Zarzuela
                             Zarzuela::genre
                             Género chico::genre
-                            Zarzuela barocca::genre
+                            Zarzuela barroca::genre
                             Zarzuela grande::genre
                     Spanish Folk Music
                         Spanish Folk Music::genre
@@ -4710,9 +4715,10 @@ Genres
                 Dansktop::genre
                 Greenlandic Music
                     Greenlandic Music::genre
+                    Kalattut::genre
                     Tivaner inngernerlu::genre
                     Uaajeerneq::genre
-                    Vaigat Music::genre
+                    Vaigat::genre
                 Nordic Folk Music
                     Nordic Folk Music::genre
                     Danish Folk Music::genre
@@ -5133,7 +5139,7 @@ Genres
                     Zarzuela
                         Zarzuela::genre
                         Género chico::genre
-                        Zarzuela barocca::genre
+                        Zarzuela barroca::genre
                         Zarzuela grande::genre
                 Spanish Folk Music
                     Spanish Folk Music::genre
@@ -5362,9 +5368,10 @@ Genres
             Foxtrot::genre
             Greenlandic Music
                 Greenlandic Music::genre
+                Kalattut::genre
                 Tivaner inngernerlu::genre
                 Uaajeerneq::genre
-                Vaigat Music::genre
+                Vaigat::genre
             Hapa haole::genre
             Indigenous North American Music
                 Indigenous North American Music::genre
@@ -5915,6 +5922,7 @@ Genres
                 Fungi::genre
                 Haitian Vodou Drumming::genre
                 Jibaro::genre
+                Kaiso::genre
                 Kitchen Dance Music::genre
                 Mento::genre
                 Méringue::genre
@@ -7024,7 +7032,7 @@ Genres
         Jingles::genre
         Mantra
             Mantra::genre
-            Tibetan Bhuddist Chant::genre
+            Tibetan Buddhist Chant::genre
             Vedic Chant::genre
         March
             March::genre
