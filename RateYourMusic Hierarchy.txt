@@ -191,6 +191,7 @@ Genres
                 Cinematic Classical::genre
                 Epic Music::genre
                 Spaghetti Western::genre
+            Classic Ragtime::genre
             Classical Period::genre
             Divertissement::genre
             English Pastoral School::genre
@@ -270,7 +271,6 @@ Genres
             Oratorio::genre
             Orchestral Music
                 Orchestral Music::genre
-                Concert Band::genre
                 Concerto
                     Concerto::genre
                     Concerto for Orchestra::genre
@@ -292,6 +292,7 @@ Genres
                 Elizabethan Song::genre
                 Franco-Flemish School::genre
             Ricercar::genre
+            Roman School::genre
             Romanticism
                 Romanticism::genre
                 Grand opéra::genre
@@ -1773,6 +1774,7 @@ Genres
                     Hungarian Folk Music::genre
                     Csárdás::genre
                     Magyar nóta::genre
+                    Pásztordal::genre
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
@@ -2308,6 +2310,7 @@ Genres
         Vocal Jazz
             Vocal Jazz::genre
             Vocalese::genre
+        West Coast Jazz::genre
     Metal
         Metal::genre
         Alternative Metal
@@ -3541,6 +3544,7 @@ Genres
                 Gaana::genre
                 Garba::genre
                 Ginan::genre
+                Goan Music::genre
                 Indian Pop
                     Indian Pop::genre
                     Bohjpuri Pop::genre
@@ -4414,6 +4418,7 @@ Genres
                     Hungarian Folk Music::genre
                     Csárdás::genre
                     Magyar nóta::genre
+                    Pásztordal::genre
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
@@ -5393,6 +5398,7 @@ Genres
             Ragtime
                 Ragtime::genre
                 Cakewalk::genre
+                Classic Ragtime::genre
                 Honky-Tonk Piano::genre
                 Novelty Piano::genre
                 Ragtime Song::genre
@@ -6089,6 +6095,7 @@ Genres
                     Hungarian Folk Music::genre
                     Csárdás::genre
                     Magyar nóta::genre
+                    Pásztordal::genre
                 Istrian Folk Music::genre
                 Italian Folk Music
                     Italian Folk Music::genre
@@ -6911,6 +6918,7 @@ Genres
             Prank Calls::genre
             Sketch Comedy::genre
             Stand-Up Comedy::genre
+        Concert Band::genre
         Dark Cabaret::genre
         Darkwave
             Darkwave::genre
@@ -6951,7 +6959,6 @@ Genres
             Novelty::genre
             Orchestral Music
                 Orchestral Music::genre
-                Concert Band::genre
                 Concerto
                     Concerto::genre
                     Concerto for Orchestra::genre
@@ -7250,6 +7257,7 @@ Scenes & Movements
     Rock subterráneo::genre
     Rock urbano español::genre
     Rock urbano mexicano::genre
+    Roman School::genre
     Romanticism
         Romanticism::genre
         Grand opéra::genre
@@ -7260,6 +7268,7 @@ Scenes & Movements
     San Francisco Sound
         San Francisco Sound::genre
         Haight-Ashbury Scene::genre
+    Scene::genre
     Scottish Folk Revival::genre
     Seapunk::genre
     Second British Folk Revival::genre
