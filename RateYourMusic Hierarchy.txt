@@ -193,6 +193,11 @@ Genres
                 Spaghetti Western::genre
             Classic Ragtime::genre
             Classical Period::genre
+            Concerto
+                Concerto::genre
+                Concerto for Orchestra::genre
+                Concerto grosso::genre
+                Sinfonia concertante::genre
             Divertissement::genre
             English Pastoral School::genre
             Étude::genre
@@ -271,11 +276,6 @@ Genres
             Oratorio::genre
             Orchestral Music
                 Orchestral Music::genre
-                Concerto
-                    Concerto::genre
-                    Concerto for Orchestra::genre
-                    Concerto grosso::genre
-                    Sinfonia concertante::genre
                 Orchestral Song::genre
                 Symphonic Mugham::genre
                 Symphony
@@ -6967,11 +6967,6 @@ Genres
             Novelty::genre
             Orchestral Music
                 Orchestral Music::genre
-                Concerto
-                    Concerto::genre
-                    Concerto for Orchestra::genre
-                    Concerto grosso::genre
-                    Sinfonia concertante::genre
                 Orchestral Song::genre
                 Symphonic Mugham::genre
                 Symphony
@@ -7273,10 +7268,13 @@ Scenes & Movements
         Romantische Oper::genre
         Saint Petersburg School::genre
     Russemusikk::genre
+    San Diego Sound::genre
     San Francisco Sound
         San Francisco Sound::genre
         Haight-Ashbury Scene::genre
-    Scene::genre
+    Scene
+        Scene::genre
+        Happy Rock::genre
     Scottish Folk Revival::genre
     Seapunk::genre
     Second British Folk Revival::genre
