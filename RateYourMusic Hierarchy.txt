@@ -278,10 +278,6 @@ Genres
                 Orchestral Music::genre
                 Orchestral Song::genre
                 Symphonic Mugham::genre
-                Symphony
-                    Symphony::genre
-                    Choral Symphony::genre
-                    Sinfonia concertante::genre
                 Tone Poem::genre
             Overture::genre
             Passion::genre
@@ -309,6 +305,10 @@ Genres
                     Género chico::genre
                     Zarzuela barroca::genre
                     Zarzuela grande::genre
+            Symphony
+                Symphony::genre
+                Choral Symphony::genre
+                Sinfonia concertante::genre
             Theme and Variation::genre
             Toccata::genre
     Country
@@ -2342,7 +2342,9 @@ Genres
                 Slam Death Metal::genre
             Death 'n' Roll::genre
             Deathgrind::genre
-            Melodic Death Metal::genre
+            Melodic Death Metal
+                Melodic Death Metal::genre
+                Gothenburg Sound::genre
             Technical Death Metal
                 Technical Death Metal::genre
                 Dissonant Death Metal::genre
@@ -3643,6 +3645,7 @@ Genres
                         Javanese Music::genre
                         Bantengan::genre
                         Campursari::genre
+                        Dangdut koplo::genre
                         Javanese Gamelan
                             Javanese Gamelan::genre
                             Gamelan sekaten::genre
@@ -3921,6 +3924,7 @@ Genres
                 Javanese Music::genre
                 Bantengan::genre
                 Campursari::genre
+                Dangdut koplo::genre
                 Javanese Gamelan
                     Javanese Gamelan::genre
                     Gamelan sekaten::genre
@@ -4795,6 +4799,7 @@ Genres
                 Humppa::genre
                 Levenslied::genre
                 Volkstümliche Musik::genre
+            Schottische::genre
             Singspiel::genre
             Tragédie en musique::genre
             Trampská hudba::genre
@@ -6621,7 +6626,9 @@ Genres
                     Slam Death Metal::genre
                 Death 'n' Roll::genre
                 Deathgrind::genre
-                Melodic Death Metal::genre
+                Melodic Death Metal
+                    Melodic Death Metal::genre
+                    Gothenburg Sound::genre
                 Technical Death Metal
                     Technical Death Metal::genre
                     Dissonant Death Metal::genre
@@ -6969,10 +6976,6 @@ Genres
                 Orchestral Music::genre
                 Orchestral Song::genre
                 Symphonic Mugham::genre
-                Symphony
-                    Symphony::genre
-                    Choral Symphony::genre
-                    Sinfonia concertante::genre
                 Tone Poem::genre
             Polyphonic Chant
                 Polyphonic Chant::genre
@@ -7018,6 +7021,7 @@ Genres
                 Rain Sounds::genre
             Radio Broadcast Recordings::genre
         Hanmai::genre
+        Hauntology::genre
         Hymns
             Hymns::genre
             Bhajan::genre
@@ -7142,7 +7146,6 @@ Scenes & Movements
     Group Sounds::genre
     Hamburger Schule::genre
     Harlem Renaissance::genre
-    Hauntology::genre
     Hellenic Black Metal::genre
     High Quality Rip::genre
     Hip-hopolo::genre
