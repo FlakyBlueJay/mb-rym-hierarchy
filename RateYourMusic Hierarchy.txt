@@ -184,9 +184,6 @@ Genres
                 Choral::genre
                 Choral Concerto::genre
                 Choral Symphony::genre
-                Mass
-                    Mass::genre
-                    Requiem::genre
             Cinematic Classical
                 Cinematic Classical::genre
                 Epic Music::genre
@@ -237,6 +234,7 @@ Genres
                     Minimalism::genre
                     Holy Minimalism::genre
                 Musique concrète instrumentale::genre
+                Neoromanticism::genre
                 New Complexity::genre
                 Post-Minimalism
                     Post-Minimalism::genre
@@ -327,6 +325,7 @@ Genres
                 Bluegrass Gospel::genre
         Contemporary Country
             Contemporary Country::genre
+            Boyfriend Country::genre
             Bro-Country::genre
             Neo-Traditionalist Country::genre
         Country & Irish::genre
@@ -334,6 +333,7 @@ Genres
         Country Folk::genre
         Country Pop
             Country Pop::genre
+            Boyfriend Country::genre
             Bro-Country::genre
             Countrypolitan::genre
             Urban Cowboy::genre
@@ -1522,6 +1522,7 @@ Genres
                 Field Hollers::genre
                 Fife and Drum Blues::genre
                 Jug Band::genre
+                Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
                 Spirituals::genre
@@ -1770,6 +1771,7 @@ Genres
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
+                    Pennsylvania Dutch Folk Music::genre
                 Għana::genre
                 Hungarian Folk Music
                     Hungarian Folk Music::genre
@@ -1993,7 +1995,9 @@ Genres
                 Kirtan
                     Kirtan::genre
                     Shabad kirtan::genre
-                Malayali Folk Music::genre
+                Malayali Folk Music
+                    Malayali Folk Music::genre
+                    Mappila::genre
                 Marathi Folk Music::genre
                 Newa Folk Music::genre
                 Odia Folk Music::genre
@@ -2496,6 +2500,7 @@ Genres
         Classical Crossover::genre
         Country Pop
             Country Pop::genre
+            Boyfriend Country::genre
             Bro-Country::genre
             Countrypolitan::genre
             Urban Cowboy::genre
@@ -3589,7 +3594,9 @@ Genres
                     Kirtan
                         Kirtan::genre
                         Shabad kirtan::genre
-                    Malayali Folk Music::genre
+                    Malayali Folk Music
+                        Malayali Folk Music::genre
+                        Mappila::genre
                     Marathi Folk Music::genre
                     Newa Folk Music::genre
                     Odia Folk Music::genre
@@ -4422,6 +4429,7 @@ Genres
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
+                    Pennsylvania Dutch Folk Music::genre
                 Għana::genre
                 Hungarian Folk Music
                     Hungarian Folk Music::genre
@@ -4567,6 +4575,7 @@ Genres
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
+                    Pennsylvania Dutch Folk Music::genre
                 Guggenmusik::genre
                 Ländler::genre
                 Lied::genre
@@ -4799,7 +4808,9 @@ Genres
                 Humppa::genre
                 Levenslied::genre
                 Volkstümliche Musik::genre
-            Schottische::genre
+            Schottische
+                Schottische::genre
+                Chotis madrileño::genre
             Singspiel::genre
             Tragédie en musique::genre
             Trampská hudba::genre
@@ -5214,6 +5225,7 @@ Genres
             Maddahi
                 Maddahi::genre
                 Shoor::genre
+            Mappila::genre
             Mataali::genre
             Nasheed::genre
             Rapai dabõih::genre
@@ -5283,6 +5295,7 @@ Genres
                 Field Hollers::genre
                 Fife and Drum Blues::genre
                 Jug Band::genre
+                Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
                 Spirituals::genre
@@ -5333,6 +5346,7 @@ Genres
                         Bluegrass Gospel::genre
                 Contemporary Country
                     Contemporary Country::genre
+                    Boyfriend Country::genre
                     Bro-Country::genre
                     Neo-Traditionalist Country::genre
                 Country & Irish::genre
@@ -5340,6 +5354,7 @@ Genres
                 Country Folk::genre
                 Country Pop
                     Country Pop::genre
+                    Boyfriend Country::genre
                     Bro-Country::genre
                     Countrypolitan::genre
                     Urban Cowboy::genre
@@ -5562,6 +5577,7 @@ Genres
                         Funk carioca::genre
                         Funk proibidão::genre
                         Tamborzão::genre
+                    Funk consciente::genre
                     Funk de BH::genre
                     Funk mandelão
                         Funk mandelão::genre
@@ -5855,6 +5871,7 @@ Genres
                 Field Hollers::genre
                 Fife and Drum Blues::genre
                 Jug Band::genre
+                Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
                 Spirituals::genre
@@ -6103,6 +6120,7 @@ Genres
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
+                    Pennsylvania Dutch Folk Music::genre
                 Għana::genre
                 Hungarian Folk Music
                     Hungarian Folk Music::genre
@@ -6326,7 +6344,9 @@ Genres
                 Kirtan
                     Kirtan::genre
                     Shabad kirtan::genre
-                Malayali Folk Music::genre
+                Malayali Folk Music
+                    Malayali Folk Music::genre
+                    Mappila::genre
                 Marathi Folk Music::genre
                 Newa Folk Music::genre
                 Odia Folk Music::genre
@@ -6941,7 +6961,6 @@ Genres
             Neoclassical Darkwave::genre
             Neue Deutsche Todeskunst::genre
         Descriptor
-            Descriptor::genre
             A cappella
                 A cappella::genre
                 Canto cardenche::genre
@@ -6955,9 +6974,6 @@ Genres
                 Choral::genre
                 Choral Concerto::genre
                 Choral Symphony::genre
-                Mass
-                    Mass::genre
-                    Requiem::genre
             Educational Music::genre
             French Pop::genre
             Holiday Music
@@ -7051,6 +7067,7 @@ Genres
         Mechanical Music::genre
         Parlour Music::genre
         Sacred Singing Circle::genre
+        Slowed & Reverb::genre
         Sound Effects
             Sound Effects::genre
             Battle Record::genre
@@ -7078,6 +7095,7 @@ Scenes & Movements
     British Trad Jazz::genre
     Britpop::genre
     Brno Alternative Scene::genre
+    BRock::genre
     Brony Music::genre
     Burger-Highlife::genre
     C-Pop
@@ -7103,6 +7121,7 @@ Scenes & Movements
     Český underground::genre
     Chicago No Wave::genre
     Chicago School::genre
+    Chikipunk::genre
     Christian Hardcore::genre
     Cleveland Punk::genre
     Clube da esquina::genre
