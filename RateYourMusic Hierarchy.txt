@@ -1963,10 +1963,12 @@ Genres
             Indigenous American Traditional Music
                 Indigenous American Traditional Music::genre
                 Athabaskan Fiddling::genre
+                Ghost Dance Song::genre
                 Inuit Vocal Games::genre
                 James Bay Fiddling::genre
                 Mapuche Folk Music::genre
                 Powwow Music::genre
+                Rabbit Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Australian Traditional Music
@@ -5181,10 +5183,12 @@ Genres
             Indigenous American Traditional Music
                 Indigenous American Traditional Music::genre
                 Athabaskan Fiddling::genre
+                Ghost Dance Song::genre
                 Inuit Vocal Games::genre
                 James Bay Fiddling::genre
                 Mapuche Folk Music::genre
                 Powwow Music::genre
+                Rabbit Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Andean Music
@@ -5202,6 +5206,7 @@ Genres
             Indigenous North American Music
                 Indigenous North American Music::genre
                 Athabaskan Fiddling::genre
+                Ghost Dance Song::genre
                 Inuit Music
                     Inuit Music::genre
                     Inuit Vocal Games::genre
@@ -5213,6 +5218,7 @@ Genres
                     Métis Fiddling::genre
                 Powwow Music::genre
                 Pueblo Music::genre
+                Rabbit Song::genre
             Mesoamerican Music
                 Mesoamerican Music::genre
                 Maya Music::genre
@@ -5396,6 +5402,7 @@ Genres
             Indigenous North American Music
                 Indigenous North American Music::genre
                 Athabaskan Fiddling::genre
+                Ghost Dance Song::genre
                 Inuit Music
                     Inuit Music::genre
                     Inuit Vocal Games::genre
@@ -5407,6 +5414,7 @@ Genres
                     Métis Fiddling::genre
                 Powwow Music::genre
                 Pueblo Music::genre
+                Rabbit Song::genre
             Louisiana Music
                 Louisiana Music::genre
                 Cajun Music
@@ -6312,10 +6320,12 @@ Genres
             Indigenous American Traditional Music
                 Indigenous American Traditional Music::genre
                 Athabaskan Fiddling::genre
+                Ghost Dance Song::genre
                 Inuit Vocal Games::genre
                 James Bay Fiddling::genre
                 Mapuche Folk Music::genre
                 Powwow Music::genre
+                Rabbit Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Australian Traditional Music
@@ -6965,6 +6975,7 @@ Genres
                 A cappella::genre
                 Canto cardenche::genre
                 Choral Concerto::genre
+                Ghost Dance Song::genre
                 Isicathamiya::genre
                 Mbube::genre
                 Sacred Harp Singing::genre
@@ -7207,6 +7218,7 @@ Scenes & Movements
     Manila Sound::genre
     Mentai Rock::genre
     Merseybeat::genre
+    Midwest Hip Hop::genre
     Minneapolis Sound::genre
     Młoda Polska::genre
     Mod
@@ -7301,6 +7313,7 @@ Scenes & Movements
     Seapunk::genre
     Second British Folk Revival::genre
     Second Viennese School::genre
+    Second Wave of Detroit Techno::genre
     Shibuya-kei
         Shibuya-kei::genre
         Akishibu-kei::genre
