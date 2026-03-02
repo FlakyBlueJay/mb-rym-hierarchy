@@ -20,7 +20,9 @@ Genres
         Country Blues
             Country Blues::genre
             Acoustic Texas Blues::genre
-            Delta Blues::genre
+            Delta Blues
+                Delta Blues::genre
+                Bentonia School::genre
             Hill Country Blues::genre
             Piedmont Blues::genre
         Electric Blues
@@ -542,6 +544,7 @@ Genres
                 Glitch Hop [EDM]::genre
                 Ghetto Funk::genre
                 Neurohop::genre
+            Gqom::genre
             Grime
                 Grime::genre
                 Neo-Grime::genre
@@ -682,7 +685,6 @@ Genres
                 Ghetto House
                     Ghetto House::genre
                     Juke::genre
-                Gqom::genre
                 Hip House::genre
                 Italo House::genre
                 Jackin' House::genre
@@ -1039,6 +1041,7 @@ Genres
                 Glitch Hop [EDM]::genre
                 Ghetto Funk::genre
                 Neurohop::genre
+            Gqom::genre
             Grime
                 Grime::genre
                 Neo-Grime::genre
@@ -1179,7 +1182,6 @@ Genres
                 Ghetto House
                     Ghetto House::genre
                     Juke::genre
-                Gqom::genre
                 Hip House::genre
                 Italo House::genre
                 Jackin' House::genre
@@ -1516,7 +1518,9 @@ Genres
                 Country Blues
                     Country Blues::genre
                     Acoustic Texas Blues::genre
-                    Delta Blues::genre
+                    Delta Blues
+                        Delta Blues::genre
+                        Bentonia School::genre
                     Hill Country Blues::genre
                     Piedmont Blues::genre
                 Field Hollers::genre
@@ -1597,6 +1601,7 @@ Genres
                 Jibaro::genre
                 Kaiso::genre
                 Kitchen Dance Music::genre
+                Kumina::genre
                 Mento::genre
                 Méringue::genre
                 Plena::genre
@@ -1617,6 +1622,7 @@ Genres
                     Batonebi Songs::genre
                 Ossetian Folk Music::genre
             Chukchi Folk Music::genre
+            Drinking Song::genre
             East Asian Folk Music
                 East Asian Folk Music::genre
                 Amami shimauta::genre
@@ -2062,6 +2068,7 @@ Genres
                     Aboio cantado::genre
                 Field Hollers::genre
                 Haozi::genre
+                Military Cadence::genre
                 Òrain luaidh::genre
                 Sea Shanty::genre
                 Shan'ge::genre
@@ -2720,7 +2727,6 @@ Genres
         Hardcore [Punk]
             Hardcore [Punk]::genre
             Beatdown Hardcore::genre
-            Easycore::genre
             Electronicore::genre
             Grindcore
                 Grindcore::genre
@@ -3993,6 +3999,7 @@ Genres
                 Jibaro::genre
                 Kaiso::genre
                 Kitchen Dance Music::genre
+                Kumina::genre
                 Mento::genre
                 Méringue::genre
                 Plena::genre
@@ -4086,6 +4093,7 @@ Genres
                     Trap Dancehall::genre
                     Zess::genre
                 Jamaican Ska::genre
+                Kumina::genre
                 Mento::genre
                 Nyahbinghi::genre
                 Reggae
@@ -5295,7 +5303,9 @@ Genres
                 Country Blues
                     Country Blues::genre
                     Acoustic Texas Blues::genre
-                    Delta Blues::genre
+                    Delta Blues
+                        Delta Blues::genre
+                        Bentonia School::genre
                     Hill Country Blues::genre
                     Piedmont Blues::genre
                 Field Hollers::genre
@@ -5873,7 +5883,9 @@ Genres
                 Country Blues
                     Country Blues::genre
                     Acoustic Texas Blues::genre
-                    Delta Blues::genre
+                    Delta Blues
+                        Delta Blues::genre
+                        Bentonia School::genre
                     Hill Country Blues::genre
                     Piedmont Blues::genre
                 Field Hollers::genre
@@ -5954,6 +5966,7 @@ Genres
                 Jibaro::genre
                 Kaiso::genre
                 Kitchen Dance Music::genre
+                Kumina::genre
                 Mento::genre
                 Méringue::genre
                 Plena::genre
@@ -5974,6 +5987,7 @@ Genres
                     Batonebi Songs::genre
                 Ossetian Folk Music::genre
             Chukchi Folk Music::genre
+            Drinking Song::genre
             East Asian Folk Music
                 East Asian Folk Music::genre
                 Amami shimauta::genre
@@ -6419,6 +6433,7 @@ Genres
                     Aboio cantado::genre
                 Field Hollers::genre
                 Haozi::genre
+                Military Cadence::genre
                 Òrain luaidh::genre
                 Sea Shanty::genre
                 Shan'ge::genre
@@ -6563,7 +6578,6 @@ Genres
         Hardcore [Punk]
             Hardcore [Punk]::genre
             Beatdown Hardcore::genre
-            Easycore::genre
             Electronicore::genre
             Grindcore
                 Grindcore::genre
