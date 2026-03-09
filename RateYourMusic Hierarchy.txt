@@ -1,6 +1,5 @@
 Descriptors
     Atmosphere
-        Atmosphere::mood
         Apocalyptic::mood
         Beach::mood
         Bright::mood
@@ -54,7 +53,6 @@ Descriptors
         Urban::mood
         Warm::mood
     Form
-        Form::mood
         Ballad::mood
         Concept album::mood
         Diss::mood
@@ -86,13 +84,11 @@ Descriptors
         Skit::mood
         Suite::mood
     Lyrics
-        Lyrics::mood
         Code-mixing::mood
         Lyrical dissonance::mood
         Narrative::mood
         Stream of consciousness::mood
         Tone
-            Tone::mood
             Altruistic::mood
             Apathetic::mood
             Boastful::mood
@@ -117,7 +113,6 @@ Descriptors
             Vulgar::mood
         Wordplay::mood
     Mood
-        Mood::mood
         Aggressive::mood
         Angry::mood
         Anxious::mood
@@ -152,7 +147,6 @@ Descriptors
             Uplifting::mood
             Triumphant::mood
     Style
-        Style::mood
         Angular::mood
         Anthemic::mood
         Atmospheric::mood
@@ -194,10 +188,8 @@ Descriptors
         Technical::mood
         Theatrical::mood
     Technique
-        Technique::mood
         Blast beats::mood
         Composition
-            Composition::mood
             Aleatory::mood
             Call and response::mood
             Free rhythm::mood
@@ -213,7 +205,6 @@ Descriptors
             Uncommon time signatures::mood
         Leitmotif::mood
         Production
-            Production::mood
             Lobit::mood
             Sampling
                 Sampling::mood
@@ -221,7 +212,6 @@ Descriptors
             Wall of Sound::mood
         Rubato::genre
     Theme
-        Theme::mood
         About music::mood
         Abstract::mood
         Adolescence::mood
@@ -466,7 +456,6 @@ Descriptors
             Farming::mood
             Mining::mood
     Vocals
-        Vocals::mood
         Androgynous vocals::mood
         Crooning::mood
         Deadpan::mood
