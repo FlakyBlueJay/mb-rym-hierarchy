@@ -1,6 +1,6 @@
 # Rate Your Music / Sonemic Tag Hierarchy for MusicBee
 
-A MusicBee tag hierarchy template created as a copy of the Rate Your Music genre and scenes & movements trees.
+A MusicBee tag hierarchy template created as a copy of the Rate Your Music genre, descriptor and scenes & movements trees.
 
 *This project is unaffiliated with Sonemic.*
 
@@ -36,7 +36,13 @@ RYM allows tagging of multiple genres/scenes/movements for not just a release as
 Vorbis comments (used by FLAC, OGG, Opus and other "Vorbis" codecs) and APE tags are fine, MP3 may need resaving as ID3v2.4 rather than 2.3, MP4/M4A (iTunes store purchases) is notoriously awful and has inconsistent support across multiple players, not just MusicBee - don't use it if you plan to make use of tag hierarchy files.
 
 ### "Descriptor" Meta-Genres
-RYM allows tagging of descriptors to denote features of the releases documented on their site. Some genres are being moved to the descriptor system (e.g. holiday music, soundtracks, mashup, a cappella) however there has been a freeze on the genre hierarchy, thus no genres can be removed yet without the permission of the moderation team. As a result, genres that are intended to be moved into the descriptor system have been given the Descriptor meta-genre as a parent. The tag hierarchy file maintains this part of RYM's hierarchy but places it in the "Uncategorised" section alongside other uncategorised genres.
+RYM allows tagging of descriptors to denote features of the releases documented on their site and this template uses that tree. Some genres are being moved to the descriptor system (e.g. holiday music, soundtracks, mashup, a cappella) however there has been a freeze on the genre hierarchy, thus no genres can be removed yet without the permission of the moderation team. As a result, genres that are intended to be moved into the descriptor system have been given the Descriptor meta-genre as a parent. The tag hierarchy file maintains this part of RYM's hierarchy but places it in the "Uncategorised" section alongside other uncategorised genres.
+
+The following have `[mood]` appended to their name to differentiate them due to unique name limitations with the app I'm using (from when this was solely for genres) that I need to remove:
+- A cappella
+- Choral
+- Vocal group
+- Novelty
 
 ## Thanks
 - **Londinium** for creating an initial version of the RYM genre tree as a MusicBee tag hierarchy template. If it weren't for them I wouldn't have caught Darkwave years ago.
