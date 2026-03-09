@@ -1774,6 +1774,7 @@ Genres
                         Occitan Folk Music::genre
                         Auvergnat Folk Music::genre
                         Gascon Folk Music::genre
+                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
@@ -1949,14 +1950,6 @@ Genres
                     Trova yucateca::genre
                 Milonga::genre
                 Muliza::genre
-                Música criolla peruana
-                    Música criolla peruana::genre
-                    Festejo::genre
-                    Landó::genre
-                    Marinera::genre
-                    Polka peruana::genre
-                    Tondero::genre
-                    Vals criollo::genre
                 Música llanera::genre
                 Plena::genre
                 Saya::genre
@@ -2647,6 +2640,7 @@ Genres
         Sertanejo romântico::genre
         Sertanejo universitário
             Sertanejo universitário::genre
+            Agronejo::genre
             Arrocha sertanejo::genre
             Funknejo::genre
         Sophisti-Pop::genre
@@ -4436,6 +4430,7 @@ Genres
                         Occitan Folk Music::genre
                         Auvergnat Folk Music::genre
                         Gascon Folk Music::genre
+                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
@@ -4984,14 +4979,6 @@ Genres
                         Trova yucateca::genre
                     Milonga::genre
                     Muliza::genre
-                    Música criolla peruana
-                        Música criolla peruana::genre
-                        Festejo::genre
-                        Landó::genre
-                        Marinera::genre
-                        Polka peruana::genre
-                        Tondero::genre
-                        Vals criollo::genre
                     Música llanera::genre
                     Plena::genre
                     Saya::genre
@@ -5514,6 +5501,7 @@ Genres
             Lab Polyphony::genre
             Madrigal::genre
             Paghjella::genre
+            Polifonia occitana::genre
             Seto leelo::genre
             Sutartinės::genre
             Tosk Polyphony::genre
@@ -5710,6 +5698,7 @@ Genres
                     Sertanejo romântico::genre
                     Sertanejo universitário
                         Sertanejo universitário::genre
+                        Agronejo::genre
                         Arrocha sertanejo::genre
                         Funknejo::genre
                 Southeastern Brazilian Music
@@ -6139,6 +6128,7 @@ Genres
                         Occitan Folk Music::genre
                         Auvergnat Folk Music::genre
                         Gascon Folk Music::genre
+                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Gstanzl::genre
@@ -6314,14 +6304,6 @@ Genres
                     Trova yucateca::genre
                 Milonga::genre
                 Muliza::genre
-                Música criolla peruana
-                    Música criolla peruana::genre
-                    Festejo::genre
-                    Landó::genre
-                    Marinera::genre
-                    Polka peruana::genre
-                    Tondero::genre
-                    Vals criollo::genre
                 Música llanera::genre
                 Plena::genre
                 Saya::genre
@@ -7031,6 +7013,7 @@ Genres
                 Lab Polyphony::genre
                 Madrigal::genre
                 Paghjella::genre
+                Polifonia occitana::genre
                 Seto leelo::genre
                 Sutartinės::genre
                 Tosk Polyphony::genre
@@ -7050,6 +7033,7 @@ Genres
                 Barbershop
                     Barbershop::genre
                     Jubilee::genre
+                Doo-Wop::genre
         Field Recordings
             Field Recordings::genre
             Nature Recordings
@@ -7157,8 +7141,10 @@ Scenes & Movements
     Demoscene::genre
     Desi Hip Hop::genre
     Deutschrock::genre
+    DMV Hip Hop::genre
     Dolewave::genre
     Donosti Sound::genre
+    Doom WAD Music::genre
     Doujin Music
         Doujin Music::genre
         Touhou Music::genre
