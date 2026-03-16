@@ -292,6 +292,7 @@ Descriptors
         Greed::mood
         Grief::mood
         Guns::mood
+        Healing::mood
         Health
             Health::mood
             Disease::mood
@@ -3124,6 +3125,7 @@ Genres
             Futurepop::genre
             Pon-chak disco::genre
             Techno kayō::genre
+        Tarz::genre
         Teen Pop::genre
         Toytown Pop::genre
         Traditional Pop
@@ -4089,6 +4091,7 @@ Genres
                         Burrakatha::genre
                 Sufi Rock::genre
                 Sufiana kalam::genre
+                Tarz::genre
                 Vedic Chant::genre
             Southeast Asian Music
                 Southeast Asian Music::genre
@@ -5087,6 +5090,7 @@ Genres
                     Entechna laika::genre
                     Modern Laika::genre
                     Skiladika::genre
+            Hornpipe::genre
             Iberian Music
                 Iberian Music::genre
                 Basque Folk Music::genre
@@ -7812,6 +7816,7 @@ Scenes & Movements
     Taqwacore::genre
     Teutonic Thrash Metal::genre
     Texas Psychedelia::genre
+    The Batcave::genre
     The Wave::genre
     Tropicália::genre
     Tropicanibalismo::genre
