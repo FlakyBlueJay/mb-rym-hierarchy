@@ -72,7 +72,6 @@ Descriptors
         Novelty [mood]::mood
         Parody::mood
         Pastiche::mood
-        Poem::mood
         Section
             Interlude::mood
             Intro::mood
@@ -84,6 +83,7 @@ Descriptors
         Suite::mood
     Lyrics
         Code-mixing::mood
+        Dialogue::mood
         Lyrical dissonance::mood
         Narrative::mood
         Stream of consciousness::mood
@@ -297,6 +297,7 @@ Descriptors
             Health::mood
             Disease::mood
             Fitness::mood
+            Injury::mood
             Mental health
                 Mental health::mood
                 Addiction::mood
@@ -375,7 +376,9 @@ Descriptors
             Money::mood
             Gambling::mood
             Poverty::mood
-        Monsters::mood
+        Monsters
+            Monsters::mood
+            Vampires::mood
         Mythology::mood
         Nature
             Nature::mood
@@ -433,7 +436,6 @@ Descriptors
         Television::mood
         Time::mood
         Travel::mood
-        Vampires::mood
         Vehicles
             Vehicles::mood
             Cars::mood
@@ -459,12 +461,15 @@ Descriptors
         Androgynous vocals::mood
         Crooning::mood
         Deadpan::mood
+        Falsetto::mood
         Female vocalist::mood
         Gang vocals::mood
         Harsh vocals::mood
         Male vocalist::mood
         Nonbinary vocalist::mood
-        Nonlexical vocables::mood
+        Nonlexical vocables
+            Nonlexical vocables::mood
+            Humming::mood
         Pitched-down vocals::mood
         Pitched-up vocals::mood
         Sing-rapping::mood
@@ -3083,6 +3088,7 @@ Genres
                 Dolewave::genre
                 Neo-Acoustic::genre
                 Paisley Underground::genre
+            Neon Pop Punk::genre
             Piano Rock::genre
             Pop Yeh-Yeh::genre
             Post-Britpop::genre
@@ -3297,6 +3303,7 @@ Genres
             Pop Punk
                 Pop Punk::genre
                 Easycore::genre
+                Neon Pop Punk::genre
                 Seishun Punk::genre
             Positive Punk::genre
             Psychobilly::genre
@@ -7228,6 +7235,7 @@ Genres
                 Dolewave::genre
                 Neo-Acoustic::genre
                 Paisley Underground::genre
+            Neon Pop Punk::genre
             Piano Rock::genre
             Pop Yeh-Yeh::genre
             Post-Britpop::genre
@@ -7315,6 +7323,7 @@ Genres
             Pop Punk
                 Pop Punk::genre
                 Easycore::genre
+                Neon Pop Punk::genre
                 Seishun Punk::genre
             Positive Punk::genre
             Psychobilly::genre
@@ -7618,7 +7627,6 @@ Scenes & Movements
     Demoscene::genre
     Desi Hip Hop::genre
     Deutschrock::genre
-    DMV Hip Hop::genre
     Dolewave::genre
     Donosti Sound::genre
     Doom WAD Music::genre
@@ -7631,6 +7639,7 @@ Scenes & Movements
         East Coast Hip Hop::genre
         Bronx Drill::genre
         Brooklyn Drill::genre
+        DMV Hip Hop::genre
     Emo Revival::genre
     English Underground
         English Underground::genre
