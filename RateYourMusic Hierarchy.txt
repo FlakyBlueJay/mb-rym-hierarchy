@@ -309,7 +309,9 @@ Descriptors
             Carnaval::mood
             Christmas::mood
             Halloween::mood
-        Horror::mood
+        Horror
+            Horror::mood
+            Cosmic horror::mood
         Ideology
             Ideology::mood
             Anti-religious::mood
@@ -340,6 +342,7 @@ Descriptors
                 Sikh::mood
             Satanism::mood
             Vegetarianism::mood
+        Indigeneity::mood
         Individuality::mood
         Internet::mood
         Introspective
@@ -470,6 +473,7 @@ Descriptors
         Nonlexical vocables
             Nonlexical vocables::mood
             Humming::mood
+            Scat singing::mood
         Pitched-down vocals::mood
         Pitched-up vocals::mood
         Sing-rapping::mood
@@ -2731,7 +2735,9 @@ Genres
                 Industrial Metal::genre
                 Cyber Metal::genre
                 Neue Deutsche Härte::genre
-            Industrial Rock::genre
+            Industrial Rock
+                Industrial Rock::genre
+                Machine Rock::genre
             Industrial Techno
                 Industrial Techno::genre
                 Birmingham Sound::genre
@@ -3789,6 +3795,7 @@ Genres
                 Shashmaqam::genre
                 Sufiana kalam::genre
                 Tajik Music::genre
+                Tarz::genre
                 Tibetan Music
                     Tibetan Music::genre
                     Chöd::genre
@@ -7094,7 +7101,9 @@ Genres
                 Swancore::genre
             Sass::genre
         Heartland Rock::genre
-        Industrial Rock::genre
+        Industrial Rock
+            Industrial Rock::genre
+            Machine Rock::genre
         Jam Band
             Jam Band::genre
             Jamgrass::genre
@@ -7533,8 +7542,8 @@ Genres
             Radio Broadcast Recordings::genre
         Hanmai::genre
         Hauntology::genre
-        Hymns
-            Hymns::genre
+        Hymn
+            Hymn::genre
             Bhajan::genre
             Lauda::genre
             Purísima::genre
@@ -7621,6 +7630,7 @@ Scenes & Movements
     Cleveland Punk::genre
     Clube da esquina::genre
     Cocktail Nation::genre
+    Crisálida sónica::genre
     Dariacore::genre
     Darmstadt School::genre
     Dek Bass::genre
@@ -7778,6 +7788,7 @@ Scenes & Movements
     Rock radical vasco::genre
     Rock sónico::genre
     Rock subterráneo::genre
+    Rock triste::genre
     Rock urbano español::genre
     Rock urbano mexicano::genre
     Roman School::genre
