@@ -178,6 +178,7 @@ Descriptors
         Rhythmic
             Rhythmic::mood
             Bouncy::mood
+            Plodding::genre
             Punchy::mood
             Stomping::mood
         Smooth::mood
@@ -5742,6 +5743,7 @@ Genres
                 Piyyut
                     Piyyut::genre
                     Baqashot::genre
+                    Zemirot::genre
             Muzika mizrahit
                 Muzika mizrahit::genre
                 Muzikat dika'on::genre
@@ -7592,6 +7594,7 @@ Scenes & Movements
     Beijing New Sound::genre
     Bérite Club::genre
     Bernese Dialect Scene::genre
+    Black Rio::genre
     Bloghouse::genre
     Bosstown Sound::genre
     Bristol Sound::genre
@@ -7760,6 +7763,7 @@ Scenes & Movements
             Nueva canción chilena::genre
             Nueva trova::genre
             Nuevo Cancionero::genre
+    Nueva escena chilena::genre
     Nueva ola::genre
     NWOBHM::genre
     Onkyo::genre
