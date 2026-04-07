@@ -58,18 +58,18 @@ Descriptors
         Diss::mood
         Ensemble
             Ensemble::mood
-            A cappella [mood]::mood
+            A cappella::mood
             Acoustic::mood
-            Choral [mood]::mood
+            Choral::mood
             Duet::mood
             Instrumental::mood
             Orchestral::mood
             Posse cut::mood
             Unaccompanied solo::mood
-            Vocal group [mood]::mood
+            Vocal group::mood
         Medley::mood
         Monologue::mood
-        Novelty [mood]::mood
+        Novelty::mood
         Parody::mood
         Pastiche::mood
         Section
@@ -178,7 +178,7 @@ Descriptors
         Rhythmic
             Rhythmic::mood
             Bouncy::mood
-            Plodding::genre
+            Plodding::mood
             Punchy::mood
             Stomping::mood
         Smooth::mood
@@ -197,7 +197,7 @@ Descriptors
             Generative music::mood
             Improvisiation
                 Improvisiation::mood
-                Freestyle [mood]::mood
+                Freestyle::mood
                 Jamming::mood
             Polyrhythm::mood
             Through-composed::mood
@@ -2013,7 +2013,7 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spirituals::genre
+                Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
@@ -5794,7 +5794,7 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spirituals::genre
+                Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
@@ -6376,7 +6376,7 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spirituals::genre
+                Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
