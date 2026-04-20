@@ -15,9 +15,16 @@ For those who want to do the latter, quit MusicBee and go to the following folde
 
 - for those who have installed from the standard installer, go to your `Application Data/Roaming` folder. On Windows, you can paste `%APPDATA%` into Explorer which will drop you into the folder.
 - for those who have installed from the Microsoft Store, `AppData\Local\Packages\50072StevenMayall.MusicBee_kcr266et74avj\LocalCache\Roaming\` (thank you RYM user **mallavity**)
-- for those who have installed MusicBee in the WINE compatibility layer, find the WINE prefix or "bottle" it was installed in. Then, go to `drive_c/users/YOURUSERHERE/Application Data/Roaming`
+- for those who have installed MusicBee in WINE, find the WINE prefix or "bottle" it was installed in. Then, go to `drive_c/users/YOURUSERHERE/Application Data/Roaming`
 
 Go to the MusicBee folder in Roaming, and a "TagHierarchyTemplates" folder should be available (MusicBee would have made it when the Tag Hierarchy Explorer was enabled). Copy the .txt file to the folder and then restart MusicBee. Your tag hierarchy explorer should have an option titled "RateYourMusic Genre Hierarchy".
+
+## Tag Mappings
+| RYM Tree             | MusicBee Tag Mapping |
+| -------------------- | -------------------- |
+| Genres      		   | Genre                |
+| Scenes & Movements   | Genre                |
+| Descriptors		   | Mood                 |
 
 ## Notes
 Since this is all done by hand, some entries might be missing or inaccurate, but it should be accurate from 15th June 2021 onwards, with the intention of regular updates. I also comment on what genres have been changed in every commit, in case people need to update their tags. Report any inaccuracies to either the issues page here, my Rate Your Music account or my socials (see profile)
@@ -38,12 +45,6 @@ Vorbis comments (used by FLAC, OGG, Opus and other "Vorbis" codecs) and APE tags
 ### "Descriptor" Meta-Genres
 RYM allows tagging of descriptors to denote features of the releases documented on their site and this template uses that tree. Some genres are being moved to the descriptor system (e.g. holiday music, soundtracks, mashup, a cappella) however there has been a freeze on the genre hierarchy, thus no genres can be removed yet without the permission of the moderation team. As a result, genres that are intended to be moved into the descriptor system have been given the Descriptor meta-genre as a parent. The tag hierarchy file maintains this part of RYM's hierarchy but places it in the "Uncategorised" section alongside other uncategorised genres.
 
-The following have `[mood]` appended to their name to differentiate them due to unique name limitations with the app I'm using (from when this was solely for genres) that I need to remove:
-- A cappella
-- Choral
-- Vocal group
-- Novelty
-
 ## Thanks
-- **Londinium** for creating an initial version of the RYM genre tree as a MusicBee tag hierarchy template. If it weren't for them I wouldn't have caught Darkwave years ago.
+- **Londinium** for creating an initial version of the RYM genre tree as a MusicBee tag hierarchy template. If it weren't for them I wouldn't have caught Darkwave years ago since RYM had hidden it until recently.
 - Everyone who has reported inaccuracies on the list.
