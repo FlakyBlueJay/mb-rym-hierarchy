@@ -388,6 +388,7 @@ Descriptors
             Nature::mood
             Animals
                 Animals::mood
+                Birds::mood
                 Hunting::mood
                 Pets::mood
             Evironmentalism::mood
@@ -1047,6 +1048,7 @@ Genres
                     Rawstyle
                         Rawstyle::genre
                         Rawphoric::genre
+                        Xtra Raw::genre
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
@@ -1298,6 +1300,7 @@ Genres
                 2-Step::genre
                 Bassline::genre
                 Breakstep::genre
+                Dark Garage::genre
                 Future Garage::genre
                 Speed Garage::genre
             Wonky
@@ -1544,6 +1547,7 @@ Genres
                     Rawstyle
                         Rawstyle::genre
                         Rawphoric::genre
+                        Xtra Raw::genre
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
@@ -1795,6 +1799,7 @@ Genres
                 2-Step::genre
                 Bassline::genre
                 Breakstep::genre
+                Dark Garage::genre
                 Future Garage::genre
                 Speed Garage::genre
             Wonky
@@ -5114,6 +5119,7 @@ Genres
                     Catalan Folk Music::genre
                     Sardana::genre
                 Euskal kantagintza berria::genre
+                Fandango::genre
                 Nova cançó::genre
                 Portuguese Music
                     Portuguese Music::genre
