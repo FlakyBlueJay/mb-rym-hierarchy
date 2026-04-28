@@ -389,6 +389,8 @@ Descriptors
             Animals
                 Animals::mood
                 Birds::mood
+                Cats::mood
+                Horses::mood
                 Hunting::mood
                 Pets::mood
             Evironmentalism::mood
@@ -1054,6 +1056,7 @@ Genres
                     Raggatek::genre
                 Jumpstyle::genre
                 Lento violento::genre
+                Neo Rave::genre
                 NRG::genre
                 UK Hard House
                     UK Hard House::genre
@@ -1553,6 +1556,7 @@ Genres
                     Raggatek::genre
                 Jumpstyle::genre
                 Lento violento::genre
+                Neo Rave::genre
                 NRG::genre
                 UK Hard House
                     UK Hard House::genre
@@ -1998,7 +2002,9 @@ Genres
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
-                Traditional Séga::genre
+                Traditional Séga
+                    Traditional Séga::genre
+                    Séga tambour::genre
                 Zinli::genre
             American Folk Music
                 American Folk Music::genre
@@ -2019,7 +2025,9 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spiritual::genre
+                Spiritual
+                    Spiritual::genre
+                    Concert Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
@@ -2489,7 +2497,9 @@ Genres
                 Malayali Folk Music
                     Malayali Folk Music::genre
                     Mappila::genre
-                Marathi Folk Music::genre
+                Marathi Folk Music
+                    Marathi Folk Music::genre
+                    Lavani::genre
                 Newa Folk Music::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
@@ -3449,7 +3459,9 @@ Genres
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
-                Traditional Séga::genre
+                Traditional Séga
+                    Traditional Séga::genre
+                    Séga tambour::genre
                 Zinli::genre
             Afro-Jazz::genre
             Cape Verdean Music
@@ -3603,7 +3615,9 @@ Genres
                 Séga
                     Séga::genre
                     Seggae::genre
-                    Traditional Séga::genre
+                    Traditional Séga
+                        Traditional Séga::genre
+                        Séga tambour::genre
             Southern African Music
                 Southern African Music::genre
                 Amapiano
@@ -4095,7 +4109,9 @@ Genres
                     Malayali Folk Music
                         Malayali Folk Music::genre
                         Mappila::genre
-                    Marathi Folk Music::genre
+                    Marathi Folk Music
+                        Marathi Folk Music::genre
+                        Lavani::genre
                     Newa Folk Music::genre
                     Odia Folk Music::genre
                     Pashto Folk Music::genre
@@ -4200,6 +4216,7 @@ Genres
                         Malay Gamelan::genre
                     Malay Folk Music::genre
                     Pop Yeh-Yeh::genre
+                    Rock Kapak::genre
                 Molam
                     Molam::genre
                     Molam sing::genre
@@ -4407,6 +4424,7 @@ Genres
                         Turkish Black Sea Region Folk Music::genre
                         Uzun Hava::genre
                         Zeybek::genre
+                Yemenite Jewish Diwan::genre
         Austronesian Music
             Austronesian Music::genre
             Balinese Music
@@ -4452,6 +4470,7 @@ Genres
                     Malay Gamelan::genre
                 Malay Folk Music::genre
                 Pop Yeh-Yeh::genre
+                Rock Kapak::genre
             Minangkabau Music
                 Minangkabau Music::genre
                 Pop Minang
@@ -4645,6 +4664,11 @@ Genres
             Armenian Church Music::genre
             Byzantine Chant::genre
             Coptic Music::genre
+            East Slavic Church Music
+                East Slavic Church Music::genre
+                Choral Concerto::genre
+                New Direction::genre
+                Znamenny Chant::genre
             Ethiopian Church Music::genre
             Kyivan Chant::genre
             Mass
@@ -4662,10 +4686,6 @@ Genres
                     Gregorian Chant::genre
                     Sarum Chant::genre
                 Old Roman Chant::genre
-            Russian Orthodox Liturgical Music
-                Russian Orthodox Liturgical Music::genre
-                Choral Concerto::genre
-                Znamenny Chant::genre
             Seinn nan salm::genre
             Syriac Chant::genre
         European Music
@@ -4809,6 +4829,11 @@ Genres
             Crimean Tatar Music::genre
             Dechovka::genre
             Dutch Cabaret::genre
+            East Slavic Church Music
+                East Slavic Church Music::genre
+                Choral Concerto::genre
+                New Direction::genre
+                Znamenny Chant::genre
             European Folk Music
                 European Folk Music::genre
                 Alpine Folk Music
@@ -5070,7 +5095,6 @@ Genres
                 White Voice::genre
                 Yiddish Folksong::genre
             Fanfare::genre
-            Finnish Tango::genre
             German Music
                 German Music::genre
                 Alsatian Folk Music::genre
@@ -5230,6 +5254,7 @@ Genres
                 Nordic Music::genre
                 Dansbandsmusik::genre
                 Dansktop::genre
+                Finnish Tango::genre
                 Greenlandic Music
                     Greenlandic Music::genre
                     Kalattut::genre
@@ -5302,10 +5327,6 @@ Genres
                     Bard Rock::genre
                 Russian Chanson::genre
                 Russian Folk Music::genre
-                Russian Orthodox Liturgical Music
-                    Russian Orthodox Liturgical Music::genre
-                    Choral Concerto::genre
-                    Znamenny Chant::genre
                 Russian Romance::genre
             Schlager
                 Schlager::genre
@@ -5758,6 +5779,7 @@ Genres
             Oriental Jewish Music
                 Oriental Jewish Music::genre
                 Baqashot::genre
+                Yemenite Jewish Diwan::genre
             Orthodox Pop::genre
             Sephardic Music
                 Sephardic Music::genre
@@ -5801,7 +5823,9 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spiritual::genre
+                Spiritual
+                    Spiritual::genre
+                    Concert Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
@@ -5987,7 +6011,9 @@ Genres
                 Himene tarava::genre
                 Māori Music::genre
                 Samoan Music::genre
-                Tahitian Music::genre
+                Tahitian Music
+                    Tahitian Music::genre
+                    'Ote'a::genre
         Polyphonic Chant
             Polyphonic Chant::genre
             Ars nova::genre
@@ -6362,7 +6388,9 @@ Genres
                     Sotho-Tswana Folk Music::genre
                 Tchinkoumé::genre
                 Traditional Maloya::genre
-                Traditional Séga::genre
+                Traditional Séga
+                    Traditional Séga::genre
+                    Séga tambour::genre
                 Zinli::genre
             American Folk Music
                 American Folk Music::genre
@@ -6383,7 +6411,9 @@ Genres
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
                 Sacred Harp Singing::genre
-                Spiritual::genre
+                Spiritual
+                    Spiritual::genre
+                    Concert Spiritual::genre
                 Talking Blues::genre
                 Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
@@ -6853,7 +6883,9 @@ Genres
                 Malayali Folk Music
                     Malayali Folk Music::genre
                     Mappila::genre
-                Marathi Folk Music::genre
+                Marathi Folk Music
+                    Marathi Folk Music::genre
+                    Lavani::genre
                 Newa Folk Music::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
@@ -7056,6 +7088,7 @@ Genres
                 Sleaze Rock::genre
             Heavy Psych::genre
             Occult Rock::genre
+            Rock Kapak::genre
             Stoner Rock::genre
         Hardcore [Punk]
             Hardcore [Punk]::genre
@@ -7689,6 +7722,7 @@ Scenes & Movements
     Hoboken Sound::genre
     Holy Terror::genre
     Hưng ca::genre
+    Indie Sleaze Revival::genre
     J-core
         J-core::genre
         Future Core::genre
@@ -7717,6 +7751,7 @@ Scenes & Movements
     Leningrad Rock Club Scene::genre
     Little Band Scene::genre
     Loft Jazz::genre
+    Los Angeles Counterculture::genre
     Louisville Sound::genre
     Madchester::genre
     Maidcore::genre
@@ -7735,11 +7770,13 @@ Scenes & Movements
     Movida madrileña::genre
     Nardcore::genre
     Nederbeat::genre
+    Neo Rave::genre
     Nerdcore Hip Hop::genre
     Nerdcore Techno::genre
     Neue Deutsche Welle::genre
     Neue Volksmusik::genre
     New Brunswick Basement Scene::genre
+    New Direction::genre
     New London Jazz::genre
     New Music::genre
     New Orleans Blues::genre
@@ -7779,6 +7816,7 @@ Scenes & Movements
     Paisley Underground::genre
     Palm Desert Scene::genre
     Pansy Craze::genre
+    Pessoal do Ceará::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
     Positive Punk::genre
@@ -7796,6 +7834,7 @@ Scenes & Movements
     Road Rap::genre
     Rock barrial::genre
     Rock in Opposition::genre
+    Rock Kapak::genre
     Rock radical vasco::genre
     Rock sónico::genre
     Rock subterráneo::genre
