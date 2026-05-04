@@ -472,7 +472,9 @@ Descriptors
         Falsetto::mood
         Female vocalist::mood
         Gang vocals::mood
-        Harsh vocals::mood
+        Harsh vocals
+            Harsh vocals::mood
+            Growling::mood
         Male vocalist::mood
         Nonbinary vocalist::mood
         Nonlexical vocables
@@ -2335,6 +2337,7 @@ Genres
                         Fado de Coimbra::genre
                     Trás-os-Montes Folk Music::genre
                     Vira::genre
+                Romani Folk Music::genre
                 Romanian Folk Music
                     Romanian Folk Music::genre
                     Bocet::genre
@@ -2476,7 +2479,6 @@ Genres
             Ladino Folksong::genre
             Ob-Ugric Folk Music::genre
             Payada::genre
-            Romani Folk Music::genre
             Samoyedic Folk Music::genre
             South Asian Folk Music
                 South Asian Folk Music::genre
@@ -2805,6 +2807,7 @@ Genres
         Modal Jazz
             Modal Jazz::genre
             Jazz Mugham::genre
+        Neo-Bop::genre
         Post-Bop::genre
         Smooth Jazz::genre
         Soul Jazz::genre
@@ -4667,10 +4670,10 @@ Genres
             East Slavic Church Music
                 East Slavic Church Music::genre
                 Choral Concerto::genre
+                Kyivan Chant::genre
                 New Direction::genre
                 Znamenny Chant::genre
             Ethiopian Church Music::genre
-            Kyivan Chant::genre
             Mass
                 Mass::genre
                 Requiem::genre
@@ -4832,6 +4835,7 @@ Genres
             East Slavic Church Music
                 East Slavic Church Music::genre
                 Choral Concerto::genre
+                Kyivan Chant::genre
                 New Direction::genre
                 Znamenny Chant::genre
             European Folk Music
@@ -5015,6 +5019,7 @@ Genres
                         Fado de Coimbra::genre
                     Trás-os-Montes Folk Music::genre
                     Vira::genre
+                Romani Folk Music::genre
                 Romanian Folk Music
                     Romanian Folk Music::genre
                     Bocet::genre
@@ -5226,7 +5231,6 @@ Genres
             Kabarett::genre
             Kalmyk Music::genre
             Kleinkunst::genre
-            Kyivan Chant::genre
             Madrigal::genre
             Medieval Classical Music
                 Medieval Classical Music::genre
@@ -6721,6 +6725,7 @@ Genres
                         Fado de Coimbra::genre
                     Trás-os-Montes Folk Music::genre
                     Vira::genre
+                Romani Folk Music::genre
                 Romanian Folk Music
                     Romanian Folk Music::genre
                     Bocet::genre
@@ -6862,7 +6867,6 @@ Genres
             Ladino Folksong::genre
             Ob-Ugric Folk Music::genre
             Payada::genre
-            Romani Folk Music::genre
             Samoyedic Folk Music::genre
             South Asian Folk Music
                 South Asian Folk Music::genre
@@ -7816,6 +7820,7 @@ Scenes & Movements
     Paisley Underground::genre
     Palm Desert Scene::genre
     Pansy Craze::genre
+    Pécs Underground Scene::genre
     Pessoal do Ceará::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
