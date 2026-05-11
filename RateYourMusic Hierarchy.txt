@@ -187,6 +187,7 @@ Descriptors
         Squelchy::mood
         Technical::mood
         Theatrical::mood
+        Ticking::mood
     Technique
         Blast beats::mood
         Composition
@@ -222,6 +223,7 @@ Descriptors
         Alienation::mood
         Aliens::mood
         Apology::mood
+        Beauty::mood
         Betrayal
             Betrayal::mood
             Infidelity::mood
@@ -420,6 +422,7 @@ Descriptors
         Science fiction
             Science fiction::mood
             Cyberpunk::mood
+        Secrets::mood
         Self-hatred::mood
         Self-love::mood
         Sexual::mood
@@ -431,6 +434,7 @@ Descriptors
         Sports
             Sports::mood
             Association football::mood
+            Baseball::mood
             Basketball::mood
             Boxing::mood
             Racing::mood
@@ -467,6 +471,7 @@ Descriptors
             Mining::mood
     Vocals
         Androgynous vocals::mood
+        Belting::mood
         Crooning::mood
         Deadpan::mood
         Falsetto::mood
@@ -5350,12 +5355,14 @@ Genres
                 Valsa brasileira::genre
         Gospel
             Gospel::genre
+            Black Gospel
+                Black Gospel::genre
+                Praise Break::genre
+                Sacred Steel::genre
             Country Gospel
                 Country Gospel::genre
                 Bluegrass Gospel::genre
             Jubilee::genre
-            Praise Break::genre
-            Sacred Steel::genre
             Southern Gospel::genre
             Traditional Black Gospel::genre
             Urban Contemporary Gospel::genre
@@ -5735,6 +5742,8 @@ Genres
                 Métis Music
                     Métis Music::genre
                     Métis Fiddling::genre
+                Navajo Music::genre
+                O'odham Music::genre
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
@@ -5847,6 +5856,10 @@ Genres
             Barbershop
                 Barbershop::genre
                 Jubilee::genre
+            Black Gospel
+                Black Gospel::genre
+                Praise Break::genre
+                Sacred Steel::genre
             Boogie Woogie::genre
             Canadian Folk Music
                 Canadian Folk Music::genre
@@ -5937,6 +5950,8 @@ Genres
                 Métis Music
                     Métis Music::genre
                     Métis Fiddling::genre
+                Navajo Music::genre
+                O'odham Music::genre
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
@@ -5967,7 +5982,6 @@ Genres
                 Roots Rock::genre
                 Swamp Rock::genre
                 Tex-Mex::genre
-            Sacred Steel::genre
             Shaker Music::genre
             Southern Gospel::genre
             Texan Music
