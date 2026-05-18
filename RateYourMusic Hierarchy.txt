@@ -62,7 +62,6 @@ Descriptors
             Acoustic::mood
             Choral::mood
             Duet::mood
-            Instrumental::mood
             Orchestral::mood
             Posse cut::mood
             Unaccompanied solo::mood
@@ -161,6 +160,7 @@ Descriptors
         Eclectic::mood
         Fuzzy::mood
         Heavy::mood
+        Instrumental::mood
         Lo-fi::mood
         Lush::mood
         Maximalist::mood
@@ -178,6 +178,7 @@ Descriptors
         Rhythmic
             Rhythmic::mood
             Bouncy::mood
+            Chugging::mood
             Plodding::mood
             Punchy::mood
             Stomping::mood
@@ -276,6 +277,7 @@ Descriptors
             Parenthood::mood
         Fans::mood
         Fantasy::mood
+        Farewell::mood
         Fashion
             Fashion::mood
             Cosmetics::mood
@@ -288,10 +290,12 @@ Descriptors
         Gender
             Gender::mood
             Feminism::mood
+            Gender dysphoria::mood
             Manhood::mood
             Nonbinary::mood
             Transgender::mood
             Womanhood::mood
+        Gratitude::mood
         Greed::mood
         Grief::mood
         Guns::mood
@@ -304,6 +308,7 @@ Descriptors
             Mental health
                 Mental health::mood
                 Addiction::mood
+                Gender dysphoria::mood
                 Trauma::mood
             Sobriety::mood
         Hedonism::mood
@@ -377,6 +382,7 @@ Descriptors
             Marriage::mood
             Divorce::mood
         Mathematics::mood
+        Memory::mood
         Migration::mood
         Money
             Money::mood
@@ -447,6 +453,7 @@ Descriptors
         Television::mood
         Time::mood
         Travel::mood
+        Utopian::mood
         Vehicles
             Vehicles::mood
             Cars::mood
@@ -480,6 +487,7 @@ Descriptors
         Harsh vocals
             Harsh vocals::mood
             Growling::mood
+            Shrieking::mood
         Male vocalist::mood
         Nonbinary vocalist::mood
         Nonlexical vocables
@@ -1293,6 +1301,7 @@ Genres
                         Zenonesque::genre
                     Suomisaundi::genre
                 Tech Trance::genre
+                Trance 2.0::genre
                 Uplifting Trance::genre
                 Vocal Trance::genre
             Trap [EDM]
@@ -1793,6 +1802,7 @@ Genres
                         Zenonesque::genre
                     Suomisaundi::genre
                 Tech Trance::genre
+                Trance 2.0::genre
                 Uplifting Trance::genre
                 Vocal Trance::genre
             Trap [EDM]
@@ -2072,6 +2082,7 @@ Genres
                     Cantoria::genre
                     Repente::genre
                 Capoeira Music::genre
+                Cururu::genre
                 Fandango caiçara::genre
                 Jongo
                     Jongo::genre
@@ -2684,6 +2695,7 @@ Genres
             Frat Rap::genre
             Futuristic Swag::genre
         Ratchet::genre
+        Samba Rap::genre
         Sigilkore::genre
         Snap::genre
         Stoner Rap::genre
@@ -2946,6 +2958,7 @@ Genres
         Operetta
             Operetta::genre
             Kalon'ny fahiny::genre
+        Piosenka aktorska::genre
         Revue::genre
         Rock Musical::genre
         Show Tunes::genre
@@ -5299,6 +5312,7 @@ Genres
                 Mazur::genre
                 Mazurka::genre
                 Miejski folk::genre
+                Piosenka aktorska::genre
                 Poezja śpiewana::genre
                 Polish Folk Music
                     Polish Folk Music::genre
@@ -6085,6 +6099,7 @@ Genres
                         Cantoria::genre
                         Repente::genre
                     Capoeira Music::genre
+                    Cururu::genre
                     Fandango caiçara::genre
                     Jongo
                         Jongo::genre
@@ -6233,6 +6248,7 @@ Genres
                         Samba-rock::genre
                         Samba Soul::genre
                     Sambalanço::genre
+                Samba Rap::genre
                 Sertanejo
                     Sertanejo::genre
                     Rasqueado::genre
@@ -6469,6 +6485,7 @@ Genres
                     Cantoria::genre
                     Repente::genre
                 Capoeira Music::genre
+                Cururu::genre
                 Fandango caiçara::genre
                 Jongo
                     Jongo::genre
@@ -7466,7 +7483,7 @@ Genres
             Nueva trova::genre
     Spoken Word
         Spoken Word::genre
-        Fairy Tales::genre
+        Fairy Tale::genre
         Folktales::genre
         Guided Meditation::genre
         Interview::genre
@@ -7494,7 +7511,6 @@ Genres
         Bugle Call::genre
         Children's Music
             Children's Music::genre
-            Fairy Tales::genre
             Lullabies
                 Lullabies::genre
                 Batonebi Songs::genre
@@ -7511,7 +7527,7 @@ Genres
                     Chap Hop::genre
                 Comedy Rock::genre
                 Scrumpy and Western::genre
-            Prank Calls::genre
+            Prank Call::genre
             Sketch Comedy::genre
             Stand-Up Comedy::genre
         Concert Band::genre
@@ -7677,6 +7693,7 @@ Scenes & Movements
     Cascadian Black Metal::genre
     CCM
         CCM::genre
+        Jesus Music::genre
         Praise & Worship
             Praise & Worship::genre
             Praise Break::genre
@@ -7692,6 +7709,9 @@ Scenes & Movements
     Clube da esquina::genre
     Cocktail Nation::genre
     Crisálida sónica::genre
+    D.C. Hardcore
+        D.C. Hardcore::genre
+        Revolution Summer::genre
     Dariacore::genre
     Darmstadt School::genre
     Dek Bass::genre
@@ -7848,7 +7868,6 @@ Scenes & Movements
     Queercore::genre
     RABM::genre
     Red Dirt::genre
-    Revolution Summer::genre
     Riot Grrrl::genre
     Road Rap::genre
     Rock barrial::genre
@@ -7914,6 +7933,7 @@ Scenes & Movements
     UK Hip Hop::genre
     UK82::genre
     Ultra::genre
+    Umeå Hardcore::genre
     Urban Grooves::genre
     V-Pop::genre
     Vanguarda paulista::genre
