@@ -83,6 +83,7 @@ Descriptors
     Lyrics
         Code-mixing::mood
         Dialogue::mood
+        List song::mood
         Lyrical dissonance::mood
         Narrative::mood
         Stream of consciousness::mood
@@ -106,6 +107,7 @@ Descriptors
             Provocative::mood
             Rebellious::mood
             Sarcastic::mood
+            Sassy::mood
             Satirical::mood
             Serious::mood
             Vulgar::mood
@@ -223,6 +225,7 @@ Descriptors
         Ageing::mood
         Alienation::mood
         Aliens::mood
+        Alter ego::mood
         Apology::mood
         Beauty::mood
         Betrayal
@@ -251,6 +254,7 @@ Descriptors
         Disaster
             Disaster::mood
             Drought::mood
+        Dishonesty::mood
         Domestic::mood
         Drugs
             Drugs::mood
@@ -418,6 +422,7 @@ Descriptors
             Philosophical::mood
             Existential::mood
             Nihilistic::mood
+        Phones::mood
         Pirates::mood
         Police::mood
         Prison::mood
@@ -447,6 +452,7 @@ Descriptors
             Skateboarding::mood
             Wrestling::mood
         Suburban::mood
+        Success::mood
         Technology
             Technology::mood
             Robots::mood
@@ -2044,9 +2050,10 @@ Genres
                 Sacred Harp Singing::genre
                 Spiritual
                     Spiritual::genre
-                    Concert Spiritual::genre
+                    Concert Spiritual
+                        Concert Spiritual::genre
+                        Jubilee::genre
                 Talking Blues::genre
-                Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
                 Traditional Country
                     Traditional Country::genre
@@ -2419,6 +2426,7 @@ Genres
                     Copla::genre
                     Cuplé::genre
                     Galician Folk Music::genre
+                    Música festera::genre
                     Pasodoble::genre
                     Valencian Folk Music::genre
                 Volga-Ural Folk Music
@@ -5103,6 +5111,7 @@ Genres
                     Copla::genre
                     Cuplé::genre
                     Galician Folk Music::genre
+                    Música festera::genre
                     Pasodoble::genre
                     Valencian Folk Music::genre
                 Volga-Ural Folk Music
@@ -5166,7 +5175,9 @@ Genres
                     Catalan Folk Music::genre
                     Sardana::genre
                 Euskal kantagintza berria::genre
-                Fandango::genre
+                Fandango
+                    Fandango::genre
+                    Fandango caiçara::genre
                 Nova cançó::genre
                 Portuguese Music
                     Portuguese Music::genre
@@ -5217,6 +5228,7 @@ Genres
                         Copla::genre
                         Cuplé::genre
                         Galician Folk Music::genre
+                        Música festera::genre
                         Pasodoble::genre
                         Valencian Folk Music::genre
                     Tecnorumba::genre
@@ -5373,12 +5385,11 @@ Genres
                 Black Gospel::genre
                 Praise Break::genre
                 Sacred Steel::genre
+                Traditional Black Gospel::genre
             Country Gospel
                 Country Gospel::genre
                 Bluegrass Gospel::genre
-            Jubilee::genre
             Southern Gospel::genre
-            Traditional Black Gospel::genre
             Urban Contemporary Gospel::genre
         Hispanic Music
             Hispanic Music::genre
@@ -5712,6 +5723,7 @@ Genres
                     Copla::genre
                     Cuplé::genre
                     Galician Folk Music::genre
+                    Música festera::genre
                     Pasodoble::genre
                     Valencian Folk Music::genre
                 Tecnorumba::genre
@@ -5757,7 +5769,9 @@ Genres
                     Métis Music::genre
                     Métis Fiddling::genre
                 Navajo Music::genre
-                O'odham Music::genre
+                O'odham Music
+                    O'odham Music::genre
+                    Waila::genre
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
@@ -5852,9 +5866,10 @@ Genres
                 Sacred Harp Singing::genre
                 Spiritual
                     Spiritual::genre
-                    Concert Spiritual::genre
+                    Concert Spiritual
+                        Concert Spiritual::genre
+                        Jubilee::genre
                 Talking Blues::genre
-                Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
                 Traditional Country
                     Traditional Country::genre
@@ -5874,6 +5889,7 @@ Genres
                 Black Gospel::genre
                 Praise Break::genre
                 Sacred Steel::genre
+                Traditional Black Gospel::genre
             Boogie Woogie::genre
             Canadian Folk Music
                 Canadian Folk Music::genre
@@ -5965,7 +5981,9 @@ Genres
                     Métis Music::genre
                     Métis Fiddling::genre
                 Navajo Music::genre
-                O'odham Music::genre
+                O'odham Music
+                    O'odham Music::genre
+                    Waila::genre
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
@@ -6447,9 +6465,10 @@ Genres
                 Sacred Harp Singing::genre
                 Spiritual
                     Spiritual::genre
-                    Concert Spiritual::genre
+                    Concert Spiritual
+                        Concert Spiritual::genre
+                        Jubilee::genre
                 Talking Blues::genre
-                Traditional Black Gospel::genre
                 Traditional Cajun Music::genre
                 Traditional Country
                     Traditional Country::genre
@@ -6822,6 +6841,7 @@ Genres
                     Copla::genre
                     Cuplé::genre
                     Galician Folk Music::genre
+                    Música festera::genre
                     Pasodoble::genre
                     Valencian Folk Music::genre
                 Volga-Ural Folk Music
@@ -7634,6 +7654,7 @@ Genres
             Circus March::genre
             Dobrado::genre
             Funeral March::genre
+            Música festera::genre
         Marching Band
             Marching Band::genre
             Beni::genre
@@ -7672,6 +7693,7 @@ Scenes & Movements
     Bloghouse::genre
     Bosstown Sound::genre
     Bristol Sound::genre
+    British Beat Room::genre
     British Rhythm & Blues::genre
     British Trad Jazz::genre
     Britpop::genre
@@ -7926,6 +7948,7 @@ Scenes & Movements
     Texas Psychedelia::genre
     The Batcave::genre
     The Wave::genre
+    Topanga Canyon Scene::genre
     Tropicália::genre
     Tropicanibalismo::genre
     Trova rosarina::genre
