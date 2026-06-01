@@ -232,6 +232,7 @@ Descriptors
             Betrayal::mood
             Infidelity::mood
         Birthday::mood
+        Boredom::mood
         Callback::mood
         Childhood::mood
         Community::mood
@@ -504,6 +505,7 @@ Descriptors
         Pitched-up vocals::mood
         Sing-rapping::mood
         Talk-singing::mood
+        Toasting::mood
         Whispering::mood
         Whistling::mood
         Yarling::mood
@@ -935,6 +937,7 @@ Genres
             Coupé-décalé::genre
             Cruise::genre
             Dariacore::genre
+            Dark Disco::genre
             Deconstructed Club::genre
             Dek Bass::genre
             Digital Cumbia::genre
@@ -1281,6 +1284,7 @@ Genres
                 Acid Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
+                Electro Trance::genre
                 Euro Trance
                     Euro Trance::genre
                     Hands Up
@@ -1436,6 +1440,7 @@ Genres
             Coupé-décalé::genre
             Cruise::genre
             Dariacore::genre
+            Dark Disco::genre
             Deconstructed Club::genre
             Dek Bass::genre
             Digital Cumbia::genre
@@ -1782,6 +1787,7 @@ Genres
                 Acid Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
+                Electro Trance::genre
                 Euro Trance
                     Euro Trance::genre
                     Hands Up
@@ -1891,6 +1897,7 @@ Genres
             Synthwave::genre
             Chillsynth::genre
             Darksynth::genre
+            Dreamwave::genre
             Sovietwave::genre
         Tecnobrega
             Tecnobrega::genre
@@ -5386,11 +5393,11 @@ Genres
                 Praise Break::genre
                 Sacred Steel::genre
                 Traditional Black Gospel::genre
+                Urban Contemporary Gospel::genre
             Country Gospel
                 Country Gospel::genre
                 Bluegrass Gospel::genre
             Southern Gospel::genre
-            Urban Contemporary Gospel::genre
         Hispanic Music
             Hispanic Music::genre
             Canción melódica
@@ -5890,6 +5897,7 @@ Genres
                 Praise Break::genre
                 Sacred Steel::genre
                 Traditional Black Gospel::genre
+                Urban Contemporary Gospel::genre
             Boogie Woogie::genre
             Canadian Folk Music
                 Canadian Folk Music::genre
@@ -7692,6 +7700,7 @@ Scenes & Movements
     Black Rio::genre
     Bloghouse::genre
     Bosstown Sound::genre
+    Boston Hardcore::genre
     Bristol Sound::genre
     British Beat Room::genre
     British Rhythm & Blues::genre
@@ -7780,8 +7789,10 @@ Scenes & Movements
     Hip-hopolo::genre
     Hipco::genre
     Hoboken Sound::genre
+    Hollandse School::genre
     Holy Terror::genre
     Hưng ca::genre
+    Impressionism::genre
     Indie Sleaze Revival::genre
     J-core
         J-core::genre
