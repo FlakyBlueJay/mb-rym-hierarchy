@@ -327,6 +327,7 @@ Descriptors
             Cosmic horror::mood
         Ideology
             Ideology::mood
+            Anticonsumerism::mood
             Antireligious::mood
             Feminism::mood
             Pacifism::mood
@@ -665,6 +666,7 @@ Genres
                 Lied::genre
                 Mélodie::genre
                 Orchestral Song::genre
+                Spiritual Art Song::genre
             Bagatelle::genre
             Ballet
                 Ballet::genre
@@ -1006,6 +1008,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                TBM::genre
             Electro::genre
             Electro latino::genre
             Electro Swing::genre
@@ -1274,6 +1277,7 @@ Genres
                     Minimal Techno::genre
                     Dub Techno::genre
                 Peak Time Techno::genre
+                TBM::genre
                 Wonky Techno::genre
             Techno Bass
                 Techno Bass::genre
@@ -1509,6 +1513,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                TBM::genre
             Electro::genre
             Electro latino::genre
             Electro Swing::genre
@@ -1777,6 +1782,7 @@ Genres
                     Minimal Techno::genre
                     Dub Techno::genre
                 Peak Time Techno::genre
+                TBM::genre
                 Wonky Techno::genre
             Techno Bass
                 Techno Bass::genre
@@ -2060,6 +2066,7 @@ Genres
                     Concert Spiritual
                         Concert Spiritual::genre
                         Jubilee::genre
+                        Spiritual Art Song::genre
                 Talking Blues::genre
                 Traditional Cajun Music::genre
                 Traditional Country
@@ -2282,6 +2289,7 @@ Genres
                 English Folk Music
                     English Folk Music::genre
                     Cornish Folk Music::genre
+                    Morris Music::genre
                     Northumbrian Folk Music::genre
                     Scrumpy and Western::genre
                 Flemish Folk Music::genre
@@ -2462,7 +2470,9 @@ Genres
                     Chamamé::genre
                     Chamamé tropical::genre
                 Chamarrita rioplatense::genre
-                Cueca::genre
+                Cueca
+                    Cueca::genre
+                    Cueca brava::genre
                 Huayno
                     Huayno::genre
                     Bolivian Huayño::genre
@@ -2533,7 +2543,6 @@ Genres
                 Marathi Folk Music
                     Marathi Folk Music::genre
                     Lavani::genre
-                Newa Folk Music::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
@@ -2775,6 +2784,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                TBM::genre
             Electro-Industrial
                 Electro-Industrial::genre
                 Dark Electro
@@ -2801,9 +2811,11 @@ Genres
         Avant-Garde Jazz
             Avant-Garde Jazz::genre
             Experimental Big Band::genre
+            Free Funk::genre
             Free Jazz
                 Free Jazz::genre
                 European Free Jazz::genre
+            Yass::genre
         Bebop::genre
         Big Band
             Big Band::genre
@@ -2826,7 +2838,9 @@ Genres
         Jazz Fusion::genre
         Jazz manouche::genre
         Jazz Poetry::genre
-        Jazz-Funk::genre
+        Jazz-Funk
+            Jazz-Funk::genre
+            Free Funk::genre
         Kréyol djaz::genre
         Latin Jazz
             Latin Jazz::genre
@@ -3137,7 +3151,6 @@ Genres
                 Group Sounds::genre
                 Jovem Guarda::genre
                 Merseybeat::genre
-                Nederbeat::genre
             Beat Rock::genre
             Big Music::genre
             Britpop::genre
@@ -3397,7 +3410,9 @@ Genres
             Go-Go
                 Go-Go::genre
                 Bounce Beat::genre
-            Jazz-Funk::genre
+            Jazz-Funk
+                Jazz-Funk::genre
+                Free Funk::genre
             Latin Funk::genre
             P-Funk::genre
             Porn Groove::genre
@@ -3559,6 +3574,7 @@ Genres
                 Kidumbak::genre
                 Marrabenta::genre
                 Mchiriku::genre
+                Mugithi::genre
                 Muziki wa dansi::genre
                 Ngoma
                     Ngoma::genre
@@ -4107,6 +4123,7 @@ Genres
                     Indian Pop::genre
                     Bohjpuri Pop::genre
                 Indo Jazz::genre
+                Newa Music::genre
                 Pop Ghazal::genre
                 Rigsar::genre
                 Sindhi Music::genre
@@ -4148,7 +4165,6 @@ Genres
                     Marathi Folk Music
                         Marathi Folk Music::genre
                         Lavani::genre
-                    Newa Folk Music::genre
                     Odia Folk Music::genre
                     Pashto Folk Music::genre
                     Punjabi Folk Music::genre
@@ -4590,6 +4606,7 @@ Genres
                 Tumba francesa::genre
             Cumbia colombiana::genre
             Dembow::genre
+            Dominican Music::genre
             French Caribbean Music
                 French Caribbean Music::genre
                 Bele::genre
@@ -4815,6 +4832,7 @@ Genres
                 English Folk Music
                     English Folk Music::genre
                     Cornish Folk Music::genre
+                    Morris Music::genre
                     Northumbrian Folk Music::genre
                     Scrumpy and Western::genre
                 English Pastoral School::genre
@@ -4967,6 +4985,7 @@ Genres
                 English Folk Music
                     English Folk Music::genre
                     Cornish Folk Music::genre
+                    Morris Music::genre
                     Northumbrian Folk Music::genre
                     Scrumpy and Western::genre
                 Flemish Folk Music::genre
@@ -5434,6 +5453,7 @@ Genres
                     Chilean Music::genre
                     Canto a lo poeta::genre
                     Chilote Music::genre
+                    Cueca brava::genre
                     Cumbia chilena
                         Cumbia chilena::genre
                         Nueva cumbia chilena::genre
@@ -5508,6 +5528,7 @@ Genres
                     Merecumbé::genre
                 Currulao::genre
                 Dembow::genre
+                Dominican Music::genre
                 Gaita zuliana::genre
                 Guarania::genre
                 Hispanic American Folk Music
@@ -5522,7 +5543,9 @@ Genres
                         Chamamé::genre
                         Chamamé tropical::genre
                     Chamarrita rioplatense::genre
-                    Cueca::genre
+                    Cueca
+                        Cueca::genre
+                        Cueca brava::genre
                     Huayno
                         Huayno::genre
                         Bolivian Huayño::genre
@@ -5625,6 +5648,7 @@ Genres
                 Peruvian Music
                     Peruvian Music::genre
                     Chimaychi::genre
+                    Coplas cajamarquinas::genre
                     Cumbia peruana
                         Cumbia peruana::genre
                         Chicha::genre
@@ -5876,6 +5900,7 @@ Genres
                     Concert Spiritual
                         Concert Spiritual::genre
                         Jubilee::genre
+                        Spiritual Art Song::genre
                 Talking Blues::genre
                 Traditional Cajun Music::genre
                 Traditional Country
@@ -6331,6 +6356,7 @@ Genres
                 Chilean Music::genre
                 Canto a lo poeta::genre
                 Chilote Music::genre
+                Cueca brava::genre
                 Cumbia chilena
                     Cumbia chilena::genre
                     Nueva cumbia chilena::genre
@@ -6344,7 +6370,9 @@ Genres
                 Tonada chilena::genre
             Chuntunqui romántico::genre
             Conjunto andino::genre
-            Cueca::genre
+            Cueca
+                Cueca::genre
+                Cueca brava::genre
             Cumbia colombiana::genre
             Currulao::genre
             Gaita zuliana::genre
@@ -6373,6 +6401,7 @@ Genres
             Peruvian Music
                 Peruvian Music::genre
                 Chimaychi::genre
+                Coplas cajamarquinas::genre
                 Cumbia peruana
                     Cumbia peruana::genre
                     Chicha::genre
@@ -6476,6 +6505,7 @@ Genres
                     Concert Spiritual
                         Concert Spiritual::genre
                         Jubilee::genre
+                        Spiritual Art Song::genre
                 Talking Blues::genre
                 Traditional Cajun Music::genre
                 Traditional Country
@@ -6698,6 +6728,7 @@ Genres
                 English Folk Music
                     English Folk Music::genre
                     Cornish Folk Music::genre
+                    Morris Music::genre
                     Northumbrian Folk Music::genre
                     Scrumpy and Western::genre
                 Flemish Folk Music::genre
@@ -6878,7 +6909,9 @@ Genres
                     Chamamé::genre
                     Chamamé tropical::genre
                 Chamarrita rioplatense::genre
-                Cueca::genre
+                Cueca
+                    Cueca::genre
+                    Cueca brava::genre
                 Huayno
                     Huayno::genre
                     Bolivian Huayño::genre
@@ -6949,7 +6982,6 @@ Genres
                 Marathi Folk Music
                     Marathi Folk Music::genre
                     Lavani::genre
-                Newa Folk Music::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
@@ -7339,7 +7371,6 @@ Genres
                 Group Sounds::genre
                 Jovem Guarda::genre
                 Merseybeat::genre
-                Nederbeat::genre
             Beat Rock::genre
             Big Music::genre
             Britpop::genre
