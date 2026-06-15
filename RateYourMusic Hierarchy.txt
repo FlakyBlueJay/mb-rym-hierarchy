@@ -32,6 +32,7 @@ Descriptors
             Rain::mood
             Storm::mood
             Tropical::mood
+            Wetland::mood
         Nocturnal::mood
         Party::mood
         Pastoral::mood
@@ -322,6 +323,7 @@ Descriptors
             Carnaval::mood
             Christmas::mood
             Halloween::mood
+        Homesickness::mood
         Horror
             Horror::mood
             Cosmic horror::mood
@@ -1138,6 +1140,7 @@ Genres
                     Splittercore::genre
                 Terrorcore::genre
                 Uptempo Hardcore::genre
+            Hardtekk::genre
             Hardvapour::genre
             Hardwave::genre
             House
@@ -1643,6 +1646,7 @@ Genres
                     Splittercore::genre
                 Terrorcore::genre
                 Uptempo Hardcore::genre
+            Hardtekk::genre
             Hardvapour::genre
             Hardwave::genre
             House
@@ -1904,7 +1908,6 @@ Genres
             Chillsynth::genre
             Darksynth::genre
             Dreamwave::genre
-            Sovietwave::genre
         Tecnobrega
             Tecnobrega::genre
             Brega funk
@@ -2617,6 +2620,7 @@ Genres
         Afro Trap::genre
         Afroswing::genre
         Arabesque Rap::genre
+        Battle Rap::genre
         Bongo Flava::genre
         Boom Bap::genre
         Bounce
@@ -4544,7 +4548,6 @@ Genres
         Caribbean Music
             Caribbean Music::genre
             Aleke::genre
-            Bachata::genre
             Brukdown::genre
             Bullerengue::genre
             Calypso
@@ -4605,8 +4608,17 @@ Genres
                     Nueva trova::genre
                 Tumba francesa::genre
             Cumbia colombiana::genre
-            Dembow::genre
-            Dominican Music::genre
+            Dominican Music
+                Dominican Music::genre
+                Bachata::genre
+                Dembow::genre
+                Merengue
+                    Merengue::genre
+                    Mambo urbano::genre
+                    Merecumbé::genre
+                    Merengue típico::genre
+                    Merenhouse::genre
+                    Tecnomerengue::genre
             French Caribbean Music
                 French Caribbean Music::genre
                 Bele::genre
@@ -4677,13 +4689,6 @@ Genres
                 Rocksteady::genre
             Junkanoo::genre
             Kaseko::genre
-            Merengue
-                Merengue::genre
-                Mambo urbano::genre
-                Merecumbé::genre
-                Merengue típico::genre
-                Merenhouse::genre
-                Tecnomerengue::genre
             Palo de mayo::genre
             Parang::genre
             Porro::genre
@@ -5438,7 +5443,6 @@ Genres
                     Nuevo Cancionero::genre
                     RKT::genre
                 Avanzada::genre
-                Bachata::genre
                 Bailecito::genre
                 Bolero
                     Bolero::genre
@@ -5527,8 +5531,17 @@ Genres
                     Digital Cumbia::genre
                     Merecumbé::genre
                 Currulao::genre
-                Dembow::genre
-                Dominican Music::genre
+                Dominican Music
+                    Dominican Music::genre
+                    Bachata::genre
+                    Dembow::genre
+                    Merengue
+                        Merengue::genre
+                        Mambo urbano::genre
+                        Merecumbé::genre
+                        Merengue típico::genre
+                        Merenhouse::genre
+                        Tecnomerengue::genre
                 Gaita zuliana::genre
                 Guarania::genre
                 Hispanic American Folk Music
@@ -5594,13 +5607,6 @@ Genres
                     Tropipop::genre
                 Latin Rock::genre
                 Latin Soul::genre
-                Merengue
-                    Merengue::genre
-                    Mambo urbano::genre
-                    Merecumbé::genre
-                    Merengue típico::genre
-                    Merenhouse::genre
-                    Tecnomerengue::genre
                 Mexican Music
                     Mexican Music::genre
                     Bandas de viento de México
@@ -7989,6 +7995,7 @@ Scenes & Movements
     Teutonic Thrash Metal::genre
     Texas Psychedelia::genre
     The Batcave::genre
+    The Sound of Young Scotland::genre
     The Wave::genre
     Topanga Canyon Scene::genre
     Tropicália::genre
