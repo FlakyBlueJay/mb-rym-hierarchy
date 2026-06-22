@@ -92,6 +92,7 @@ Descriptors
             Altruistic::mood
             Apathetic::mood
             Boastful::mood
+            Cautionary::mood
             Compassionate::mood
             Cryptic::mood
             Cynical::mood
@@ -161,6 +162,7 @@ Descriptors
         Dense::mood
         Dissonant::mood
         Eclectic::mood
+        Four on the floor::mood
         Fuzzy::mood
         Heavy::mood
         Instrumental::mood
@@ -208,6 +210,7 @@ Descriptors
             Through-composed::mood
             Triple metre::mood
             Uncommon time signatures::mood
+        Interpolation::mood
         Leitmotif::mood
         Production
             Lobit::mood
@@ -417,6 +420,7 @@ Descriptors
         Nostalgia::mood
         Obsession::mood
         Occult::mood
+        Older adulthood::mood
         Paranoia::mood
         Paranormal
             Paranormal::mood
@@ -508,6 +512,7 @@ Descriptors
         Pitched-up vocals::mood
         Sing-rapping::mood
         Talk-singing::mood
+        Throat singing::mood
         Toasting::mood
         Whispering::mood
         Whistling::mood
@@ -560,6 +565,7 @@ Genres
                 Baisha xiyue::genre
                 Chinese Literati Music::genre
                 Dongjing::genre
+                Yanyue::genre
                 Yayue::genre
             Japanese Classical Music
                 Japanese Classical Music::genre
@@ -2063,7 +2069,7 @@ Genres
                 Jug Band::genre
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
-                Sacred Harp Singing::genre
+                Shape Note Singing::genre
                 Spiritual
                     Spiritual::genre
                     Concert Spiritual
@@ -2858,6 +2864,7 @@ Genres
             Modal Jazz::genre
             Jazz Mugham::genre
         Neo-Bop::genre
+        Paramaribop::genre
         Post-Bop::genre
         Smooth Jazz::genre
         Soul Jazz::genre
@@ -3405,7 +3412,6 @@ Genres
             New Jack Swing::genre
             Trap Soul::genre
             UK Street Soul::genre
-        Doo-Wop::genre
         Funk
             Funk::genre
             Afro-Funk::genre
@@ -3427,6 +3433,7 @@ Genres
         Rhythm & Blues
             Rhythm & Blues::genre
             British Rhythm & Blues::genre
+            Doo-Wop::genre
             Swamp Pop::genre
             Twist::genre
             West Side Sound::genre
@@ -3899,6 +3906,7 @@ Genres
                         Baisha xiyue::genre
                         Chinese Literati Music::genre
                         Dongjing::genre
+                        Yanyue::genre
                         Yayue::genre
                     Chinese Folk Music
                         Chinese Folk Music::genre
@@ -3943,6 +3951,7 @@ Genres
                         Baisha xiyue::genre
                         Chinese Literati Music::genre
                         Dongjing::genre
+                        Yanyue::genre
                         Yayue::genre
                     Japanese Classical Music
                         Japanese Classical Music::genre
@@ -5900,7 +5909,7 @@ Genres
                 Jug Band::genre
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
-                Sacred Harp Singing::genre
+                Shape Note Singing::genre
                 Spiritual
                     Spiritual::genre
                     Concert Spiritual
@@ -6402,6 +6411,7 @@ Genres
             Muliza::genre
             Música llanera::genre
             Onda nueva::genre
+            Paramaribop::genre
             Pasillo::genre
             Payada::genre
             Peruvian Music
@@ -6505,7 +6515,7 @@ Genres
                 Jug Band::genre
                 Pennsylvania Dutch Folk Music::genre
                 Ring Shout::genre
-                Sacred Harp Singing::genre
+                Shape Note Singing::genre
                 Spiritual
                     Spiritual::genre
                     Concert Spiritual
@@ -7610,8 +7620,8 @@ Genres
                 Ghost Dance Song::genre
                 Isicathamiya::genre
                 Mbube::genre
-                Sacred Harp Singing::genre
                 Sean-nós::genre
+                Shape Note Singing::genre
             Acoustic Rock::genre
             Choral
                 Choral::genre
@@ -7688,7 +7698,7 @@ Genres
             Bhajan::genre
             Lauda::genre
             Purísima::genre
-            Sacred Harp Singing::genre
+            Shape Note Singing::genre
         Jingles::genre
         Mantra
             Mantra::genre
@@ -7809,6 +7819,7 @@ Scenes & Movements
     Florida Fast Music::genre
     Fort Thunder Scene::genre
     Franco-Flemish School::genre
+    Frankfurt Sound::genre
     Frapcore::genre
     Free Noise::genre
     French Hip Hop::genre
