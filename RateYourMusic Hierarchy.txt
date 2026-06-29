@@ -28,6 +28,7 @@ Descriptors
             Aquatic::mood
             Desert::mood
             Forest::mood
+            Grassland::mood
             Mountains::mood
             Rain::mood
             Storm::mood
@@ -367,6 +368,7 @@ Descriptors
         Introspective
             Introspective::mood
             Regret::mood
+        Law::mood
         Leisure::mood
         LGBTQ
             LGBTQ::mood
@@ -501,6 +503,7 @@ Descriptors
         Harsh vocals
             Harsh vocals::mood
             Growling::mood
+            Pig squealing::mood
             Shrieking::mood
         Male vocalist::mood
         Nonbinary vocalist::mood
@@ -603,6 +606,7 @@ Genres
                 Iraqi Maqam::genre
                 Sawt::genre
             Azerbaijani Mugham::genre
+            Bayawan::genre
             Persian Classical Music::genre
             Shashmaqam::genre
             Sufiana kalam::genre
@@ -1261,6 +1265,7 @@ Genres
             Nerdcore Techno::genre
             Nu-Disco::genre
             Ori deck::genre
+            Outrun::genre
             Post-Dubstep::genre
             Shangaan Electro::genre
             Singeli::genre
@@ -1410,6 +1415,7 @@ Genres
         Dungeon Synth
             Dungeon Synth::genre
             Comfy Synth::genre
+            Keller Synth::genre
             Winter Synth::genre
         Electro Hop::genre
         Electro-Industrial
@@ -1767,6 +1773,7 @@ Genres
             Nerdcore Techno::genre
             Nu-Disco::genre
             Ori deck::genre
+            Outrun::genre
             Post-Dubstep::genre
             Shangaan Electro::genre
             Singeli::genre
@@ -1914,6 +1921,7 @@ Genres
             Chillsynth::genre
             Darksynth::genre
             Dreamwave::genre
+            Outrun::genre
         Tecnobrega
             Tecnobrega::genre
             Brega funk
@@ -2552,6 +2560,7 @@ Genres
                 Marathi Folk Music
                     Marathi Folk Music::genre
                     Lavani::genre
+                Nepali lok geet::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
@@ -4178,6 +4187,7 @@ Genres
                     Marathi Folk Music
                         Marathi Folk Music::genre
                         Lavani::genre
+                    Nepali lok geet::genre
                     Odia Folk Music::genre
                     Pashto Folk Music::genre
                     Punjabi Folk Music::genre
@@ -5678,6 +5688,7 @@ Genres
                         Polka peruana::genre
                         Tondero::genre
                         Vals criollo::genre
+                    Pandilla::genre
                     Tunantada::genre
                 Polka paraguaya::genre
                 Porro::genre
@@ -5881,6 +5892,7 @@ Genres
                 Iraqi Maqam::genre
                 Sawt::genre
             Azerbaijani Mugham::genre
+            Bayawan::genre
             Persian Classical Music::genre
             Shashmaqam::genre
             Sufiana kalam::genre
@@ -6432,6 +6444,7 @@ Genres
                     Polka peruana::genre
                     Tondero::genre
                     Vals criollo::genre
+                Pandilla::genre
                 Tunantada::genre
             Polka paraguaya::genre
             Porro::genre
@@ -6998,6 +7011,7 @@ Genres
                 Marathi Folk Music
                     Marathi Folk Music::genre
                     Lavani::genre
+                Nepali lok geet::genre
                 Odia Folk Music::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
@@ -7640,7 +7654,6 @@ Genres
                 Samba-enredo::genre
                 Toada de Boi::genre
             Musical Parody::genre
-            Novelty::genre
             Orchestral Music
                 Orchestral Music::genre
                 Orchestral Song::genre
@@ -7721,6 +7734,7 @@ Genres
             Pipe Band::genre
         Mashup::genre
         Mechanical Music::genre
+        Novelty::genre
         Parlour Music::genre
         Sacred Singing Circle::genre
         Slowed & Reverb::genre
@@ -7951,6 +7965,7 @@ Scenes & Movements
     Red Dirt::genre
     Riot Grrrl::genre
     Road Rap::genre
+    Rock Against Racism::genre
     Rock barrial::genre
     Rock in Opposition::genre
     Rock Kapak::genre
@@ -7976,6 +7991,7 @@ Scenes & Movements
         Scene::genre
         Happy Rock::genre
     Scottish Folk Revival::genre
+    Scum Rock::genre
     Seapunk::genre
     Second British Folk Revival::genre
     Second Viennese School::genre
@@ -8006,6 +8022,7 @@ Scenes & Movements
     Teutonic Thrash Metal::genre
     Texas Psychedelia::genre
     The Batcave::genre
+    The New Thing::genre
     The Sound of Young Scotland::genre
     The Wave::genre
     Topanga Canyon Scene::genre
