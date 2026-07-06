@@ -385,6 +385,7 @@ Descriptors
             Love::mood
             Breakup::mood
             Infidelity::mood
+            Long-distance relationship::mood
             Unrequited love::mood
         Loyalty::mood
         Macabre
@@ -518,6 +519,7 @@ Descriptors
         Throat singing::mood
         Toasting::mood
         Whispering::mood
+        Whistle register::mood
         Whistling::mood
         Yarling::mood
 Genres
@@ -706,6 +708,7 @@ Genres
                 String Quartet::genre
             Character Piece
                 Character Piece::genre
+                Impromptu::genre
                 Nocturne::genre
             Choral
                 Choral::genre
@@ -727,7 +730,6 @@ Genres
             Étude::genre
             Fantasia::genre
             Fugue::genre
-            Impromptu::genre
             Latin American Classical Music::genre
             Light Music::genre
             Madrigal::genre
@@ -820,7 +822,9 @@ Genres
                 New German School::genre
                 Romantische Oper::genre
                 Saint Petersburg School::genre
-            Serenade::genre
+            Serenade
+                Serenade::genre
+                Seresta::genre
             Sonata::genre
             Spanish Classical Music
                 Spanish Classical Music::genre
@@ -2127,7 +2131,9 @@ Genres
                     Ponto de umbanda::genre
                 Lundu::genre
                 Maracatu::genre
-                Modinha::genre
+                Modinha
+                    Modinha::genre
+                    Seresta::genre
                 Rasqueado::genre
                 Samba de roda::genre
                 Sertanejo de raiz
@@ -6184,7 +6190,9 @@ Genres
                         Ponto de umbanda::genre
                     Lundu::genre
                     Maracatu::genre
-                    Modinha::genre
+                    Modinha
+                        Modinha::genre
+                        Seresta::genre
                     Rasqueado::genre
                     Samba de roda::genre
                     Sertanejo de raiz
@@ -6360,6 +6368,7 @@ Genres
                     Samba de gafieira::genre
                     Samba de terreiro::genre
                     Samba-enredo::genre
+                    Seresta::genre
                     Tamborzão::genre
                 Southern Brazilian Music
                     Southern Brazilian Music::genre
@@ -6578,7 +6587,9 @@ Genres
                     Ponto de umbanda::genre
                 Lundu::genre
                 Maracatu::genre
-                Modinha::genre
+                Modinha
+                    Modinha::genre
+                    Seresta::genre
                 Rasqueado::genre
                 Samba de roda::genre
                 Sertanejo de raiz
@@ -7631,6 +7642,7 @@ Genres
                 A cappella::genre
                 Canto cardenche::genre
                 Choral Concerto::genre
+                Contemporary A Cappella::genre
                 Ghost Dance Song::genre
                 Isicathamiya::genre
                 Mbube::genre
@@ -8019,6 +8031,7 @@ Scenes & Movements
     Swing Revival::genre
     T-Pop::genre
     Taqwacore::genre
+    Tecktonik::genre
     Teutonic Thrash Metal::genre
     Texas Psychedelia::genre
     The Batcave::genre
@@ -8033,6 +8046,7 @@ Scenes & Movements
     UK Hip Hop::genre
     UK82::genre
     Ultra::genre
+    Ultra Metal::genre
     Umeå Hardcore::genre
     Urban Grooves::genre
     V-Pop::genre
