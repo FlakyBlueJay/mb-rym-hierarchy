@@ -85,6 +85,7 @@ Descriptors
     Lyrics
         Code-mixing::mood
         Dialogue::mood
+        Epistolary::mood
         List song::mood
         Lyrical dissonance::mood
         Narrative::mood
@@ -195,6 +196,7 @@ Descriptors
         Technical::mood
         Theatrical::mood
         Ticking::mood
+        Warbly::mood
     Technique
         Blast beats::mood
         Composition
@@ -507,6 +509,7 @@ Descriptors
             Pig squealing::mood
             Shrieking::mood
         Male vocalist::mood
+        Murmuring::mood
         Nonbinary vocalist::mood
         Nonlexical vocables
             Nonlexical vocables::mood
@@ -515,6 +518,7 @@ Descriptors
         Pitched-down vocals::mood
         Pitched-up vocals::mood
         Sing-rapping::mood
+        Stuttering vocals::mood
         Talk-singing::mood
         Throat singing::mood
         Toasting::mood
@@ -939,6 +943,7 @@ Genres
                     Breakbeat Hardcore::genre
                     Darkside::genre
                     Hardcore Breaks::genre
+                    Jungle Techno::genre
                 Breakbeat Kota
                     Breakbeat Kota::genre
                     Jungle Dutch::genre
@@ -1121,6 +1126,7 @@ Genres
                     Breakbeat Hardcore::genre
                     Darkside::genre
                     Hardcore Breaks::genre
+                    Jungle Techno::genre
                 Breakcore
                     Breakcore::genre
                     Lolicore::genre
@@ -1447,6 +1453,7 @@ Genres
                     Breakbeat Hardcore::genre
                     Darkside::genre
                     Hardcore Breaks::genre
+                    Jungle Techno::genre
                 Breakbeat Kota
                     Breakbeat Kota::genre
                     Jungle Dutch::genre
@@ -1629,6 +1636,7 @@ Genres
                     Breakbeat Hardcore::genre
                     Darkside::genre
                     Hardcore Breaks::genre
+                    Jungle Techno::genre
                 Breakcore
                     Breakcore::genre
                     Lolicore::genre
@@ -2555,6 +2563,7 @@ Genres
                     Biraha::genre
                 Boduberu::genre
                 Burushaski Folk Music::genre
+                Dohori::genre
                 Gujarati Folk Music::genre
                 Kannada Folk Music::genre
                 Kirtan
@@ -3214,6 +3223,7 @@ Genres
             Schlager::genre
             Humppa::genre
             Levenslied::genre
+            Partyschlager::genre
             Volkstümliche Musik::genre
         Sertanejo romântico::genre
         Sertanejo universitário
@@ -4182,6 +4192,7 @@ Genres
                         Biraha::genre
                     Boduberu::genre
                     Burushaski Folk Music::genre
+                    Dohori::genre
                     Gujarati Folk Music::genre
                     Kannada Folk Music::genre
                     Kirtan
@@ -4752,6 +4763,7 @@ Genres
                 Choral Concerto::genre
                 Kyivan Chant::genre
                 New Direction::genre
+                Valaam Chant::genre
                 Znamenny Chant::genre
             Ethiopian Church Music::genre
             Mass
@@ -4918,6 +4930,7 @@ Genres
                 Choral Concerto::genre
                 Kyivan Chant::genre
                 New Direction::genre
+                Valaam Chant::genre
                 Znamenny Chant::genre
             European Folk Music
                 European Folk Music::genre
@@ -5419,10 +5432,12 @@ Genres
                 Russian Chanson::genre
                 Russian Folk Music::genre
                 Russian Romance::genre
+                Valaam Chant::genre
             Schlager
                 Schlager::genre
                 Humppa::genre
                 Levenslied::genre
+                Partyschlager::genre
                 Volkstümliche Musik::genre
             Schottische
                 Schottische::genre
@@ -5446,6 +5461,7 @@ Genres
             Country Gospel
                 Country Gospel::genre
                 Bluegrass Gospel::genre
+            Gospel Hymn::genre
             Southern Gospel::genre
         Hispanic Music
             Hispanic Music::genre
@@ -5551,6 +5567,7 @@ Genres
                         Chicha::genre
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
+                        Cumbia sureña peruana::genre
                     Cumbia pop::genre
                     Cumbia salvadoreña::genre
                     Digital Cumbia::genre
@@ -5685,6 +5702,7 @@ Genres
                         Chicha::genre
                         Cumbia amazónica::genre
                         Cumbia norteña peruana::genre
+                        Cumbia sureña peruana::genre
                     Huaylarsh::genre
                     Música criolla peruana
                         Música criolla peruana::genre
@@ -6026,6 +6044,7 @@ Genres
             Cowboy Poetry::genre
             Eastern-Style Polka::genre
             Foxtrot::genre
+            Gospel Hymn::genre
             Greenlandic Music
                 Greenlandic Music::genre
                 Kalattut::genre
@@ -6444,6 +6463,7 @@ Genres
                     Chicha::genre
                     Cumbia amazónica::genre
                     Cumbia norteña peruana::genre
+                    Cumbia sureña peruana::genre
                 Huaylarsh::genre
                 Música criolla peruana
                     Música criolla peruana::genre
@@ -7011,6 +7031,7 @@ Genres
                     Biraha::genre
                 Boduberu::genre
                 Burushaski Folk Music::genre
+                Dohori::genre
                 Gujarati Folk Music::genre
                 Kannada Folk Music::genre
                 Kirtan
@@ -7721,6 +7742,7 @@ Genres
         Hymn
             Hymn::genre
             Bhajan::genre
+            Gospel Hymn::genre
             Lauda::genre
             Purísima::genre
             Shape Note Singing::genre
