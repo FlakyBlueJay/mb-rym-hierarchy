@@ -1239,7 +1239,9 @@ Genres
                     Outsider House::genre
                     Lo-Fi House::genre
                 Phonk House::genre
-                Progressive House::genre
+                Progressive House
+                    Progressive House::genre
+                    Epic House::genre
                 Romanian Popcorn::genre
                 Speed Garage::genre
                 Stutter House::genre
@@ -1749,7 +1751,9 @@ Genres
                     Outsider House::genre
                     Lo-Fi House::genre
                 Phonk House::genre
-                Progressive House::genre
+                Progressive House
+                    Progressive House::genre
+                    Epic House::genre
                 Romanian Popcorn::genre
                 Speed Garage::genre
                 Stutter House::genre
@@ -2509,6 +2513,7 @@ Genres
                     Bolivian Huayño::genre
                     Carnavalito::genre
                     Chimaychi::genre
+                    Chuscada::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -3287,8 +3292,8 @@ Genres
         Stoner Metal::genre
         Stoner Rock::genre
         Tropicália::genre
-    Punk
-        Punk::genre
+    Punk / Post-Punk / Hardcore
+        Punk / Post-Punk / Hardcore::genre
         Art Punk
             Art Punk::genre
             Egg Punk::genre
@@ -3384,7 +3389,9 @@ Genres
             Deathrock::genre
             Deutschpunk::genre
             Egg Punk::genre
-            Garage Punk::genre
+            Garage Punk
+                Garage Punk::genre
+                Budget Rock::genre
             Glam Punk::genre
             Hardcore Punk
                 Hardcore Punk::genre
@@ -3598,7 +3605,9 @@ Genres
                 Benga::genre
                 Beni::genre
                 Bongo Flava::genre
-                Comorian Music::genre
+                Comorian Music
+                    Comorian Music::genre
+                    M'godro::genre
                 Dinka Music::genre
                 Genge
                     Genge::genre
@@ -5606,6 +5615,7 @@ Genres
                         Bolivian Huayño::genre
                         Carnavalito::genre
                         Chimaychi::genre
+                        Chuscada::genre
                     Jibaro::genre
                     Joropo::genre
                     Malagueña venezolana::genre
@@ -5696,6 +5706,7 @@ Genres
                 Peruvian Music
                     Peruvian Music::genre
                     Chimaychi::genre
+                    Chuscada::genre
                     Coplas cajamarquinas::genre
                     Cumbia peruana
                         Cumbia peruana::genre
@@ -5834,6 +5845,7 @@ Genres
                     Bolivian Huayño::genre
                     Carnavalito::genre
                     Chimaychi::genre
+                    Chuscada::genre
                 Morenada::genre
                 Tonada potosina::genre
             Indigenous North American Music
@@ -6442,6 +6454,7 @@ Genres
                     Bolivian Huayño::genre
                     Carnavalito::genre
                     Chimaychi::genre
+                    Chuscada::genre
                 Morenada::genre
                 Tonada potosina::genre
             Joropo::genre
@@ -6457,6 +6470,7 @@ Genres
             Peruvian Music
                 Peruvian Music::genre
                 Chimaychi::genre
+                Chuscada::genre
                 Coplas cajamarquinas::genre
                 Cumbia peruana
                     Cumbia peruana::genre
@@ -6977,6 +6991,7 @@ Genres
                     Bolivian Huayño::genre
                     Carnavalito::genre
                     Chimaychi::genre
+                    Chuscada::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -7233,7 +7248,9 @@ Genres
             Frat Rock::genre
             Freakbeat::genre
             Garage Psych::genre
-            Garage Punk::genre
+            Garage Punk
+                Garage Punk::genre
+                Budget Rock::genre
             Garage Rock Revival::genre
         Glam Rock
             Glam Rock::genre
@@ -7503,7 +7520,9 @@ Genres
             Deathrock::genre
             Deutschpunk::genre
             Egg Punk::genre
-            Garage Punk::genre
+            Garage Punk
+                Garage Punk::genre
+                Budget Rock::genre
             Glam Punk::genre
             Hardcore Punk
                 Hardcore Punk::genre
@@ -7791,6 +7810,7 @@ Scenes & Movements
     Beach Music::genre
     Beijing New Sound::genre
     Bérite Club::genre
+    Berlin Techno::genre
     Bernese Dialect Scene::genre
     Black Rio::genre
     Bloghouse::genre
@@ -7850,6 +7870,7 @@ Scenes & Movements
     Doujin Music
         Doujin Music::genre
         Touhou Music::genre
+    Du ca::genre
     Dunedin Sound::genre
     Düsseldorf School::genre
     East Coast Hip Hop
