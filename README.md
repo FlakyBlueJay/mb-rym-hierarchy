@@ -5,7 +5,7 @@ A MusicBee tag hierarchy template created as a copy of the Rate Your Music genre
 *This project is unaffiliated with Sonemic.*
 
 [Link to the project on Rate Your Music](https://rateyourmusic.com/list/flaky_bastard/_unofficial-rym-genre-hierarchy-template-for-musicbee/)
-
+[Project mirror on Tangled.org](https://tangled.org/flaky.blue/mb-rym-hierarchy)
 ## Installation
 Firstly, enable the Tag Hierarchy Explorer by going to *View > Arrange Panels* and dragging the Tag Hierarchy Explorer option to one of the available left panes.
 
