@@ -234,6 +234,7 @@ Descriptors
         Aliens::mood
         Alter ego::mood
         Apology::mood
+        Aviation::mood
         Beauty::mood
         Betrayal
             Betrayal::mood
@@ -293,6 +294,7 @@ Descriptors
         Fashion
             Fashion::mood
             Cosmetics::mood
+            Jewelry::mood
         Fire::mood
         Fishing::mood
         Flirting::mood
@@ -930,7 +932,9 @@ Genres
             Nu-Disco::genre
         Electronic Dance Music
             Electronic Dance Music::genre
-            Artcore::genre
+            Artcore
+                Artcore::genre
+                Hard Renaissance::genre
             Balani Show::genre
             Balearic Beat::genre
             Bérite Club::genre
@@ -1150,6 +1154,7 @@ Genres
                         UK Hardcore::genre
                         Future Core::genre
                         Powerstomp::genre
+                Hard Renaissance::genre
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
@@ -1309,6 +1314,7 @@ Genres
                 Techno Bass::genre
                 Car Audio Bass::genre
             Tecnorumba::genre
+            Toytown Techno::genre
             Trance
                 Trance::genre
                 Acid Trance::genre
@@ -1393,6 +1399,7 @@ Genres
         Bit Music
             Bit Music::genre
             Chiptune::genre
+            Dungeon Chip::genre
             FM Synthesis::genre
             MIDI Music
                 MIDI Music::genre
@@ -1427,6 +1434,7 @@ Genres
         Dungeon Synth
             Dungeon Synth::genre
             Comfy Synth::genre
+            Dungeon Chip::genre
             Keller Synth::genre
             Winter Synth::genre
         Electro Hop::genre
@@ -1442,7 +1450,9 @@ Genres
             Musique concrète::genre
         Electronic Dance Music
             Electronic Dance Music::genre
-            Artcore::genre
+            Artcore
+                Artcore::genre
+                Hard Renaissance::genre
             Balani Show::genre
             Balearic Beat::genre
             Bérite Club::genre
@@ -1662,6 +1672,7 @@ Genres
                         UK Hardcore::genre
                         Future Core::genre
                         Powerstomp::genre
+                Hard Renaissance::genre
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
@@ -1821,6 +1832,7 @@ Genres
                 Techno Bass::genre
                 Car Audio Bass::genre
             Tecnorumba::genre
+            Toytown Techno::genre
             Trance
                 Trance::genre
                 Acid Trance::genre
@@ -2119,6 +2131,7 @@ Genres
                     Arabic Bellydance Music::genre
                     Raqs baladi::genre
                 Ayyalah::genre
+                Bedoui wahrani::genre
                 Fijiri::genre
                 Liwa::genre
                 Nuban::genre
@@ -2751,6 +2764,7 @@ Genres
         Nerdcore Hip Hop::genre
         Nervous Music::genre
         Philly Club Rap::genre
+        Pimp Rap::genre
         Political Hip Hop::genre
         Pop Rap
             Pop Rap::genre
@@ -3364,6 +3378,7 @@ Genres
                     Emoviolence::genre
                 Swancore::genre
             Sass::genre
+            Tough Guy Hardcore::genre
         Mod Revival::genre
         Pigfuck::genre
         Post-Punk
@@ -3667,14 +3682,11 @@ Genres
                     Algerian Chaabi::genre
                     Andalusian Classical Music::genre
                     Banga::genre
+                    Bedoui wahrani::genre
                     Gnawa::genre
                     Jilala Music::genre
                     Malhun::genre
                     Moroccan Chaabi::genre
-                    Raï
-                        Raï::genre
-                        Pop Raï::genre
-                        Traditional Raï::genre
                 Moorish Music::genre
             Northeastern African Music
                 Northeastern African Music::genre
@@ -3834,6 +3846,7 @@ Genres
                     Arabic Bellydance Music::genre
                     Raqs baladi::genre
                 Ayyalah::genre
+                Bedoui wahrani::genre
                 Fijiri::genre
                 Liwa::genre
                 Nuban::genre
@@ -3847,6 +3860,11 @@ Genres
                 Bedouin Music::genre
                 Aita::genre
                 Ayyalah::genre
+                Bedoui wahrani::genre
+                Raï
+                    Raï::genre
+                    Pop Raï::genre
+                    Traditional Raï::genre
                 Samri::genre
                 Shilla::genre
             Dabke::genre
@@ -6597,6 +6615,7 @@ Genres
                     Arabic Bellydance Music::genre
                     Raqs baladi::genre
                 Ayyalah::genre
+                Bedoui wahrani::genre
                 Fijiri::genre
                 Liwa::genre
                 Nuban::genre
@@ -7229,7 +7248,6 @@ Genres
                 Avant-Prog::genre
                 Brutal Prog::genre
                 Zeuhl::genre
-            Krautrock::genre
         Folk Rock
             Folk Rock::genre
             Alpenrock::genre
@@ -7316,6 +7334,7 @@ Genres
                     Emoviolence::genre
                 Swancore::genre
             Sass::genre
+            Tough Guy Hardcore::genre
         Heartland Rock::genre
         Industrial Rock
             Industrial Rock::genre
@@ -7745,8 +7764,8 @@ Genres
                     Barbershop::genre
                     Jubilee::genre
                 Doo-Wop::genre
-        Field Recordings
-            Field Recordings::genre
+        Field Recording
+            Field Recording::genre
             Nature Recordings
                 Nature Recordings::genre
                 Animal Sounds
@@ -7766,6 +7785,7 @@ Genres
             Purísima::genre
             Shape Note Singing::genre
         Jingles::genre
+        Krautrock::genre
         Mantra
             Mantra::genre
             Tibetan Buddhist Chant::genre
