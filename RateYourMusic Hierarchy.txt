@@ -372,7 +372,9 @@ Descriptors
         Introspective
             Introspective::mood
             Regret::mood
-        Law::mood
+        Law
+            Law::mood
+            Police::mood
         Leisure::mood
         LGBTQ
             LGBTQ::mood
@@ -439,7 +441,6 @@ Descriptors
             Nihilistic::mood
         Phones::mood
         Pirates::mood
-        Police::mood
         Prison::mood
         Radio::mood
         Rejection::mood
@@ -2074,6 +2075,7 @@ Genres
                 Moutya::genre
                 Ngoma
                     Ngoma::genre
+                    Chakacha::genre
                     Unyago::genre
                 Southern African Folk Music
                     Southern African Folk Music::genre
@@ -3326,6 +3328,7 @@ Genres
             Folk Punk::genre
             Celtic Punk::genre
             Gypsy Punk::genre
+            Rustic Stomp::genre
         Hardcore [Punk]
             Hardcore [Punk]::genre
             Beatdown Hardcore::genre
@@ -3559,6 +3562,7 @@ Genres
                 Moutya::genre
                 Ngoma
                     Ngoma::genre
+                    Chakacha::genre
                     Unyago::genre
                 Southern African Folk Music
                     Southern African Folk Music::genre
@@ -3638,6 +3642,7 @@ Genres
                 Muziki wa dansi::genre
                 Ngoma
                     Ngoma::genre
+                    Chakacha::genre
                     Unyago::genre
                 Omutibo::genre
                 Shilluk Music::genre
@@ -3700,7 +3705,9 @@ Genres
                     Ethiopian Church Music::genre
                     Gurage Music::genre
                     Manzuma::genre
-                    Tigrinya Music::genre
+                    Tigrinya Music
+                        Tigrinya Music::genre
+                        Guayla::genre
                     Tizita::genre
                 Nubian Music::genre
                 Nuer Music::genre
@@ -6558,6 +6565,7 @@ Genres
                 Moutya::genre
                 Ngoma
                     Ngoma::genre
+                    Chakacha::genre
                     Unyago::genre
                 Southern African Folk Music
                     Southern African Folk Music::genre
@@ -7837,7 +7845,7 @@ Scenes & Movements
     Bosstown Sound::genre
     Boston Hardcore::genre
     Bristol Sound::genre
-    British Beat Room::genre
+    British Beat Boom::genre
     British Rhythm & Blues::genre
     British Trad Jazz::genre
     Britpop::genre
@@ -7857,6 +7865,7 @@ Scenes & Movements
         Canterbury Scene::genre
         Neo-Canterbury::genre
     Cascadian Black Metal::genre
+    CBGB Scene::genre
     CCM
         CCM::genre
         Jesus Music::genre
