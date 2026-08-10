@@ -162,7 +162,9 @@ Descriptors
         Complex::mood
         Crackly::mood
         Dense::mood
-        Dissonant::mood
+        Dissonant
+            Dissonant::mood
+            Skronky::mood
         Eclectic::mood
         Four on the floor::mood
         Fuzzy::mood
@@ -452,7 +454,9 @@ Descriptors
         Secrets::mood
         Self-hatred::mood
         Self-love::mood
-        Sexual::mood
+        Sexual
+            Sexual::mood
+            Kink::mood
         Shamanism::mood
         Shopping::mood
         Sleep
@@ -2529,6 +2533,7 @@ Genres
                     Carnavalito::genre
                     Chimaychi::genre
                     Chuscada::genre
+                    Huayno con Arpa::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -5641,6 +5646,7 @@ Genres
                         Carnavalito::genre
                         Chimaychi::genre
                         Chuscada::genre
+                        Huayno con Arpa::genre
                     Jibaro::genre
                     Joropo::genre
                     Malagueña venezolana::genre
@@ -5740,6 +5746,7 @@ Genres
                         Cumbia norteña peruana::genre
                         Cumbia sureña peruana::genre
                     Huaylarsh::genre
+                    Huayno con Arpa::genre
                     Música criolla peruana
                         Música criolla peruana::genre
                         Festejo::genre
@@ -5871,6 +5878,7 @@ Genres
                     Carnavalito::genre
                     Chimaychi::genre
                     Chuscada::genre
+                    Huayno con Arpa::genre
                 Morenada::genre
                 Tonada potosina::genre
             Indigenous North American Music
@@ -6480,6 +6488,7 @@ Genres
                     Carnavalito::genre
                     Chimaychi::genre
                     Chuscada::genre
+                    Huayno con Arpa::genre
                 Morenada::genre
                 Tonada potosina::genre
             Joropo::genre
@@ -6504,6 +6513,7 @@ Genres
                     Cumbia norteña peruana::genre
                     Cumbia sureña peruana::genre
                 Huaylarsh::genre
+                Huayno con Arpa::genre
                 Música criolla peruana
                     Música criolla peruana::genre
                     Festejo::genre
@@ -7019,6 +7029,7 @@ Genres
                     Carnavalito::genre
                     Chimaychi::genre
                     Chuscada::genre
+                    Huayno con Arpa::genre
                 Jibaro::genre
                 Joropo::genre
                 Malagueña venezolana::genre
@@ -7852,6 +7863,7 @@ Scenes & Movements
     Brno Alternative Scene::genre
     BRock::genre
     Brony Music::genre
+    Brumbeat::genre
     Burger-Highlife::genre
     C-Pop
         C-Pop::genre
@@ -7907,6 +7919,7 @@ Scenes & Movements
         Bronx Drill::genre
         Brooklyn Drill::genre
         DMV Hip Hop::genre
+    Echtzeitmusik::genre
     Emo Revival::genre
     English Underground
         English Underground::genre
@@ -7969,6 +7982,7 @@ Scenes & Movements
     Little Band Scene::genre
     Loft Jazz::genre
     Los Angeles Counterculture::genre
+    Los Angeles Hardcore::genre
     Louisville Sound::genre
     Madchester::genre
     Maidcore::genre
@@ -7995,6 +8009,7 @@ Scenes & Movements
     New Brunswick Basement Scene::genre
     New Direction::genre
     New London Jazz::genre
+    New London Silence::genre
     New Music::genre
     New Orleans Blues::genre
     New Partisans::genre
@@ -8071,6 +8086,7 @@ Scenes & Movements
     San Francisco Sound
         San Francisco Sound::genre
         Haight-Ashbury Scene::genre
+    São Paulo Queer Underground::genre
     Scene
         Scene::genre
         Happy Rock::genre
@@ -8134,6 +8150,7 @@ Scenes & Movements
         Vocaloid Scene::genre
         Utaite::genre
     Voëlvry Movement::genre
+    VTuber Music::genre
     Warez Scene::genre
     West Coast Hip Hop
         West Coast Hip Hop::genre
