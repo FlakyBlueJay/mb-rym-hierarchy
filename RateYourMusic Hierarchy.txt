@@ -9,6 +9,7 @@ Descriptors
         Dark
             Dark::mood
             Funereal::mood
+            Gothic::mood
             Infernal::mood
             Ominous::mood
         Daytime::mood
@@ -38,7 +39,7 @@ Descriptors
         Party::mood
         Pastoral::mood
         Peaceful::mood
-        Pyschedelic::mood
+        Psychedelic::mood
         Ritualistic::mood
         Seasonal
             Seasonal::mood
@@ -211,6 +212,7 @@ Descriptors
                 Improvisiation::mood
                 Freestyle::mood
                 Jamming::mood
+            Mixed meter::mood
             Polyrhythm::mood
             Through-composed::mood
             Triple metre::mood
@@ -297,6 +299,7 @@ Descriptors
             Fashion::mood
             Cosmetics::mood
             Jewelry::mood
+        Fear::mood
         Fire::mood
         Fishing::mood
         Flirting::mood
@@ -374,6 +377,7 @@ Descriptors
         Introspective
             Introspective::mood
             Regret::mood
+        Kissing::mood
         Law
             Law::mood
             Police::mood
@@ -419,7 +423,9 @@ Descriptors
             Animals
                 Animals::mood
                 Birds::mood
+                Bugs::mood
                 Cats::mood
+                Dogs::mood
                 Horses::mood
                 Hunting::mood
                 Pets::mood
@@ -2220,6 +2226,7 @@ Genres
                 Chinese Folk Music
                     Chinese Folk Music::genre
                     Chaozhou xianshi::genre
+                    Dongzu dage::genre
                     Han Folk Music::genre
                     Haozi::genre
                     Jiangnan sizhu::genre
@@ -3112,7 +3119,9 @@ Genres
         City Pop
             City Pop::genre
             Neo-City Pop::genre
-        Classical Crossover::genre
+        Classical Crossover
+            Classical Crossover::genre
+            Operatic Pop::genre
         Country Pop
             Country Pop::genre
             Boyfriend Country::genre
@@ -3975,6 +3984,7 @@ Genres
                     Chinese Folk Music
                         Chinese Folk Music::genre
                         Chaozhou xianshi::genre
+                        Dongzu dage::genre
                         Han Folk Music::genre
                         Haozi::genre
                         Jiangnan sizhu::genre
@@ -4049,6 +4059,7 @@ Genres
                     Chinese Folk Music
                         Chinese Folk Music::genre
                         Chaozhou xianshi::genre
+                        Dongzu dage::genre
                         Han Folk Music::genre
                         Haozi::genre
                         Jiangnan sizhu::genre
@@ -4200,6 +4211,7 @@ Genres
                     Indian Pop::genre
                     Bohjpuri Pop::genre
                 Indo Jazz::genre
+                Jhumar::genre
                 Newa Music::genre
                 Pop Ghazal::genre
                 Rigsar::genre
@@ -6201,6 +6213,7 @@ Genres
             Cante alentejano::genre
             Cantu a tenore::genre
             Contenance angloise::genre
+            Dongzu dage::genre
             Ganga::genre
             Himene tarava::genre
             Izvorna bosanska muzika::genre
@@ -6716,6 +6729,7 @@ Genres
                 Chinese Folk Music
                     Chinese Folk Music::genre
                     Chaozhou xianshi::genre
+                    Dongzu dage::genre
                     Han Folk Music::genre
                     Haozi::genre
                     Jiangnan sizhu::genre
@@ -7756,6 +7770,7 @@ Genres
                 Cante alentejano::genre
                 Cantu a tenore::genre
                 Contenance angloise::genre
+                Dongzu dage::genre
                 Ganga::genre
                 Himene tarava::genre
                 Izvorna bosanska muzika::genre
@@ -7977,6 +7992,7 @@ Scenes & Movements
     Kansai No Wave::genre
     Kawaii Metal::genre
     LA Beat Scene::genre
+    La Onda::genre
     Laurel Canyon Scene::genre
     Leningrad Rock Club Scene::genre
     Little Band Scene::genre
@@ -8027,6 +8043,7 @@ Scenes & Movements
     NOLA Sludge::genre
     Northern Gothic::genre
     Northern Soul::genre
+    Nouvelle chanson française::genre
     Nova srpska scena::genre
     Nova vanguarda paulistana::genre
     Novaya scena::genre
