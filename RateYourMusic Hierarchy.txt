@@ -410,6 +410,7 @@ Descriptors
         Mathematics::mood
         Memory::mood
         Migration::mood
+        Monarchy::mood
         Money
             Money::mood
             Gambling::mood
@@ -756,7 +757,9 @@ Genres
                 Ars nova::genre
                 Ars subtilior::genre
                 Contenance angloise::genre
-                Medieval Lyric Poetry::genre
+                Medieval Lyric Poetry
+                    Medieval Lyric Poetry::genre
+                    Minnesang::genre
                 Plainsong
                     Plainsong::genre
                     Ambrosian Chant::genre
@@ -1044,6 +1047,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                    Skizzo::genre
                 TBM::genre
             Electro::genre
             Electro latino::genre
@@ -1562,6 +1566,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                    Skizzo::genre
                 TBM::genre
             Electro::genre
             Electro latino::genre
@@ -1997,9 +2002,7 @@ Genres
             Acousmatic Music::genre
             EAI::genre
             Musique concrète::genre
-        Free Improvisation
-            Free Improvisation::genre
-            EAI::genre
+        Free Improvisation::genre
         Futurism::genre
         Glitch::genre
         Graphical Sound::genre
@@ -2018,6 +2021,7 @@ Genres
             Gorenoise::genre
             Harsh Noise
                 Harsh Noise::genre
+                Cut-Up Noise::genre
                 Harsh Noise Wall::genre
             Power Electronics
                 Power Electronics::genre
@@ -2055,6 +2059,7 @@ Genres
             Indie Folk
                 Indie Folk::genre
                 Stomp and Holler::genre
+            Jibonmukhi gaan::genre
             Loner Folk::genre
             Neofolk
                 Neofolk::genre
@@ -2830,6 +2835,7 @@ Genres
             Gorenoise::genre
             Harsh Noise
                 Harsh Noise::genre
+                Cut-Up Noise::genre
                 Harsh Noise Wall::genre
             Power Electronics
                 Power Electronics::genre
@@ -2851,6 +2857,7 @@ Genres
                 New Beat
                     New Beat::genre
                     Hard Beat::genre
+                    Skizzo::genre
                 TBM::genre
             Electro-Industrial
                 Electro-Industrial::genre
@@ -3235,6 +3242,7 @@ Genres
             Pop Yeh-Yeh::genre
             Post-Britpop::genre
             Power Pop::genre
+            Rock Jiwang::genre
             Soft Rock
                 Soft Rock::genre
                 Tropical Rock::genre
@@ -3650,6 +3658,7 @@ Genres
                 Kapuka::genre
                 Kidandali::genre
                 Kidumbak::genre
+                Luo Music::genre
                 Marrabenta::genre
                 Mchiriku::genre
                 Mugithi::genre
@@ -4212,6 +4221,7 @@ Genres
                     Bohjpuri Pop::genre
                 Indo Jazz::genre
                 Jhumar::genre
+                Jibonmukhi gaan::genre
                 Newa Music::genre
                 Pop Ghazal::genre
                 Rigsar::genre
@@ -4359,6 +4369,7 @@ Genres
                         Malay Gamelan::genre
                     Malay Folk Music::genre
                     Pop Yeh-Yeh::genre
+                    Rock Jiwang::genre
                     Rock Kapak::genre
                 Molam
                     Molam::genre
@@ -4613,6 +4624,7 @@ Genres
                     Malay Gamelan::genre
                 Malay Folk Music::genre
                 Pop Yeh-Yeh::genre
+                Rock Jiwang::genre
                 Rock Kapak::genre
             Minangkabau Music
                 Minangkabau Music::genre
@@ -5259,6 +5271,7 @@ Genres
                 Lied::genre
                 Liedermacher::genre
                 Luxembourgish Folk Music::genre
+                Minnesang::genre
                 Romantische Oper::genre
                 Volkstümliche Musik::genre
                 Zeitoper::genre
@@ -5388,7 +5401,9 @@ Genres
                 Ars nova::genre
                 Ars subtilior::genre
                 Contenance angloise::genre
-                Medieval Lyric Poetry::genre
+                Medieval Lyric Poetry
+                    Medieval Lyric Poetry::genre
+                    Minnesang::genre
                 Plainsong
                     Plainsong::genre
                     Ambrosian Chant::genre
@@ -7516,6 +7531,7 @@ Genres
             Pop Yeh-Yeh::genre
             Post-Britpop::genre
             Power Pop::genre
+            Rock Jiwang::genre
             Soft Rock
                 Soft Rock::genre
                 Tropical Rock::genre
@@ -7656,6 +7672,7 @@ Genres
         Canzone d'autore::genre
         Chanson à texte::genre
         Euskal kantagintza berria::genre
+        Jibonmukhi gaan::genre
         Kleinkunst::genre
         Liedermacher::genre
         Música de intervenção::genre
@@ -8067,6 +8084,7 @@ Scenes & Movements
     Pansy Craze::genre
     Pécs Underground Scene::genre
     Pessoal do Ceará::genre
+    Pop de guitarras::genre
     Pop Kreatif::genre
     Pop Yeh-Yeh::genre
     Positive Punk::genre
