@@ -1161,6 +1161,7 @@ Genres
                 Frenchcore::genre
                 Gabber
                     Gabber::genre
+                    Dutch Trancecore::genre
                     Nu Style Gabber::genre
                 Happy Hardcore
                     Happy Hardcore::genre
@@ -1680,6 +1681,7 @@ Genres
                 Frenchcore::genre
                 Gabber
                     Gabber::genre
+                    Dutch Trancecore::genre
                     Nu Style Gabber::genre
                 Happy Hardcore
                     Happy Hardcore::genre
@@ -2381,6 +2383,7 @@ Genres
                         Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
+                    Fahrtenlied::genre
                     Gstanzl::genre
                     Pennsylvania Dutch Folk Music::genre
                 Għana::genre
@@ -3661,6 +3664,7 @@ Genres
                 Luo Music::genre
                 Marrabenta::genre
                 Mchiriku::genre
+                Mijikenda Music::genre
                 Mugithi::genre
                 Muziki wa dansi::genre
                 Ngoma
@@ -4832,6 +4836,7 @@ Genres
             Mass
                 Mass::genre
                 Requiem::genre
+            Moravian Church Music::genre
             Passion::genre
             Plainsong
                 Plainsong::genre
@@ -5117,6 +5122,7 @@ Genres
                         Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
+                    Fahrtenlied::genre
                     Gstanzl::genre
                     Pennsylvania Dutch Folk Music::genre
                 Għana::genre
@@ -5264,6 +5270,7 @@ Genres
                 Alsatian Folk Music::genre
                 German Folk Music
                     German Folk Music::genre
+                    Fahrtenlied::genre
                     Gstanzl::genre
                     Pennsylvania Dutch Folk Music::genre
                 Guggenmusik::genre
@@ -5418,6 +5425,7 @@ Genres
             Mélodie::genre
             Mittelalter-Metal::genre
             Mittelalter-Rock::genre
+            Moravian Church Music::genre
             Mulatós::genre
             Nordic Music
                 Nordic Music::genre
@@ -5638,6 +5646,7 @@ Genres
                     Cumbia salvadoreña::genre
                     Digital Cumbia::genre
                     Merecumbé::genre
+                    Tecnocumbia::genre
                 Currulao::genre
                 Dominican Music
                     Dominican Music::genre
@@ -6894,6 +6903,7 @@ Genres
                         Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
+                    Fahrtenlied::genre
                     Gstanzl::genre
                     Pennsylvania Dutch Folk Music::genre
                 Għana::genre
