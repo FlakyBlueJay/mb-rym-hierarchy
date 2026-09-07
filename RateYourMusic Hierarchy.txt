@@ -35,6 +35,7 @@ Descriptors
             Storm::mood
             Tropical::mood
             Wetland::mood
+            Wind::mood
         Nocturnal::mood
         Party::mood
         Pastoral::mood
@@ -71,7 +72,6 @@ Descriptors
             Vocal group::mood
         Medley::mood
         Monologue::mood
-        Novelty::mood
         Parody::mood
         Pastiche::mood
         Section
@@ -255,6 +255,7 @@ Descriptors
                 Antiracism::mood
         Conspiracy::mood
         Courage::mood
+        Creative process::mood
         Crime
             Crime::mood
             Theft::mood
@@ -491,6 +492,7 @@ Descriptors
             Vehicles::mood
             Cars::mood
             Trains::mood
+            Trucks::mood
         Vengeance::mood
         Video games::mood
         Vikings::mood
@@ -4795,6 +4797,7 @@ Genres
             Palo de mayo::genre
             Parang::genre
             Porro::genre
+            Reggae panameño::genre
             Soca
                 Soca::genre
                 Bashment Soca::genre
@@ -4814,6 +4817,7 @@ Genres
                 Punta::genre
             Palo de mayo::genre
             Purísima::genre
+            Reggae panameño::genre
             Son de pascua::genre
             Son nica::genre
             Tamborera::genre
@@ -5796,6 +5800,7 @@ Genres
                 Polka paraguaya::genre
                 Porro::genre
                 Purísima::genre
+                Reggae panameño::genre
                 Reggaetón
                     Reggaetón::genre
                     Bachatón::genre
@@ -5916,6 +5921,7 @@ Genres
                     Chuscada::genre
                     Huayno con Arpa::genre
                 Morenada::genre
+                Sikuri::genre
                 Tonada potosina::genre
             Indigenous North American Music
                 Indigenous North American Music::genre
@@ -6527,6 +6533,7 @@ Genres
                     Chuscada::genre
                     Huayno con Arpa::genre
                 Morenada::genre
+                Sikuri::genre
                 Tonada potosina::genre
             Joropo::genre
             Kaseko::genre
@@ -7846,7 +7853,9 @@ Genres
             Purísima::genre
             Shape Note Singing::genre
         Jingles::genre
-        Krautrock::genre
+        Krautrock
+            Krautrock::genre
+            Berlin School::genre
         Mantra
             Mantra::genre
             Tibetan Buddhist Chant::genre
@@ -7963,9 +7972,7 @@ Scenes & Movements
         DMV Hip Hop::genre
     Echtzeitmusik::genre
     Emo Revival::genre
-    English Underground
-        English Underground::genre
-        Ladbroke Grove Scene::genre
+    English Underground::genre
     Epadunk::genre
     Filk::genre
     First Wave of Detroit Techno::genre
@@ -7991,6 +7998,7 @@ Scenes & Movements
     Hipco::genre
     Hoboken Sound::genre
     Hollandse School::genre
+    Hollywood Punk::genre
     Holy Terror::genre
     Hưng ca::genre
     Impressionism::genre
@@ -8020,6 +8028,7 @@ Scenes & Movements
     Kawaii Metal::genre
     LA Beat Scene::genre
     La Onda::genre
+    Ladbroke Grove Scene::genre
     Laurel Canyon Scene::genre
     Leningrad Rock Club Scene::genre
     Little Band Scene::genre
@@ -8031,6 +8040,7 @@ Scenes & Movements
     Maidcore::genre
     Manguebeat::genre
     Manila Sound::genre
+    Medway Scene::genre
     Mentai Rock::genre
     Merseybeat::genre
     Midwest Hip Hop::genre
@@ -8147,6 +8157,7 @@ Scenes & Movements
         Picopop::genre
     Shimokita-kei::genre
     Siberian Punk::genre
+    Socialist Realism::genre
     SoundClown::genre
     Southern Hip Hop
         Southern Hip Hop::genre
