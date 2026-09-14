@@ -8058,6 +8058,7 @@ Scenes & Movements
     Nerdcore Hip Hop::genre
     Nerdcore Techno::genre
     Neue Deutsche Welle::genre
+    Neue Neue Deutsche Welle::genre
     Neue Volksmusik::genre
     New Brunswick Basement Scene::genre
     New Direction::genre
