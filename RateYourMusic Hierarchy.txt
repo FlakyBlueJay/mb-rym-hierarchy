@@ -160,6 +160,7 @@ Descriptors
         Bassy::mood
         Buzzy::mood
         Chaotic::mood
+        Clanging::mood
         Complex::mood
         Crackly::mood
         Dense::mood
@@ -226,6 +227,7 @@ Descriptors
                 Vocal chops::mood
             Wall of Sound::mood
         Rubato::mood
+        Tone clusters::mood
     Theme
         About music::mood
         Abstract::mood
@@ -247,6 +249,7 @@ Descriptors
         Boredom::mood
         Callback::mood
         Childhood::mood
+        Circus::mood
         Community::mood
         Conscious
             Conscious::mood
@@ -410,7 +413,9 @@ Descriptors
             Divorce::mood
         Mathematics::mood
         Memory::mood
-        Migration::mood
+        Migration
+            Migration::mood
+            Exile::mood
         Monarchy::mood
         Money
             Money::mood
@@ -521,7 +526,9 @@ Descriptors
         Gang vocals::mood
         Harsh vocals
             Harsh vocals::mood
-            Growling::mood
+            Growling
+                Growling::mood
+                Gurgling vocals::mood
             Pig squealing::mood
             Shrieking::mood
         Male vocalist::mood
@@ -651,6 +658,7 @@ Genres
                 Klasik::genre
                 Qawwali::genre
                 Shabad kirtan::genre
+                Tappa::genre
                 Tarana::genre
                 Thumri::genre
             Odissi Classical Music::genre
@@ -662,6 +670,7 @@ Genres
                 Balinese Gamelan
                     Balinese Gamelan::genre
                     Gamelan angklung::genre
+                    Gamelan gambang::genre
                     Gamelan gender wayang::genre
                     Gamelan gong gede::genre
                     Gamelan gong kebyar::genre
@@ -762,6 +771,7 @@ Genres
                 Medieval Lyric Poetry
                     Medieval Lyric Poetry::genre
                     Minnesang::genre
+                    Troubador Song::genre
                 Plainsong
                     Plainsong::genre
                     Ambrosian Chant::genre
@@ -2583,6 +2593,7 @@ Genres
                 Mapuche Folk Music::genre
                 Powwow Music::genre
                 Rabbit Song::genre
+                Stomp Dance Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Australian Traditional Music
@@ -2596,7 +2607,9 @@ Genres
             Samoyedic Folk Music::genre
             South Asian Folk Music
                 South Asian Folk Music::genre
-                Assamese Folk Music::genre
+                Assamese Folk Music
+                    Assamese Folk Music::genre
+                    Nagara naam::genre
                 Bengali Folk Music
                     Bengali Folk Music::genre
                     Baul gaan::genre
@@ -3265,6 +3278,7 @@ Genres
         Psychedelic Pop::genre
         Rabiz::genre
         Rigsar::genre
+        Rockaballad::genre
         Rumba catalana::genre
         Russian Chanson::genre
         Schlager
@@ -4245,12 +4259,15 @@ Genres
                         Klasik::genre
                         Qawwali::genre
                         Shabad kirtan::genre
+                        Tappa::genre
                         Tarana::genre
                         Thumri::genre
                     Odissi Classical Music::genre
                 South Asian Folk Music
                     South Asian Folk Music::genre
-                    Assamese Folk Music::genre
+                    Assamese Folk Music
+                        Assamese Folk Music::genre
+                        Nagara naam::genre
                     Bengali Folk Music
                         Bengali Folk Music::genre
                         Baul gaan::genre
@@ -4308,6 +4325,7 @@ Genres
                         Balinese Gamelan
                             Balinese Gamelan::genre
                             Gamelan angklung::genre
+                            Gamelan gambang::genre
                             Gamelan gender wayang::genre
                             Gamelan gong gede::genre
                             Gamelan gong kebyar::genre
@@ -4398,6 +4416,7 @@ Genres
                         Balinese Gamelan
                             Balinese Gamelan::genre
                             Gamelan angklung::genre
+                            Gamelan gambang::genre
                             Gamelan gender wayang::genre
                             Gamelan gong gede::genre
                             Gamelan gong kebyar::genre
@@ -4592,6 +4611,7 @@ Genres
                 Balinese Gamelan
                     Balinese Gamelan::genre
                     Gamelan angklung::genre
+                    Gamelan gambang::genre
                     Gamelan gender wayang::genre
                     Gamelan gong gede::genre
                     Gamelan gong kebyar::genre
@@ -5415,6 +5435,7 @@ Genres
                 Medieval Lyric Poetry
                     Medieval Lyric Poetry::genre
                     Minnesang::genre
+                    Troubador Song::genre
                 Plainsong
                     Plainsong::genre
                     Ambrosian Chant::genre
@@ -5626,6 +5647,7 @@ Genres
                     Tumba francesa::genre
                 Cumbia
                     Cumbia::genre
+                    Cachaca::genre
                     Cumbia argentina
                         Cumbia argentina::genre
                         Cumbia santafesina::genre
@@ -5644,7 +5666,9 @@ Genres
                         Cumbia peruana::genre
                         Chicha::genre
                         Cumbia amazónica::genre
-                        Cumbia norteña peruana::genre
+                        Cumbia norteña peruana
+                            Cumbia norteña peruana::genre
+                            Cumbia sanjuanera::genre
                         Cumbia sureña peruana::genre
                     Cumbia pop::genre
                     Cumbia salvadoreña::genre
@@ -5783,7 +5807,9 @@ Genres
                         Cumbia peruana::genre
                         Chicha::genre
                         Cumbia amazónica::genre
-                        Cumbia norteña peruana::genre
+                        Cumbia norteña peruana
+                            Cumbia norteña peruana::genre
+                            Cumbia sanjuanera::genre
                         Cumbia sureña peruana::genre
                     Huaylarsh::genre
                     Huayno con Arpa::genre
@@ -5791,7 +5817,9 @@ Genres
                         Música criolla peruana::genre
                         Festejo::genre
                         Landó::genre
-                        Marinera::genre
+                        Marinera
+                            Marinera::genre
+                            Marinera norteña::genre
                         Polka peruana::genre
                         Tondero::genre
                         Vals criollo::genre
@@ -5906,6 +5934,7 @@ Genres
                 Mapuche Folk Music::genre
                 Powwow Music::genre
                 Rabbit Song::genre
+                Stomp Dance Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Andean Music
@@ -5943,6 +5972,7 @@ Genres
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
+                Stomp Dance Song::genre
             Mesoamerican Music
                 Mesoamerican Music::genre
                 Maya Music::genre
@@ -6159,6 +6189,7 @@ Genres
                 Powwow Music::genre
                 Pueblo Music::genre
                 Rabbit Song::genre
+                Stomp Dance Song::genre
             Louisiana Music
                 Louisiana Music::genre
                 Cajun Music
@@ -6485,6 +6516,7 @@ Genres
                         Vanera::genre
                 Xote::genre
             Bullerengue::genre
+            Cachaca::genre
             Calipso venezolano::genre
             Candombe beat::genre
             Caporal::genre
@@ -6554,7 +6586,9 @@ Genres
                     Cumbia peruana::genre
                     Chicha::genre
                     Cumbia amazónica::genre
-                    Cumbia norteña peruana::genre
+                    Cumbia norteña peruana
+                        Cumbia norteña peruana::genre
+                        Cumbia sanjuanera::genre
                     Cumbia sureña peruana::genre
                 Huaylarsh::genre
                 Huayno con Arpa::genre
@@ -6562,7 +6596,9 @@ Genres
                     Música criolla peruana::genre
                     Festejo::genre
                     Landó::genre
-                    Marinera::genre
+                    Marinera
+                        Marinera::genre
+                        Marinera norteña::genre
                     Polka peruana::genre
                     Tondero::genre
                     Vals criollo::genre
@@ -7108,6 +7144,7 @@ Genres
                 Mapuche Folk Music::genre
                 Powwow Music::genre
                 Rabbit Song::genre
+                Stomp Dance Song::genre
                 Tonada potosina::genre
                 Unakesa::genre
             Indigenous Australian Traditional Music
@@ -7121,7 +7158,9 @@ Genres
             Samoyedic Folk Music::genre
             South Asian Folk Music
                 South Asian Folk Music::genre
-                Assamese Folk Music::genre
+                Assamese Folk Music
+                    Assamese Folk Music::genre
+                    Nagara naam::genre
                 Bengali Folk Music
                     Bengali Folk Music::genre
                     Baul gaan::genre
@@ -7653,6 +7692,7 @@ Genres
         Rock & Roll
             Rock & Roll::genre
             Indorock::genre
+            Rockaballad::genre
             Rockabilly
                 Rockabilly::genre
                 Psychobilly::genre
@@ -7895,6 +7935,7 @@ Scenes & Movements
     Anarcho-Punk::genre
     Asian Underground::genre
     Aussie Pub Rock::genre
+    Austin New Sincerity::genre
     Authenticité::genre
     Bay Area Thrash Metal::genre
     Beach Music::genre
@@ -8208,6 +8249,7 @@ Scenes & Movements
         Utaite::genre
     Voëlvry Movement::genre
     VTuber Music::genre
+    Wandelweiser::genre
     Warez Scene::genre
     West Coast Hip Hop
         West Coast Hip Hop::genre
