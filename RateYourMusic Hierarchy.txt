@@ -216,7 +216,7 @@ Descriptors
             Mixed meter::mood
             Polyrhythm::mood
             Through-composed::mood
-            Triple metre::mood
+            Triple meter::mood
             Uncommon time signatures::mood
         Interpolation::mood
         Leitmotif::mood
@@ -268,6 +268,7 @@ Descriptors
             Homicide::mood
             Suicide::mood
         Decay::mood
+        Disappointment::mood
         Disaster
             Disaster::mood
             Drought::mood
@@ -309,6 +310,7 @@ Descriptors
         Flirting::mood
         Folklore::mood
         Food::mood
+        Freedom::mood
         Friendship::mood
         Gender
             Gender::mood
@@ -1133,7 +1135,9 @@ Genres
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
-                Jumpstyle::genre
+                Jumpstyle
+                    Jumpstyle::genre
+                    Frenchtek::genre
                 Lento violento::genre
                 Neo Rave::genre
                 NRG::genre
@@ -1335,6 +1339,7 @@ Genres
                 Minimal Techno
                     Minimal Techno::genre
                     Dub Techno::genre
+                    Neo-Trance::genre
                 Peak Time Techno::genre
                 TBM::genre
                 Wonky Techno::genre
@@ -1653,7 +1658,9 @@ Genres
                 Hardtek
                     Hardtek::genre
                     Raggatek::genre
-                Jumpstyle::genre
+                Jumpstyle
+                    Jumpstyle::genre
+                    Frenchtek::genre
                 Lento violento::genre
                 Neo Rave::genre
                 NRG::genre
@@ -1855,6 +1862,7 @@ Genres
                 Minimal Techno
                     Minimal Techno::genre
                     Dub Techno::genre
+                    Neo-Trance::genre
                 Peak Time Techno::genre
                 TBM::genre
                 Wonky Techno::genre
@@ -2631,7 +2639,9 @@ Genres
                     Marathi Folk Music::genre
                     Lavani::genre
                 Nepali lok geet::genre
-                Odia Folk Music::genre
+                Odia Folk Music
+                    Odia Folk Music::genre
+                    Pala::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
                 Rajasthani Folk Music::genre
@@ -3674,6 +3684,7 @@ Genres
                     Gengetone::genre
                 Gogo Music::genre
                 Inkiranya::genre
+                Kadodi::genre
                 Kapuka::genre
                 Kidandali::genre
                 Kidumbak::genre
@@ -4289,7 +4300,9 @@ Genres
                         Marathi Folk Music::genre
                         Lavani::genre
                     Nepali lok geet::genre
-                    Odia Folk Music::genre
+                    Odia Folk Music
+                        Odia Folk Music::genre
+                        Pala::genre
                     Pashto Folk Music::genre
                     Punjabi Folk Music::genre
                     Rajasthani Folk Music::genre
@@ -7182,7 +7195,9 @@ Genres
                     Marathi Folk Music::genre
                     Lavani::genre
                 Nepali lok geet::genre
-                Odia Folk Music::genre
+                Odia Folk Music
+                    Odia Folk Music::genre
+                    Pala::genre
                 Pashto Folk Music::genre
                 Punjabi Folk Music::genre
                 Rajasthani Folk Music::genre
@@ -7772,7 +7787,9 @@ Genres
         Uncategorised::genre
         Ambient Pop::genre
         ASMR::genre
-        Audio Documentary::genre
+        Audio Documentary
+            Audio Documentary::genre
+            Sound Map::genre
         Beatboxing::genre
         Bugle Call::genre
         Children's Music
@@ -7883,6 +7900,7 @@ Genres
                     Whale Song::genre
                 Rain Sounds::genre
             Radio Broadcast Recordings::genre
+            Sound Map::genre
         Hanmai::genre
         Hauntology::genre
         Hymn
@@ -7937,6 +7955,7 @@ Scenes & Movements
     Aussie Pub Rock::genre
     Austin New Sincerity::genre
     Authenticité::genre
+    Ballroom::genre
     Bay Area Thrash Metal::genre
     Beach Music::genre
     Beijing New Sound::genre
@@ -8120,6 +8139,7 @@ Scenes & Movements
     New York School::genre
     No Wave::genre
     NOLA Sludge::genre
+    Non-Music Beijing Scene::genre
     Northern Gothic::genre
     Northern Soul::genre
     Nouvelle chanson française::genre
