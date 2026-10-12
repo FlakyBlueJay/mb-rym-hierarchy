@@ -248,6 +248,7 @@ Descriptors
         Birthday::mood
         Boredom::mood
         Callback::mood
+        Card games::mood
         Childhood::mood
         Circus::mood
         Community::mood
@@ -388,7 +389,9 @@ Descriptors
         Law
             Law::mood
             Police::mood
-        Leisure::mood
+        Leisure
+            Leisure::mood
+            Vacation::mood
         LGBTQ
             LGBTQ::mood
             Bisexual::mood
@@ -1354,6 +1357,7 @@ Genres
             Trance
                 Trance::genre
                 Acid Trance::genre
+                Balearic Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
                 Electro Trance::genre
@@ -1364,7 +1368,6 @@ Genres
                         Buchiage Trance::genre
                 Hard Trance::genre
                 Hi-Tech Full-On::genre
-                Ibiza Trance::genre
                 NRG::genre
                 Progressive Trance::genre
                 Psytrance
@@ -1877,6 +1880,7 @@ Genres
             Trance
                 Trance::genre
                 Acid Trance::genre
+                Balearic Trance::genre
                 Big Room Trance::genre
                 Dream Trance::genre
                 Electro Trance::genre
@@ -1887,7 +1891,6 @@ Genres
                         Buchiage Trance::genre
                 Hard Trance::genre
                 Hi-Tech Full-On::genre
-                Ibiza Trance::genre
                 NRG::genre
                 Progressive Trance::genre
                 Psytrance
@@ -2349,7 +2352,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
@@ -2697,7 +2700,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Fijiri::genre
                 Israeli Folk Music::genre
@@ -2707,7 +2710,9 @@ Genres
                 Turkish Folk Music
                     Turkish Folk Music::genre
                     Turkish Black Sea Region Folk Music::genre
-                    Uzun Hava::genre
+                    Uzun Hava
+                        Uzun Hava::genre
+                        Bozlak::genre
                     Zeybek::genre
             Work Song
                 Work Song::genre
@@ -4562,7 +4567,7 @@ Genres
                             Avar Folk Music::genre
                         Georgian Folk Music
                             Georgian Folk Music::genre
-                            Batonebi Songs::genre
+                            Batonebi Song::genre
                         Ossetian Folk Music::genre
                     Karachay-Balkarian Music::genre
                     Rabiz::genre
@@ -4611,7 +4616,9 @@ Genres
                     Turkish Folk Music
                         Turkish Folk Music::genre
                         Turkish Black Sea Region Folk Music::genre
-                        Uzun Hava::genre
+                        Uzun Hava
+                            Uzun Hava::genre
+                            Bozlak::genre
                         Zeybek::genre
                     Turkish Pop::genre
                 West Asian Folk Music
@@ -4632,7 +4639,7 @@ Genres
                             Avar Folk Music::genre
                         Georgian Folk Music
                             Georgian Folk Music::genre
-                            Batonebi Songs::genre
+                            Batonebi Song::genre
                         Ossetian Folk Music::genre
                     Fijiri::genre
                     Israeli Folk Music::genre
@@ -4642,7 +4649,9 @@ Genres
                     Turkish Folk Music
                         Turkish Folk Music::genre
                         Turkish Black Sea Region Folk Music::genre
-                        Uzun Hava::genre
+                        Uzun Hava
+                            Uzun Hava::genre
+                            Bozlak::genre
                         Zeybek::genre
                 Yemenite Jewish Diwan::genre
         Austronesian Music
@@ -5057,7 +5066,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Karachay-Balkarian Music::genre
                 Rabiz::genre
@@ -5162,7 +5171,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
@@ -5746,6 +5755,7 @@ Genres
                         Cumbia sureña peruana::genre
                     Cumbia pop::genre
                     Cumbia salvadoreña::genre
+                    Cumbia tejana::genre
                     Digital Cumbia::genre
                     Merecumbé::genre
                     Tecnocumbia::genre
@@ -5863,7 +5873,9 @@ Genres
                             Sierreño::genre
                             Corrido tumbado::genre
                     Ranchera::genre
-                    Tejano Music::genre
+                    Tejano Music
+                        Tejano Music::genre
+                        Cumbia tejana::genre
                 New Mexico Music::genre
                 Nueva canción latinoamericana
                     Nueva canción latinoamericana::genre
@@ -6054,6 +6066,7 @@ Genres
                 Pirekua::genre
         Islamic Religious Music & Recitation
             Islamic Religious Music & Recitation::genre
+            Adhan::genre
             Ginan::genre
             Jilala Music::genre
             Maddahi
@@ -6297,7 +6310,9 @@ Genres
                 Texan Music::genre
                 Acoustic Texas Blues::genre
                 Electric Texas Blues::genre
-                Tejano Music::genre
+                Tejano Music
+                    Tejano Music::genre
+                    Cumbia tejana::genre
                 Tex-Mex::genre
             Tin Pan Alley::genre
             Vaudeville
@@ -6341,6 +6356,7 @@ Genres
                 Tahitian Music
                     Tahitian Music::genre
                     'Ote'a::genre
+                Tongan Music::genre
         Polyphonic Chant
             Polyphonic Chant::genre
             Ars nova::genre
@@ -6963,7 +6979,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Celtic Folk Music
                     Celtic Folk Music::genre
@@ -7311,7 +7327,7 @@ Genres
                         Avar Folk Music::genre
                     Georgian Folk Music
                         Georgian Folk Music::genre
-                        Batonebi Songs::genre
+                        Batonebi Song::genre
                     Ossetian Folk Music::genre
                 Fijiri::genre
                 Israeli Folk Music::genre
@@ -7321,7 +7337,9 @@ Genres
                 Turkish Folk Music
                     Turkish Folk Music::genre
                     Turkish Black Sea Region Folk Music::genre
-                    Uzun Hava::genre
+                    Uzun Hava
+                        Uzun Hava::genre
+                        Bozlak::genre
                     Zeybek::genre
             Work Song
                 Work Song::genre
@@ -7869,7 +7887,7 @@ Genres
             Children's Music::genre
             Lullabies
                 Lullabies::genre
-                Batonebi Songs::genre
+                Batonebi Song::genre
             Nursery Rhymes::genre
         Comedy
             Comedy::genre
