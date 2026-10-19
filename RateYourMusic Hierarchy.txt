@@ -217,6 +217,7 @@ Descriptors
                 Jamming::mood
             Mixed meter::mood
             Polyrhythm::mood
+            Swing rhythm::mood
             Through-composed::mood
             Triple meter::mood
             Uncommon time signatures::mood
@@ -252,6 +253,7 @@ Descriptors
         Childhood::mood
         Circus::mood
         Community::mood
+        Confusion::mood
         Conscious
             Conscious::mood
             Antidiscrimination
@@ -489,6 +491,7 @@ Descriptors
             Boxing::mood
             Racing::mood
             Skateboarding::mood
+            Surfing::mood
             Wrestling::mood
         Suburban::mood
         Success::mood
@@ -709,6 +712,7 @@ Genres
                 Khrueang sai::genre
                 Piphat::genre
         Tibetan Buddhist Chant::genre
+        Ufie Music::genre
         Western Classical Music
             Western Classical Music::genre
             Art Song
@@ -934,7 +938,6 @@ Genres
         Dance::genre
         Alternative Dance
             Alternative Dance::genre
-            Grebo::genre
             New Rave::genre
         Dance-Pop
             Dance-Pop::genre
@@ -3015,6 +3018,7 @@ Genres
             Pagan Black Metal::genre
             Symphonic Black Metal::genre
             War Metal::genre
+        Christian Metal::genre
         Death Metal
             Death Metal::genre
             Brutal Death Metal
@@ -3263,6 +3267,7 @@ Genres
         Persian Pop::genre
         Pop Batak::genre
         Pop Ghazal::genre
+        Pop Kreatif::genre
         Pop Minang
             Pop Minang::genre
             Talempong goyang::genre
@@ -3876,6 +3881,7 @@ Genres
                 Igbo Music
                     Igbo Music::genre
                     Ogene Music::genre
+                    Ufie Music::genre
                 Kabye Folk Music::genre
                 Kru Music
                     Kru Music::genre
@@ -7385,7 +7391,6 @@ Genres
             Alternative Rock::genre
             Alternative Dance
                 Alternative Dance::genre
-                Grebo::genre
                 New Rave::genre
             Britpop::genre
             Dream Pop::genre
@@ -7399,6 +7404,7 @@ Genres
                 Dolewave::genre
                 Dunedin Sound::genre
                 Garage Rock Revival::genre
+                Grebo::genre
                 Indie Surf::genre
                 Math Pop::genre
                 Midwest Emo::genre
@@ -7583,6 +7589,7 @@ Genres
                 Pagan Black Metal::genre
                 Symphonic Black Metal::genre
                 War Metal::genre
+            Christian Metal::genre
             Death Metal
                 Death Metal::genre
                 Brutal Death Metal
@@ -8044,6 +8051,7 @@ Scenes & Movements
     Akron Sound::genre
     Alté::genre
     Anarcho-Punk::genre
+    Anison::genre
     Asian Underground::genre
     Aussie Pub Rock::genre
     Austin New Sincerity::genre
@@ -8173,6 +8181,7 @@ Scenes & Movements
         Japanese Idol::genre
         Alternative Idol::genre
     Jersey Shore Sound::genre
+    Joseon Punk::genre
     Jovem Guarda::genre
     K-Pop
         K-Pop::genre
@@ -8284,6 +8293,7 @@ Scenes & Movements
     Rock triste::genre
     Rock urbano español::genre
     Rock urbano mexicano::genre
+    Rockabilly Revival::genre
     Roman School::genre
     Romanticism
         Romanticism::genre
@@ -8291,6 +8301,7 @@ Scenes & Movements
         New German School::genre
         Romantische Oper::genre
         Saint Petersburg School::genre
+    Romo::genre
     Russemusikk::genre
     San Diego Sound::genre
     San Francisco Sound
