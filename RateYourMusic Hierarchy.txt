@@ -331,7 +331,9 @@ Descriptors
         Healing::mood
         Health
             Health::mood
-            Disease::mood
+            Disease
+                Disease::mood
+                HIV and AIDS::mood
             Fitness::mood
             Injury::mood
             Mental health
@@ -644,6 +646,7 @@ Genres
                 Arabic Classical Music::genre
                 Andalusian Classical Music::genre
                 Iraqi Maqam::genre
+                Sana'ani Song::genre
                 Sawt::genre
             Azerbaijani Mugham::genre
             Bayawan::genre
@@ -2590,7 +2593,9 @@ Genres
                     Son istmeño::genre
                     Son jarocho::genre
                     Trova yucateca::genre
-                Milonga::genre
+                Milonga
+                    Milonga::genre
+                    Milonga ciudadana::genre
                 Muliza::genre
                 Música llanera::genre
                 Plena::genre
@@ -2987,9 +2992,7 @@ Genres
         Spy Music::genre
         Stride::genre
         Sweet Jazz::genre
-        Swing
-            Swing::genre
-            Swing Revival::genre
+        Swing::genre
         Third Stream::genre
         Vocal Jazz
             Vocal Jazz::genre
@@ -3925,6 +3928,7 @@ Genres
                 Arabic Classical Music::genre
                 Andalusian Classical Music::genre
                 Iraqi Maqam::genre
+                Sana'ani Song::genre
                 Sawt::genre
             Arabic Folk Music
                 Arabic Folk Music::genre
@@ -4608,6 +4612,7 @@ Genres
                     Persian Classical Music::genre
                     Persian Folk Music::genre
                     Persian Pop::genre
+                Sana'ani Song::genre
                 Turkish Music
                     Turkish Music::genre
                     Anatolian Rock::genre
@@ -5813,7 +5818,9 @@ Genres
                         Son istmeño::genre
                         Son jarocho::genre
                         Trova yucateca::genre
-                    Milonga::genre
+                    Milonga
+                        Milonga::genre
+                        Milonga ciudadana::genre
                     Muliza::genre
                     Música llanera::genre
                     Plena::genre
@@ -5860,6 +5867,7 @@ Genres
                             Cumbia sonidera::genre
                             Cumbia rebajada::genre
                     Cumbiatón::genre
+                    Grupero::genre
                     Mariachi::genre
                     Mexican Folk Music
                         Mexican Folk Music::genre
@@ -5940,11 +5948,14 @@ Genres
                     Chamarrita rioplatense::genre
                     Cumbia pop::genre
                     Electrotango::genre
-                    Milonga::genre
+                    Milonga
+                        Milonga::genre
+                        Milonga ciudadana::genre
                     Murga uruguaya::genre
                     Tango
                         Tango::genre
                         Finnish Tango::genre
+                        Milonga ciudadana::genre
                         Tango Nuevo::genre
                 Rock andino::genre
                 Salsa
@@ -6124,6 +6135,7 @@ Genres
                 Arabic Classical Music::genre
                 Andalusian Classical Music::genre
                 Iraqi Maqam::genre
+                Sana'ani Song::genre
                 Sawt::genre
             Azerbaijani Mugham::genre
             Bayawan::genre
@@ -6363,6 +6375,7 @@ Genres
                     Tahitian Music::genre
                     'Ote'a::genre
                 Tongan Music::genre
+            Siren Jam::genre
         Polyphonic Chant
             Polyphonic Chant::genre
             Ars nova::genre
@@ -6709,11 +6722,14 @@ Genres
                 Chamarrita rioplatense::genre
                 Cumbia pop::genre
                 Electrotango::genre
-                Milonga::genre
+                Milonga
+                    Milonga::genre
+                    Milonga ciudadana::genre
                 Murga uruguaya::genre
                 Tango
                     Tango::genre
                     Finnish Tango::genre
+                    Milonga ciudadana::genre
                     Tango Nuevo::genre
             Rock andino::genre
             Salsa choke::genre
@@ -7220,7 +7236,9 @@ Genres
                     Son istmeño::genre
                     Son jarocho::genre
                     Trova yucateca::genre
-                Milonga::genre
+                Milonga
+                    Milonga::genre
+                    Milonga ciudadana::genre
                 Muliza::genre
                 Música llanera::genre
                 Plena::genre
@@ -8093,9 +8111,7 @@ Scenes & Movements
     CCM
         CCM::genre
         Jesus Music::genre
-        Praise & Worship
-            Praise & Worship::genre
-            Praise Break::genre
+        Praise & Worship::genre
         Urban Contemporary Gospel::genre
     Česká alternativní scéna::genre
     Česká nová vlna::genre
@@ -8104,6 +8120,9 @@ Scenes & Movements
     Chicago School::genre
     Chikipunk::genre
     Christian Hardcore::genre
+    City Pop
+        City Pop::genre
+        Neo-City Pop::genre
     Cleveland Punk::genre
     Clube da esquina::genre
     Cocktail Nation::genre
@@ -8123,6 +8142,7 @@ Scenes & Movements
     Doujin Music
         Doujin Music::genre
         Touhou Music::genre
+    Downtown Music::genre
     Du ca::genre
     Dunedin Sound::genre
     Düsseldorf School::genre
