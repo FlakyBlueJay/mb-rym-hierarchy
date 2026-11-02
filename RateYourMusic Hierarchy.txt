@@ -221,6 +221,7 @@ Descriptors
             Through-composed::mood
             Triple meter::mood
             Uncommon time signatures::mood
+        Downtuning::mood
         Interpolation::mood
         Leitmotif::mood
         Production
@@ -236,6 +237,7 @@ Descriptors
         Afterlife
             Afterlife::mood
             Ghosts::mood
+            Reincarnation::mood
         Ageing::mood
         Alienation::mood
         Aliens::mood
@@ -275,6 +277,7 @@ Descriptors
         Disaster
             Disaster::mood
             Drought::mood
+            Pandemic::mood
         Dishonesty::mood
         Domestic::mood
         Drugs
@@ -334,6 +337,7 @@ Descriptors
             Disease
                 Disease::mood
                 HIV and AIDS::mood
+                Pandemic::mood
             Fitness::mood
             Injury::mood
             Mental health
@@ -439,6 +443,7 @@ Descriptors
             Nature::mood
             Animals
                 Animals::mood
+                Amphibians::mood
                 Birds::mood
                 Bugs::mood
                 Cats::mood
@@ -552,6 +557,7 @@ Descriptors
             Scat singing::mood
         Pitched-down vocals::mood
         Pitched-up vocals::mood
+        Raspy vocals::mood
         Sing-rapping::mood
         Stuttering vocals::mood
         Talk-singing::mood
@@ -2408,11 +2414,6 @@ Genres
                     Musette
                         Musette::genre
                         Swing musette::genre
-                    Occitan Folk Music
-                        Occitan Folk Music::genre
-                        Auvergnat Folk Music::genre
-                        Gascon Folk Music::genre
-                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Fahrtenlied::genre
@@ -2461,6 +2462,11 @@ Genres
                     Swedish Folk Music
                         Swedish Folk Music::genre
                         Hambo::genre
+                Occitan Folk Music
+                    Occitan Folk Music::genre
+                    Auvergnat Folk Music::genre
+                    Gascon Folk Music::genre
+                    Polifonia occitana::genre
                 Polka
                     Polka::genre
                     Chicago Polka::genre
@@ -2599,6 +2605,7 @@ Genres
                 Muliza::genre
                 Música llanera::genre
                 Plena::genre
+                Sanjuanito::genre
                 Saya::genre
                 Tamborito::genre
                 Taquirari::genre
@@ -5232,11 +5239,6 @@ Genres
                     Musette
                         Musette::genre
                         Swing musette::genre
-                    Occitan Folk Music
-                        Occitan Folk Music::genre
-                        Auvergnat Folk Music::genre
-                        Gascon Folk Music::genre
-                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Fahrtenlied::genre
@@ -5285,6 +5287,11 @@ Genres
                     Swedish Folk Music
                         Swedish Folk Music::genre
                         Hambo::genre
+                Occitan Folk Music
+                    Occitan Folk Music::genre
+                    Auvergnat Folk Music::genre
+                    Gascon Folk Music::genre
+                    Polifonia occitana::genre
                 Polka
                     Polka::genre
                     Chicago Polka::genre
@@ -5453,6 +5460,7 @@ Genres
                 Spanish Music
                     Spanish Music::genre
                     Bolero español::genre
+                    Cantabrian Music::genre
                     Flamenco
                         Flamenco::genre
                         Bulería::genre
@@ -5824,6 +5832,7 @@ Genres
                     Muliza::genre
                     Música llanera::genre
                     Plena::genre
+                    Sanjuanito::genre
                     Saya::genre
                     Tamborito::genre
                     Taquirari::genre
@@ -5987,6 +5996,7 @@ Genres
             Spanish Music
                 Spanish Music::genre
                 Bolero español::genre
+                Cantabrian Music::genre
                 Flamenco
                     Flamenco::genre
                     Bulería::genre
@@ -6053,6 +6063,7 @@ Genres
                     Chuscada::genre
                     Huayno con Arpa::genre
                 Morenada::genre
+                Sanjuanito::genre
                 Sikuri::genre
                 Tonada potosina::genre
             Indigenous North American Music
@@ -6674,6 +6685,7 @@ Genres
                     Chuscada::genre
                     Huayno con Arpa::genre
                 Morenada::genre
+                Sanjuanito::genre
                 Sikuri::genre
                 Tonada potosina::genre
             Joropo::genre
@@ -7051,11 +7063,6 @@ Genres
                     Musette
                         Musette::genre
                         Swing musette::genre
-                    Occitan Folk Music
-                        Occitan Folk Music::genre
-                        Auvergnat Folk Music::genre
-                        Gascon Folk Music::genre
-                        Polifonia occitana::genre
                 German Folk Music
                     German Folk Music::genre
                     Fahrtenlied::genre
@@ -7104,6 +7111,11 @@ Genres
                     Swedish Folk Music
                         Swedish Folk Music::genre
                         Hambo::genre
+                Occitan Folk Music
+                    Occitan Folk Music::genre
+                    Auvergnat Folk Music::genre
+                    Gascon Folk Music::genre
+                    Polifonia occitana::genre
                 Polka
                     Polka::genre
                     Chicago Polka::genre
@@ -7242,6 +7254,7 @@ Genres
                 Muliza::genre
                 Música llanera::genre
                 Plena::genre
+                Sanjuanito::genre
                 Saya::genre
                 Tamborito::genre
                 Taquirari::genre
