@@ -213,6 +213,7 @@ Descriptors
             Generative music::mood
             Improvisiation
                 Improvisiation::mood
+                Collective improvisation::mood
                 Freestyle::mood
                 Jamming::mood
             Mixed meter::mood
@@ -1499,6 +1500,7 @@ Genres
             Acousmatic Music::genre
             EAI::genre
             Musique concrète::genre
+            Text-Sound Composition::genre
         Electronic Dance Music
             Electronic Dance Music::genre
             Artcore
@@ -2042,6 +2044,7 @@ Genres
             Acousmatic Music::genre
             EAI::genre
             Musique concrète::genre
+            Text-Sound Composition::genre
         Free Improvisation::genre
         Futurism::genre
         Glitch::genre
@@ -2077,7 +2080,9 @@ Genres
             Sound Collage::genre
             Epic Collage::genre
             Micromontage::genre
-        Sound Poetry::genre
+        Sound Poetry
+            Sound Poetry::genre
+            Text-Sound Composition::genre
         Tape Music::genre
         Turntable Music::genre
     Folk
@@ -3915,6 +3920,7 @@ Genres
                     Santería Music::genre
                     Waka::genre
                     Yoruba Folk Opera::genre
+                Zikiri::genre
                 Zouglou
                     Zouglou::genre
                     Coupé-décalé::genre
@@ -6763,6 +6769,7 @@ Genres
             Sufi Rock::genre
             Sufiana kalam::genre
             Turkish Mevlevi Music::genre
+            Zikiri::genre
         Traditional Folk Music
             Traditional Folk Music::genre
             African Folk Music
@@ -7906,7 +7913,9 @@ Genres
             Jazz Poetry::genre
             Punk Poetry::genre
             Slam Poetry::genre
-            Sound Poetry::genre
+            Sound Poetry
+                Sound Poetry::genre
+                Text-Sound Composition::genre
         Radio Drama::genre
         Speeches
             Speeches::genre
@@ -8125,7 +8134,6 @@ Scenes & Movements
         CCM::genre
         Jesus Music::genre
         Praise & Worship::genre
-        Urban Contemporary Gospel::genre
     Česká alternativní scéna::genre
     Česká nová vlna::genre
     Český underground::genre
@@ -8197,9 +8205,7 @@ Scenes & Movements
     Hưng ca::genre
     Impressionism::genre
     Indie Sleaze Revival::genre
-    J-core
-        J-core::genre
-        Future Core::genre
+    J-core::genre
     J-Pop
         J-Pop::genre
         Akishibu-kei::genre
