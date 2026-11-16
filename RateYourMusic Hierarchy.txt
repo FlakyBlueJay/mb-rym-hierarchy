@@ -1139,6 +1139,7 @@ Genres
                 Weightless::genre
             Hard Dance
                 Hard Dance::genre
+                Deutscher Krach::genre
                 Hard Trance::genre
                 Hardstyle
                     Hardstyle::genre
@@ -1663,6 +1664,7 @@ Genres
                 Weightless::genre
             Hard Dance
                 Hard Dance::genre
+                Deutscher Krach::genre
                 Hard Trance::genre
                 Hardstyle
                     Hardstyle::genre
@@ -2475,6 +2477,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Cleveland-Style Polka::genre
                     Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
@@ -3293,7 +3296,6 @@ Genres
             Beat
                 Beat::genre
                 Freakbeat::genre
-                Group Sounds::genre
                 Jovem Guarda::genre
                 Merseybeat::genre
             Beat Rock::genre
@@ -3875,6 +3877,7 @@ Genres
                     Zoblazo::genre
                 Balani Show::genre
                 Dagomba Music::genre
+                Edo Music::genre
                 Ewe Music
                     Ewe Music::genre
                     Agbadza::genre
@@ -4924,6 +4927,7 @@ Genres
         Central American Music
             Central American Music::genre
             Brukdown::genre
+            Chanchona::genre
             Cumbia salvadoreña::genre
             Garifuna Music
                 Garifuna Music::genre
@@ -5301,6 +5305,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Cleveland-Style Polka::genre
                     Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
@@ -5701,6 +5706,7 @@ Genres
                 Caporal::genre
                 Carnaval cruceño::genre
                 Champeta::genre
+                Chanchona::genre
                 Chilean Music
                     Chilean Music::genre
                     Canto a lo poeta::genre
@@ -6226,6 +6232,7 @@ Genres
                 Newfoundland Folk Music::genre
             Chanson québécoise::genre
             Chicago Polka::genre
+            Cleveland-Style Polka::genre
             Coon Song::genre
             Country
                 Country::genre
@@ -7126,6 +7133,7 @@ Genres
                 Polka
                     Polka::genre
                     Chicago Polka::genre
+                    Cleveland-Style Polka::genre
                     Eastern-Style Polka::genre
                     Polka peruana::genre
                 Portuguese Folk Music
@@ -7721,7 +7729,6 @@ Genres
             Beat
                 Beat::genre
                 Freakbeat::genre
-                Group Sounds::genre
                 Jovem Guarda::genre
                 Merseybeat::genre
             Beat Rock::genre
